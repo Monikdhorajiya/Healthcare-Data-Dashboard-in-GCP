@@ -1,0 +1,1499 @@
+Name,Age,Gender,Blood Type,Doctor,Date of Admission,Disease,Hospital,Insurance Provider,Discharge Date,Medication,Test Results
+Bobby JacksOn,30,Male,B-,Matthew Smith,2024-01-31,Cancer,Sons and Miller,Blue Cross,2024-02-02,Paracetamol,Normal
+LesLie TErRy,62,Male,A+,Samantha Davies,2019-08-20,Obesity,Kim Inc,Medicare,2019-08-26,Ibuprofen,Inconclusive
+DaNnY sMitH,76,Female,A-,Tiffany Mitchell,2022-09-22,Obesity,Cook PLC,Aetna,2022-10-07,Aspirin,Normal
+andrEw waTtS,28,Female,O+,Kevin Wells,2020-11-18,Diabetes,"Hernandez Rogers and Vang,",Medicare,2020-12-18,Ibuprofen,Abnormal
+adrIENNE bEll,43,Female,AB+,Kathleen Hanna,2022-09-19,Cancer,White-White,Aetna,2022-10-09,Penicillin,Abnormal
+EMILY JOHNSOn,36,Male,A+,Taylor Newton,2023-12-20,Asthma,Nunez-Humphrey,UnitedHealthcare,2023-12-24,Ibuprofen,Normal
+edwArD EDWaRDs,21,Female,AB-,Kelly Olson,2020-11-03,Diabetes,Group Middleton,Medicare,2020-11-15,Paracetamol,Inconclusive
+CHrisTInA MARtinez,20,Female,A+,Suzanne Thomas,2021-12-28,Cancer,"Powell Robinson and Valdez,",Cigna,2022-01-07,Paracetamol,Inconclusive
+JASmINe aGuIlaR,82,Male,AB+,Daniel Ferguson,2020-07-01,Asthma,Sons Rich and,Cigna,2020-07-14,Aspirin,Abnormal
+ChRISTopher BerG,58,Female,AB-,Heather Day,2021-05-23,Cancer,Padilla-Walker,UnitedHealthcare,2021-06-22,Paracetamol,Inconclusive
+mIchElLe daniELs,72,Male,O+,John Duncan,2020-04-19,Cancer,Schaefer-Porter,Medicare,2020-04-22,Paracetamol,Normal
+aaRon MARtiNeZ,38,Female,A-,Douglas Mayo,2023-08-13,Hypertension,Lyons-Blair,Medicare,2023-09-05,Lipitor,Inconclusive
+connOR HANsEn,75,Female,A+,Kenneth Fletcher,2019-12-12,Diabetes,"Powers Miller, and Flores",Cigna,2019-12-28,Penicillin,Abnormal
+rObeRt bAuer,68,Female,AB+,Theresa Freeman,2020-05-22,Asthma,Rivera-Gutierrez,UnitedHealthcare,2020-06-19,Lipitor,Normal
+bROOkE brady,44,Female,AB+,Roberta Stewart,2021-10-08,Cancer,Morris-Arellano,UnitedHealthcare,2021-10-13,Paracetamol,Normal
+MS. nAtalIE gAMble,46,Female,AB-,Maria Dougherty,2023-01-01,Obesity,Cline-Williams,Blue Cross,2023-01-11,Aspirin,Inconclusive
+haley perkins,63,Female,A+,Erica Spencer,2020-06-23,Arthritis,Cervantes-Wells,UnitedHealthcare,2020-07-14,Paracetamol,Normal
+mRS. jamiE cAMPBELl,38,Male,AB-,Justin Kim,2020-03-08,Obesity,"Torres, and Harrison Jones",Cigna,2020-04-02,Paracetamol,Abnormal
+LuKE BuRgEss,34,Female,A-,Justin Moore Jr.,2021-03-04,Hypertension,Houston PLC,Blue Cross,2021-03-14,Aspirin,Abnormal
+dANIEL schmIdt,63,Male,B+,Denise Galloway,2022-11-15,Asthma,Hammond Ltd,Cigna,2022-11-22,Penicillin,Normal
+tIMOTHY burNs,67,Female,A-,Krista Smith,2023-06-28,Asthma,Jones LLC,Blue Cross,2023-07-02,Aspirin,Normal
+ChRISToPHEr BRiGhT,48,Male,B+,Gregory Smith,2020-01-21,Asthma,Williams-Davis,Aetna,2020-02-09,Lipitor,Normal
+KatHRYn StewArt,58,Female,O+,Vanessa Newton,2022-05-12,Arthritis,Clark-Mayo,Aetna,2022-06-10,Lipitor,Inconclusive
+dR. EilEEn thomPsoN,59,Male,A+,Donna Martinez MD,2021-08-02,Asthma,and Sons Smith,Aetna,2021-08-12,Lipitor,Inconclusive
+PAUl hEndERsOn,72,Female,AB+,Stephanie Kramer,2020-05-15,Hypertension,Wilson Group,Medicare,2020-06-08,Paracetamol,Inconclusive
+PeTER fiTzgeRaLd,73,Male,AB+,Angela Contreras,2020-05-15,Obesity,Garner-Bowman,Medicare,2020-05-20,Aspirin,Abnormal
+cathy sMaLl,51,Female,O-,Wendy Glenn,2023-12-23,Asthma,"Brown, and Jones Weaver",Blue Cross,2024-01-19,Ibuprofen,Normal
+mr. KenNEth MoORE,34,Female,A+,James Ellis,2022-06-21,Diabetes,Serrano-Dixon,UnitedHealthcare,2022-06-30,Lipitor,Abnormal
+MaRy hUNter,38,Female,O-,Jared Bruce Jr.,2021-01-03,Hypertension,Gardner-Miller,Cigna,2021-01-16,Penicillin,Normal
+jOSHUA OLiVer,63,Female,B+,Brandy Mitchell,2023-10-03,Hypertension,Guerrero-Boone,Aetna,2023-10-12,Paracetamol,Abnormal
+ThOMAS MartInEZ,34,Male,B-,Jacob Huynh,2019-08-18,Asthma,Hart Ltd,Cigna,2019-09-01,Ibuprofen,Inconclusive
+JAmES pattERson,23,Female,A+,Kristina Frazier,2019-11-03,Arthritis,Cruz-Santiago,UnitedHealthcare,2019-11-29,Penicillin,Abnormal
+WilLIAM cOOPEr,78,Male,AB-,John Hartman,2023-05-18,Arthritis,Group Duncan,Medicare,2023-06-15,Penicillin,Normal
+Erin oRTEga,43,Male,AB-,Heather Garcia,2023-05-24,Cancer,Lopez-Phillips,Medicare,2023-06-03,Ibuprofen,Normal
+NicOlE RodriGUEz,30,Female,AB+,Lynn Young,2020-01-17,Diabetes,Poole Inc,Blue Cross,2020-02-10,Lipitor,Normal
+DAvID AndErSON,25,Female,AB+,Emma Allison,2021-01-07,Asthma,Sons and Cox,Medicare,2021-01-26,Lipitor,Abnormal
+DEnIse ToRRES,33,Male,AB+,Laura Myers,2019-10-14,Diabetes,LLC Martin,Aetna,2019-10-19,Paracetamol,Inconclusive
+CasSAndrA Robinson,26,Female,B-,Travis Parsons,2021-12-19,Hypertension,Espinoza-Stone,Aetna,2022-01-16,Ibuprofen,Normal
+NIcOlE LUcErO,70,Female,O-,Christine Johnson,2022-03-12,Diabetes,"and Garcia Morris Cunningham,",Cigna,2022-03-29,Lipitor,Abnormal
+PAmela fErNanDeZ,57,Female,B-,Emily Taylor,2021-01-17,Obesity,Walton-Meyer,Medicare,2021-01-29,Penicillin,Abnormal
+chRiSTOPHer LEe,74,Female,B-,William Reynolds,2021-09-15,Hypertension,PLC Young,Cigna,2021-10-05,Lipitor,Normal
+ThomAS morsE,81,Male,A+,Jennifer Carter,2020-01-27,Hypertension,Meadows Group,Cigna,2020-02-09,Aspirin,Normal
+Mr. eRiC Lane,49,Female,A-,Matthew Thomas,2022-06-24,Asthma,"and Howell Brooks, Rogers",Cigna,2022-07-18,Paracetamol,Normal
+KAThEriNE SmiTH,26,Female,AB+,Mary Logan,2021-06-09,Obesity,"and Mcclure White Boone,",UnitedHealthcare,2021-07-01,Paracetamol,Normal
+pAUL wILLiAmS,81,Female,AB-,Kristin Martinez,2020-08-23,Cancer,"Gates Brown, and Stuart",Medicare,2020-09-08,Penicillin,Abnormal
+lYNn MaRtinez,65,Male,O+,Daniel Murphy,2022-10-12,Cancer,Group Armstrong,Medicare,2022-11-02,Penicillin,Normal
+chRIsTOpHEr CHaPmAN,31,Female,O+,Emily Patterson,2021-12-01,Hypertension,Ltd Schwartz,Cigna,2021-12-09,Paracetamol,Normal
+CHRis fRYe,58,Male,A-,Heather Smith,2020-05-04,Diabetes,Nelson-Phillips,Cigna,2020-05-13,Aspirin,Normal
+kyLE bEnneTT,22,Male,O+,John Smith,2023-09-09,Hypertension,"Knight and Nguyen, Riggs",UnitedHealthcare,2023-09-23,Ibuprofen,Abnormal
+BRandOn coLLINS,77,Female,O+,Cameron Young,2019-07-19,Asthma,Lopez PLC,Cigna,2019-07-29,Ibuprofen,Abnormal
+mIchael LiU,30,Male,AB-,Vicki Nguyen,2024-04-05,Hypertension,"Fernandez and Phillips, Singh",Medicare,2024-04-22,Paracetamol,Inconclusive
+STepHaNie kEnt,42,Female,A-,Mary Moss,2019-06-15,Cancer,Beck-Galloway,Aetna,2019-07-05,Ibuprofen,Abnormal
+JessE BaNks,67,Female,AB+,Alexander Garcia,2022-10-29,Cancer,"Decker Glover, and Christensen",Aetna,2022-11-20,Penicillin,Inconclusive
+PeGGY LEe,24,Female,A-,Patrick Burns,2022-04-08,Obesity,"Nelson Walker Myers, and",UnitedHealthcare,2022-04-13,Lipitor,Abnormal
+TAmARa hErNAndez,84,Female,B-,Kayla Powers,2023-08-17,Asthma,Mitchell-Navarro,Cigna,2023-09-11,Ibuprofen,Inconclusive
+mR. DAVID pIERce Md,73,Female,A-,Julia Cox,2023-11-05,Hypertension,Group Delgado,UnitedHealthcare,2023-11-07,Paracetamol,Inconclusive
+beThaNY MoOrE,55,Female,A+,Penny Pruitt,2023-04-09,Cancer,"and Montes Graves, Thomas",Cigna,2023-04-21,Paracetamol,Normal
+MIChael MIllS,23,Male,O-,Mrs. Lori Hurst PhD,2022-09-21,Hypertension,Hall-Bentley,Aetna,2022-09-25,Ibuprofen,Inconclusive
+kyle Wiley,40,Female,AB-,Stephen Carr,2021-01-21,Cancer,Taylor-Nguyen,Aetna,2021-02-06,Ibuprofen,Normal
+jACqUeLINE jORdaN,51,Male,O+,Jacob Daniel,2020-07-10,Hypertension,Hunter-Grant,Aetna,2020-07-20,Paracetamol,Abnormal
+ASHleY guTIERreZ,83,Male,AB+,Tyler Braun,2019-11-06,Obesity,Miller-Lawson,Aetna,2019-11-22,Paracetamol,Inconclusive
+Kim ScOtt,63,Male,A-,Cindy Ellis,2024-04-07,Asthma,Scott-Kelly,UnitedHealthcare,2024-05-04,Ibuprofen,Inconclusive
+tRAvIs carTeR,18,Male,A+,Megan Hahn,2022-07-06,Cancer,"Moss and Ferguson, Baker",UnitedHealthcare,2022-07-18,Aspirin,Normal
+LArry rodgeRs,23,Female,B-,Eric Kelly,2022-08-03,Hypertension,"and Mason Smith Chase,",Cigna,2022-08-10,Aspirin,Inconclusive
+Nancy glOVeR,58,Male,A-,Jennifer Larson,2020-05-08,Hypertension,"Khan, and Rodriguez Fischer",Medicare,2020-06-01,Aspirin,Abnormal
+JessIca king,27,Male,AB-,William Hess,2019-12-09,Cancer,Sons Watson and,Medicare,2019-12-21,Lipitor,Abnormal
+ChRiStOPhER gOnzAlez,59,Male,B+,Patricia Dunn,2019-11-21,Diabetes,Rhodes-Carey,Medicare,2019-12-08,Penicillin,Abnormal
+jOhN hARTmAN,27,Male,B-,Jack Jackson,2023-01-07,Hypertension,Bullock-Ramsey,Cigna,2023-01-27,Lipitor,Inconclusive
+MicHAEl MillEr,31,Male,B+,Jonathan Drake,2024-02-06,Diabetes,"Clark Brown, and Myers",UnitedHealthcare,2024-02-10,Penicillin,Normal
+Erica myERS,19,Female,A+,Ian Benitez,2020-01-30,Arthritis,"Jackson and Lane, Dillon",Medicare,2020-02-12,Penicillin,Normal
+cAROl PaTtERSoN,29,Female,O+,Jamie Baker,2022-10-24,Cancer,"Turner Cook, Banks and",Blue Cross,2022-11-07,Ibuprofen,Normal
+JOSe LopEz,18,Male,A-,Erika Jackson,2022-01-09,Obesity,"Miles, and Weaver Hudson",Aetna,2022-01-15,Aspirin,Inconclusive
+kEVIn SiMmoNs Jr.,24,Male,AB-,Amanda Garcia,2023-12-28,Cancer,Evans Ltd,Cigna,2024-01-02,Paracetamol,Abnormal
+DuANe HaneY,27,Male,AB-,Raven Wong,2021-09-16,Diabetes,Sons and Schaefer,Aetna,2021-10-14,Penicillin,Abnormal
+JONathAn yaTeS,57,Female,AB-,Cynthia Scott,2023-07-24,Arthritis,Sons Hodges and,Aetna,2023-08-11,Paracetamol,Abnormal
+johN THoMaS,74,Female,A+,Mark Padilla,2021-11-13,Arthritis,Simpson-Mccall,UnitedHealthcare,2021-12-07,Paracetamol,Inconclusive
+AdriaN BuckLEY,22,Female,A-,Julie Ramirez,2023-10-11,Arthritis,"Lin Thompson Wells, and",Blue Cross,2023-10-27,Penicillin,Normal
+apRil SANTIAgO,33,Female,B-,Jacob Rich,2021-01-30,Diabetes,Jones-Scott,Cigna,2021-02-04,Penicillin,Inconclusive
+DIane scHultz,57,Male,B+,Mark Hartman Jr.,2021-11-21,Arthritis,Howe-Kelly,UnitedHealthcare,2021-12-05,Penicillin,Inconclusive
+tiMOThY myers,61,Male,B+,Timothy Baker,2024-03-02,Cancer,and Sons Reyes,UnitedHealthcare,2024-03-26,Ibuprofen,Inconclusive
+NICOLE HUGhes,20,Male,O+,Lori Sanchez,2020-12-04,Arthritis,Shaw-Young,Blue Cross,2020-12-08,Ibuprofen,Abnormal
+ChAd MorEnO,67,Male,AB+,Connie Boyd,2020-08-26,Hypertension,Inc Skinner,Aetna,2020-08-27,Penicillin,Abnormal
+SeaN jenniNGs,80,Female,AB-,James Tucker,2023-11-12,Diabetes,Clark-Johnson,Blue Cross,2023-12-12,Penicillin,Abnormal
+DIAnE brAnch,44,Male,O+,Juan Acevedo,2020-05-30,Obesity,Perez and Sons,Cigna,2020-06-14,Aspirin,Inconclusive
+cindY OROzco,26,Female,B-,Julie Finley,2023-05-12,Asthma,Kemp LLC,Medicare,2023-06-10,Ibuprofen,Abnormal
+pAtriCIa MEdinA,80,Male,AB+,Miguel Parker,2022-07-07,Cancer,LLC Dixon,UnitedHealthcare,2022-07-23,Ibuprofen,Normal
+kayLa padillA,63,Male,B-,Jermaine Peters,2020-09-24,Asthma,"and Morales Jennings Cook,",Aetna,2020-10-08,Penicillin,Inconclusive
+JUan klEiN,58,Female,B-,Lisa Edwards,2023-08-19,Arthritis,Group Hood,UnitedHealthcare,2023-08-25,Ibuprofen,Inconclusive
+wILLIAM hIlL,38,Female,A+,Matthew Walker,2023-05-16,Cancer,Lindsey Inc,Cigna,2023-06-01,Aspirin,Abnormal
+CARL BEst,60,Male,B+,Gregory Hansen,2022-08-22,Hypertension,Ltd Wang,Blue Cross,2022-09-07,Paracetamol,Inconclusive
+TInA GriFfin,49,Male,B+,Jessica Cruz,2022-06-17,Cancer,Inc Ford,Medicare,2022-06-28,Penicillin,Abnormal
+MR. TYler TAYLOR Phd,80,Male,A+,Robert Salazar,2022-11-05,Diabetes,Dean-Hawkins,UnitedHealthcare,2022-11-25,Lipitor,Abnormal
+TAyLoR howeLl Dds,35,Female,B+,Kyle Patterson,2021-09-10,Diabetes,Walter PLC,Blue Cross,2021-09-18,Ibuprofen,Inconclusive
+mIcHAeL MaRTIn,84,Male,A+,John Summers,2022-09-06,Asthma,Sons Horn and,Cigna,2022-09-27,Ibuprofen,Inconclusive
+heatHER mIller,76,Male,A+,Scott Grant,2021-04-17,Diabetes,"Powell Ward, and Mercado",Aetna,2021-05-10,Lipitor,Inconclusive
+cathERinE gArDnEr,79,Female,A-,David Ruiz,2019-08-19,Hypertension,James Ltd,Medicare,2019-08-26,Lipitor,Abnormal
+ANNE THOMPSoN,76,Female,O+,Kyle Smith,2024-03-24,Diabetes,Kemp-Munoz,Aetna,2024-04-14,Aspirin,Abnormal
+TOdd coopeR,55,Female,A+,Jason Price,2022-12-10,Diabetes,Henderson-Taylor,UnitedHealthcare,2022-12-31,Ibuprofen,Normal
+PhILLIP lyOnS,53,Male,B-,Stephanie Clements,2022-09-14,Cancer,"Parsons, Hartman Martinez and",Blue Cross,2022-09-18,Aspirin,Normal
+MaRk foRD,18,Male,B+,Steven James,2022-10-18,Asthma,Luna Inc,UnitedHealthcare,2022-11-11,Aspirin,Abnormal
+mARcUS ZAmorA,69,Male,O+,Jeremiah Wolf,2021-11-13,Arthritis,"Hernandez, Ritter and Huffman",Cigna,2021-11-21,Aspirin,Normal
+KaTiE hENry,70,Male,B+,Roberto Petersen,2022-07-08,Diabetes,Reed LLC,Aetna,2022-07-25,Aspirin,Normal
+wilLIAm morTON,21,Male,A+,Christina Hammond,2023-06-25,Diabetes,Thompson-Walker,UnitedHealthcare,2023-07-11,Ibuprofen,Normal
+KaTRina maRTin,47,Male,A-,Patricia Colon,2019-07-09,Diabetes,Group Nguyen,Medicare,2019-08-05,Penicillin,Inconclusive
+HunTeR mckAy,85,Male,A-,Dominic Mitchell,2021-05-14,Arthritis,Newton-White,UnitedHealthcare,2021-06-03,Aspirin,Abnormal
+dWAYnE DAViS,28,Male,O+,Wendy Davis,2024-01-15,Cancer,Ltd Thomas,Medicare,2024-02-07,Ibuprofen,Abnormal
+sARAH CalDweLL,62,Male,A-,Daniel Carson,2019-09-30,Obesity,"Pierce Ward, Torres and",Cigna,2019-10-15,Aspirin,Inconclusive
+DAVid higgInS,49,Female,B-,Erin Henderson MD,2021-03-05,Arthritis,"Evans and Hall Schneider,",Medicare,2021-03-20,Penicillin,Abnormal
+bRADlEY coMbS,52,Male,AB-,Christopher Butler,2021-05-14,Hypertension,Stout-Brown,Cigna,2021-06-06,Penicillin,Abnormal
+chrisTiNa SChMitt,53,Male,B+,Samuel Robles,2023-06-08,Cancer,Cruz Ltd,UnitedHealthcare,2023-07-05,Ibuprofen,Abnormal
+coLtoN stRONg,55,Male,AB-,Benjamin Webb,2022-05-13,Asthma,Stewart Sons and,Aetna,2022-05-20,Paracetamol,Normal
+MARK priCE,18,Male,B-,Krystal Fox,2022-09-22,Arthritis,"Hall Roberts and Duarte,",Medicare,2022-10-14,Ibuprofen,Normal
+sUZaNnE SchNeIder,52,Male,AB-,Bruce Garrett,2023-08-25,Hypertension,Ramirez-Robinson,Medicare,2023-09-18,Lipitor,Normal
+MIchaEL HUrLEY,67,Male,AB-,Jonathan Watson,2019-06-02,Obesity,"Garcia, and Bishop Hernandez",Aetna,2019-06-04,Lipitor,Inconclusive
+LIndsEy laMbErt,82,Female,A+,Christopher Guerra,2021-11-19,Hypertension,"and Brown Oneal, Shah",Medicare,2021-12-12,Ibuprofen,Normal
+reBEcCA PARsONs,37,Female,O+,Steven Adams,2019-12-02,Asthma,Group White,Aetna,2019-12-13,Penicillin,Abnormal
+jUdy joHNsoN,52,Female,AB-,Victoria Patel,2020-08-21,Cancer,"Hughes and Erickson, Anderson",Cigna,2020-09-06,Penicillin,Inconclusive
+TOnyA caMpbell,37,Female,B+,Louis Bell,2021-02-12,Asthma,Lane-Kelly,UnitedHealthcare,2021-03-11,Ibuprofen,Inconclusive
+JAMEs Ross,83,Female,A+,Michael Baker,2024-01-13,Diabetes,Cox-Hester,Blue Cross,2024-01-22,Aspirin,Abnormal
+SaRA COOk,33,Male,O-,Douglas Fleming,2021-12-26,Arthritis,"Jarvis Scott, Fleming and",Medicare,2022-01-12,Aspirin,Abnormal
+annE howeLl,22,Female,A-,Patrick Carter,2022-08-22,Obesity,Cline-Carpenter,Blue Cross,2022-09-07,Penicillin,Normal
+RENEE bAilEY,19,Female,B+,Sarah Shaffer,2021-07-03,Cancer,"Johnson, and Ross Harris",Medicare,2021-07-31,Ibuprofen,Abnormal
+Jeffrey tuRNER,85,Female,O+,Matthew Carter,2020-05-31,Obesity,"Kim Rosario, and Hammond",Aetna,2020-06-01,Ibuprofen,Normal
+DR. LaUreN ClaRk DDs,19,Male,B+,Brian Wagner,2020-10-26,Cancer,PLC Jimenez,UnitedHealthcare,2020-11-17,Lipitor,Inconclusive
+terRY THoMaS,50,Female,B-,Lucas Cole,2021-06-03,Asthma,Cantu-Berry,Aetna,2021-07-01,Paracetamol,Inconclusive
+JasOn baKEr,50,Female,O-,Julia Yoder,2020-10-24,Obesity,Wright-Alexander,UnitedHealthcare,2020-11-13,Ibuprofen,Normal
+JEssicA gUtiERrEz,40,Male,O+,Crystal Chavez,2019-08-27,Obesity,Guzman-Carlson,Aetna,2019-09-06,Lipitor,Inconclusive
+COURTNey HOdGes,57,Male,AB-,Brenda Lopez,2021-11-30,Obesity,Meyer-Hill,Medicare,2021-12-09,Aspirin,Abnormal
+ANthONy reYEs,82,Male,AB+,Michael Cole,2023-10-15,Obesity,Dudley-Atkinson,UnitedHealthcare,2023-11-08,Penicillin,Abnormal
+LeaH cRoSs Dds,20,Male,AB+,Michael Larson,2024-03-17,Diabetes,Kelly-Allen,Blue Cross,2024-03-28,Ibuprofen,Inconclusive
+PaUL MaRTinEz,20,Male,B+,Tracey Spence,2019-10-13,Hypertension,"Lewis Livingston, Lowe and",Blue Cross,2019-10-16,Aspirin,Normal
+DenisE rOdRIGuEZ,19,Female,A-,Susan Gibson,2020-03-02,Hypertension,Rodriguez Ltd,Cigna,2020-03-07,Paracetamol,Normal
+ashLEy ERIcKSoN,32,Female,AB-,Gerald Hooper,2019-11-05,Cancer,"and Johnson Moore, Branch",Aetna,2019-11-23,Penicillin,Normal
+SEaN carDenaS,55,Male,B-,Todd Sanchez,2021-02-07,Diabetes,"Holmes and Hughes, Phillips",Cigna,2021-03-05,Aspirin,Normal
+aLaN AlVaREz,81,Male,B+,Elizabeth Morales,2021-10-25,Hypertension,"and Smith, Tucker Cross",UnitedHealthcare,2021-11-22,Lipitor,Normal
+JeSsICA phiLliPS,26,Male,O-,Kimberly Petersen,2022-07-24,Hypertension,Sons and Lozano,Blue Cross,2022-07-31,Paracetamol,Abnormal
+tiMOthY CoLemaN,54,Female,AB+,Misty Garcia,2020-03-04,Cancer,Russell Ltd,UnitedHealthcare,2020-03-05,Lipitor,Abnormal
+cHristina wooDS,57,Male,B-,Melissa Fernandez,2021-08-01,Arthritis,Jones Ltd,Cigna,2021-08-19,Paracetamol,Inconclusive
+mELIssa sCOtt,38,Female,AB+,Kari Moore,2020-01-24,Asthma,Gordon-Ward,Medicare,2020-02-12,Ibuprofen,Abnormal
+GaRy hoPkiNS,54,Male,O+,David Hubbard,2021-07-30,Obesity,Barnes and Sons,Medicare,2021-08-13,Paracetamol,Normal
+aPRIL VAleNCIA,42,Male,A+,Lonnie Morgan,2024-01-04,Diabetes,Levine-Miller,Medicare,2024-02-03,Aspirin,Inconclusive
+riTA archER,20,Male,O-,Victoria Gonzales,2024-01-05,Diabetes,"and Marquez Silva Smith,",Medicare,2024-02-04,Lipitor,Normal
+kIm PenA,44,Female,O-,Cindy White,2020-08-11,Hypertension,Jackson-Copeland,UnitedHealthcare,2020-09-04,Lipitor,Inconclusive
+jaSoN FOlEy,54,Male,B+,Douglas Li,2022-06-17,Diabetes,"Perez and Ochoa White,",Medicare,2022-06-24,Paracetamol,Normal
+ShAUN GuzmAn,21,Female,AB-,Lori Mendoza,2022-04-02,Arthritis,Ltd Conrad,Aetna,2022-04-09,Aspirin,Inconclusive
+MATTHeW wHite,45,Female,AB+,Ryan Ross,2020-06-03,Diabetes,Hampton-Thomas,Medicare,2020-06-22,Ibuprofen,Abnormal
+aLExiS wilsOn,68,Female,B+,Brian Walton,2019-08-16,Arthritis,Thomas-Kelley,Aetna,2019-08-21,Paracetamol,Abnormal
+JaCQueLiNE maRshAll,27,Male,A+,Michael Berg,2024-02-22,Hypertension,Myers-Monroe,UnitedHealthcare,2024-02-24,Penicillin,Inconclusive
+RoBErt hIGGInS,42,Male,AB-,Scott Davis,2021-05-06,Asthma,"and Ford Lee, Rodriguez",Medicare,2021-05-29,Ibuprofen,Inconclusive
+SierRa MoRTON,27,Female,B-,Daniel Shelton,2021-10-27,Asthma,Sons Garcia and,Aetna,2021-11-04,Ibuprofen,Inconclusive
+nATAliE sTANtoN,80,Male,B+,Tara Moreno,2020-09-01,Asthma,"Perry Little, and Moore",Medicare,2020-09-17,Paracetamol,Inconclusive
+jEssica aceveDo,21,Male,O+,Kristie Morgan,2021-05-26,Diabetes,Anderson Group,Medicare,2021-06-22,Penicillin,Normal
+JENnIfEr mCmillan,84,Female,A-,Joseph Jones,2022-06-22,Obesity,Rodriguez and Sons,Aetna,2022-07-22,Ibuprofen,Abnormal
+ChRISTopher mccLAiN,67,Female,O-,Maria Tran,2023-05-17,Arthritis,Thomas-Huber,Medicare,2023-05-31,Aspirin,Abnormal
+kevIn HiCKs,66,Male,AB+,Kelly Murphy,2021-06-23,Arthritis,Robinson Inc,Medicare,2021-07-09,Ibuprofen,Abnormal
+MELIndA richARds,37,Female,A-,Katherine Brown,2023-11-17,Cancer,Wood-Mathews,Aetna,2023-11-25,Penicillin,Normal
+roBYn miRaNDa,30,Female,A-,Elizabeth Frank,2020-10-11,Diabetes,"Walker and Gardner Fernandez,",Medicare,2020-10-21,Ibuprofen,Abnormal
+scoTt caSTillO,78,Male,O+,Alyssa Edwards,2021-08-10,Diabetes,"Smith and Johnston, Collins",Cigna,2021-08-27,Penicillin,Abnormal
+jOHN GarciA,39,Female,A+,Jesse Thomas,2023-08-29,Diabetes,Sons Miller and,UnitedHealthcare,2023-09-07,Penicillin,Abnormal
+miCHAeL TayloR,29,Male,O-,Erica Mccormick,2020-02-27,Asthma,Donaldson-Frey,Medicare,2020-03-26,Ibuprofen,Normal
+jeFfReY WoOd,81,Female,AB-,Amber Holmes,2021-07-07,Cancer,Brown-Yoder,UnitedHealthcare,2021-07-15,Aspirin,Abnormal
+MiCHAEl smIth,66,Female,AB-,Austin Jackson,2022-06-03,Obesity,"Morgan Rios and Keller,",Cigna,2022-06-27,Aspirin,Normal
+wiLLiam grIFfItH,65,Male,B-,Shane Morris,2020-02-20,Asthma,Gonzalez-King,Aetna,2020-03-01,Penicillin,Abnormal
+CHrISTiNa lAwReNCe,80,Male,AB-,Brent Smith,2021-02-05,Asthma,Wagner Ltd,Cigna,2021-03-05,Penicillin,Inconclusive
+jeSsiCA HolmeS,72,Female,O-,Kayla Davis,2020-10-24,Arthritis,"and Brown White, Jones",Medicare,2020-11-02,Paracetamol,Abnormal
+traCEY grEenE,85,Male,O-,Rose Zuniga,2023-12-06,Cancer,James-Smith,Cigna,2023-12-19,Ibuprofen,Abnormal
+aMAnda lOpeZ,68,Female,O+,Ethan Wagner,2021-12-21,Hypertension,Hanson Group,Aetna,2021-12-30,Lipitor,Abnormal
+LaurA pEtErS,56,Female,A-,Phillip Williams,2023-09-03,Cancer,Mcclain-Reed,Aetna,2023-09-30,Lipitor,Inconclusive
+LAUrEn ANDErSOn,53,Female,O-,Maureen Hill,2020-10-18,Asthma,Young-Smith,Medicare,2020-11-10,Paracetamol,Abnormal
+wILliAm CAmpos,37,Female,B+,Heidi Compton MD,2021-07-07,Asthma,Hart-Brock,UnitedHealthcare,2021-07-24,Penicillin,Normal
+jEssiCa GoNzAleS,57,Female,O+,Kimberly Gonzalez,2023-08-28,Hypertension,"Jones and Jones, Turner",Cigna,2023-09-16,Penicillin,Abnormal
+brUcE gOnzaleS,36,Male,O+,Rebecca Morgan,2019-11-17,Arthritis,Spears-Shah,Cigna,2019-12-01,Penicillin,Normal
+rOBert WAlsH,20,Female,B+,Sabrina Rogers,2020-11-22,Cancer,"and Anderson Smith Sanchez,",Cigna,2020-12-17,Paracetamol,Normal
+lIsA LeWis,83,Male,O-,Kevin Brown,2021-11-13,Asthma,"Tran, and Ferrell Garcia",Aetna,2021-12-08,Ibuprofen,Normal
+WiLlIaM RUiZ,79,Male,B+,Sarah Cole,2022-02-13,Obesity,Ltd Walton,Blue Cross,2022-02-20,Paracetamol,Normal
+StEven BALdWIn,62,Male,O+,Jennifer Hall,2019-05-16,Diabetes,Group Rodriguez,UnitedHealthcare,2019-05-31,Aspirin,Inconclusive
+meGAn CoLON,38,Male,AB+,Emily Cruz,2021-08-04,Asthma,Carr LLC,Blue Cross,2021-08-26,Paracetamol,Normal
+kImbErlY brOoks,75,Female,B-,Michael Anderson,2020-01-03,Cancer,Rodriguez-Guerra,Medicare,2020-01-27,Ibuprofen,Abnormal
+EdWARd SMiTh jR.,28,Male,A+,Natalie Sellers,2022-09-13,Hypertension,"Sullivan Mullins, Macias and",Cigna,2022-10-07,Lipitor,Abnormal
+aLliSoN CorDoVA,36,Male,O-,Patrick Ochoa,2020-12-19,Hypertension,Ballard PLC,UnitedHealthcare,2021-01-09,Lipitor,Normal
+lINdA THOMAs,54,Male,AB+,Daniel Rodgers,2023-03-31,Obesity,Liu-Wilson,Cigna,2023-04-29,Penicillin,Inconclusive
+paRkEr moOrE,81,Female,B-,Taylor Baldwin,2020-05-08,Diabetes,LLC Lewis,Aetna,2020-05-28,Lipitor,Inconclusive
+tanya SOto,56,Female,AB+,Adam Ross,2023-07-31,Obesity,"Stokes Chambers and Martin,",Cigna,2023-08-02,Lipitor,Normal
+mIChaEL jOrdaN,30,Male,AB-,Amy Williams,2022-01-09,Hypertension,Hernandez-Green,Blue Cross,2022-01-12,Ibuprofen,Inconclusive
+ChRiSTINA MArTin,64,Female,A-,Martha Graham,2023-12-16,Diabetes,Inc Lee,Cigna,2024-01-15,Paracetamol,Inconclusive
+TrACy BUrke,76,Male,A+,Emily Thomas,2020-12-05,Obesity,Wilkins Group,Medicare,2020-12-18,Lipitor,Abnormal
+daVID SPeNCE,21,Female,AB+,Terrance Rosales,2021-11-11,Diabetes,Valentine Ltd,Cigna,2021-12-04,Penicillin,Normal
+JOsEph fOstER,59,Female,O+,Daniel Smith,2019-09-11,Obesity,Alvarado-Deleon,Blue Cross,2019-09-15,Penicillin,Inconclusive
+NIcholAs haLl,31,Female,A-,Marissa Stevenson,2020-12-15,Diabetes,"Alexander and Jensen Andrews,",UnitedHealthcare,2021-01-01,Ibuprofen,Abnormal
+ChriSTiNA maCiAS,36,Female,O+,Katie Fitzpatrick,2022-12-08,Asthma,"and Black, Henson Rhodes",Blue Cross,2023-01-02,Ibuprofen,Inconclusive
+scoTT JoNes,42,Female,B+,Dennis Small,2021-07-15,Diabetes,Sons and Marshall,Aetna,2021-08-05,Aspirin,Inconclusive
+jaMEs AnDerSon,18,Female,AB+,Chris Holt,2022-06-16,Asthma,Rodriguez-Franco,Blue Cross,2022-07-04,Lipitor,Inconclusive
+sHaUN LonG,62,Female,A+,Jenny Griffith,2024-02-09,Obesity,"Fritz Henderson Stanton, and",UnitedHealthcare,2024-02-19,Aspirin,Normal
+krIStInA morA,53,Male,AB+,Gregory Lambert,2024-03-04,Hypertension,West-Young,Medicare,2024-03-18,Paracetamol,Abnormal
+joshUa rIcHmOnd,82,Female,A+,Michael Armstrong,2022-02-11,Obesity,Ltd Solis,Blue Cross,2022-02-25,Lipitor,Normal
+Mark lAWrencE,19,Female,O-,Melissa Terry,2022-02-08,Diabetes,Mcneil-Blake,Blue Cross,2022-02-17,Ibuprofen,Inconclusive
+JOhN eLlis,83,Female,A-,Thomas Bruce,2023-06-15,Hypertension,Moore-Waters,UnitedHealthcare,2023-06-30,Paracetamol,Inconclusive
+MRs. TiFFAny DeNnIs,26,Male,O-,James James DVM,2021-10-11,Diabetes,Group Scott,UnitedHealthcare,2021-10-24,Ibuprofen,Abnormal
+cyNTHIa HuANG,51,Male,O+,Sean Smith,2021-12-12,Arthritis,and Simmons Sons,Aetna,2021-12-30,Lipitor,Abnormal
+meLiSSA LawRENcE,20,Male,O+,John Hansen,2023-07-09,Obesity,"Humphrey and Browning Fitzgerald,",Blue Cross,2023-07-15,Lipitor,Abnormal
+STEvEn goodwIN,61,Female,A-,Teresa Mccarthy,2020-09-08,Obesity,Adams-Molina,Blue Cross,2020-10-03,Ibuprofen,Abnormal
+mARY HuNT,44,Male,AB-,Stephanie Barnett,2020-08-31,Hypertension,Guzman LLC,Aetna,2020-09-18,Lipitor,Abnormal
+ERic riveRa,74,Female,AB+,Mr. Luke Nunez Jr.,2024-04-10,Cancer,Gonzalez-Pacheco,Blue Cross,2024-05-03,Lipitor,Abnormal
+ALAn tayLor,82,Female,B-,Stacy Stewart,2021-08-10,Diabetes,"Hunt, Carlson and Cherry",Cigna,2021-09-09,Lipitor,Inconclusive
+mIcHaEL cAMPbeLl,83,Male,O-,Andrea Oneal,2022-01-25,Diabetes,Ltd Barnes,Cigna,2022-01-28,Aspirin,Abnormal
+asHLEY webb ddS,62,Female,AB-,Eric Coleman,2023-09-12,Cancer,"Gordon, Fox Lane and",Blue Cross,2023-10-12,Penicillin,Normal
+SHaNNON broWn,62,Female,B-,Anthony Barnes,2020-08-05,Obesity,Petersen Ltd,Medicare,2020-08-14,Ibuprofen,Inconclusive
+LAwrenCE shEPherD,18,Male,A-,Michael Hickman,2022-05-07,Asthma,and Mcdonald Sons,Aetna,2022-06-03,Ibuprofen,Abnormal
+scoTt wADE,66,Male,A+,Dustin Wolf,2022-02-13,Arthritis,"Smith, Elliott and Blackburn",Medicare,2022-02-23,Paracetamol,Normal
+heAthER curTis,26,Female,AB+,Amanda Wells,2024-03-03,Asthma,PLC Oliver,Blue Cross,2024-03-27,Penicillin,Inconclusive
+kEvIN jEFFeRsON,45,Female,B+,Jason Miller,2020-03-14,Cancer,"Griffin and Lyons Rivers,",Cigna,2020-04-03,Aspirin,Inconclusive
+dAvId gRifFIn,26,Male,AB-,Holly James,2024-02-07,Asthma,Craig-Garcia,Aetna,2024-02-24,Ibuprofen,Inconclusive
+GRanT GeoRge,26,Male,O+,April Cox,2019-07-21,Cancer,Baker-Jones,Medicare,2019-08-05,Penicillin,Abnormal
+eRIc SteWART,79,Female,O+,Virginia Lynch,2023-04-14,Diabetes,Duffy-Kelly,Aetna,2023-04-18,Penicillin,Inconclusive
+RoBErt pittmAn,33,Female,B-,Patricia Fuller,2024-01-17,Arthritis,Rodriguez-Becker,Cigna,2024-02-05,Lipitor,Normal
+SYdNey Cross,34,Female,O+,Michelle Ward,2019-06-25,Cancer,Group Brown,UnitedHealthcare,2019-06-30,Lipitor,Abnormal
+DaviD CrawfoRD,76,Female,AB-,Robin Adams,2021-05-20,Hypertension,Powers-Vincent,UnitedHealthcare,2021-06-12,Ibuprofen,Inconclusive
+LEAH DRaKE,50,Female,B-,Emily Morales,2020-04-03,Obesity,"and Ramos Brown Edwards,",UnitedHealthcare,2020-04-11,Paracetamol,Normal
+DiAna hALL,44,Male,B-,Adriana Morrow,2020-01-21,Diabetes,Johnson Group,Blue Cross,2020-01-30,Ibuprofen,Abnormal
+JUsTIN lE,38,Female,AB-,Michael Mitchell,2021-12-02,Arthritis,Atkins Inc,Aetna,2021-12-07,Paracetamol,Normal
+KaREn pricE dDs,43,Male,AB+,Caroline Choi,2021-05-28,Cancer,Marshall LLC,Aetna,2021-06-18,Ibuprofen,Abnormal
+CaROlYN sTEeLE,27,Female,AB+,Michael Robinson,2020-03-23,Hypertension,Ltd Cruz,Cigna,2020-04-11,Paracetamol,Abnormal
+LAURen RAMireZ,78,Male,A+,Heather Miller,2022-08-06,Asthma,Harrison-Parker,Medicare,2022-09-05,Paracetamol,Normal
+jAcOb nEWman,40,Male,A+,Howard Obrien,2024-03-09,Diabetes,Lee-Clayton,Blue Cross,2024-04-05,Ibuprofen,Normal
+KAThErInE BARnEtt,25,Male,AB-,Faith Cook,2022-03-15,Arthritis,Mcdaniel and Sons,Medicare,2022-04-10,Penicillin,Inconclusive
+JODI martiNeZ,67,Female,AB+,Donna Colon,2020-08-08,Obesity,Inc Lynch,Blue Cross,2020-08-14,Ibuprofen,Abnormal
+andrEa aLlEN,47,Female,AB+,David Lindsey,2019-06-09,Obesity,"and Mendoza Rich Morales,",UnitedHealthcare,2019-07-01,Aspirin,Inconclusive
+nOah baxtEr,75,Male,AB-,Anthony Nixon,2019-09-07,Arthritis,Proctor-Jones,Aetna,2019-10-06,Paracetamol,Normal
+hECTOR MAXweLL,58,Female,A-,Doris Hawkins,2021-02-14,Obesity,"and Ramirez Figueroa May,",Medicare,2021-02-26,Lipitor,Inconclusive
+holLy WALters,26,Female,A-,Caleb James,2019-11-10,Hypertension,Michael-Jenkins,Medicare,2019-11-26,Penicillin,Abnormal
+JOsepH SmIth,22,Male,O+,Patricia Moore,2023-04-16,Obesity,Hardy Inc,UnitedHealthcare,2023-05-14,Penicillin,Normal
+albERt tHOmAS,29,Female,B+,Matthew Gray,2020-04-25,Asthma,"Turner, and Williams Mercado",Cigna,2020-04-28,Paracetamol,Inconclusive
+jeFfErY WIlliaMSOn,30,Male,A-,Justin Lowe,2021-08-21,Cancer,PLC Williams,Cigna,2021-08-28,Ibuprofen,Normal
+joNAthAn meADOWS,22,Female,O+,Danny Mcdonald,2021-01-14,Asthma,Evans Ltd,Aetna,2021-01-27,Aspirin,Inconclusive
+kRIStIN BeNnETT,34,Male,AB+,Gina Weaver,2020-09-12,Hypertension,Merritt-Gray,Aetna,2020-09-26,Paracetamol,Abnormal
+miCHaEl SmITh,20,Male,AB+,Eddie Jackson,2020-03-27,Arthritis,"Huang Travis Thomas, and",UnitedHealthcare,2020-04-16,Aspirin,Inconclusive
+JOSepH cARpenteR,37,Female,A-,Miss Valerie Saunders MD,2019-07-26,Arthritis,Rodriguez-Zimmerman,Aetna,2019-08-17,Penicillin,Abnormal
+larRy MaYEr,25,Female,A+,Richard Petty,2023-12-07,Cancer,Miller PLC,Blue Cross,2023-12-14,Aspirin,Normal
+CLaYTON PEterSon,45,Female,B-,Patricia Bean,2021-06-11,Cancer,"May, Mullins and Martin",Aetna,2021-07-03,Paracetamol,Normal
+donaLD aLVArEZ,18,Male,O-,Ronald Jones,2022-02-11,Diabetes,Moore-Robbins,UnitedHealthcare,2022-02-23,Ibuprofen,Inconclusive
+SaRAh leE,56,Male,O+,Jack Wall,2020-09-12,Arthritis,Ltd Howard,Blue Cross,2020-09-22,Aspirin,Normal
+joHN peReZ,44,Male,AB-,Felicia Morrison,2020-05-25,Asthma,Group Crosby,Aetna,2020-06-05,Lipitor,Inconclusive
+Timothy jAcobS,34,Male,O+,Crystal Schultz,2023-09-25,Hypertension,Cook Ltd,Aetna,2023-10-21,Penicillin,Normal
+nAThaN sMall,26,Male,B+,Bailey Gonzalez,2022-06-22,Obesity,"Rivas, Mcconnell Hill and",UnitedHealthcare,2022-07-20,Lipitor,Normal
+dUSTin WriGhT,32,Male,O+,Michael Guzman,2020-01-12,Obesity,Conner-Flores,Aetna,2020-01-19,Aspirin,Normal
+jacOb wilLiAMS,64,Male,B+,Elizabeth Flowers,2022-07-29,Arthritis,Suarez-Nelson,UnitedHealthcare,2022-08-07,Ibuprofen,Normal
+wiLlIAm mcCOY,80,Male,A-,Whitney Vaughan,2023-02-20,Asthma,"and Walker Glenn, Long",Cigna,2023-03-10,Penicillin,Normal
+dr. MATthEW wilkinS,80,Male,A-,Seth Nelson,2021-07-14,Cancer,PLC Anderson,Blue Cross,2021-07-24,Lipitor,Inconclusive
+JosEpH gONZaLeZ,37,Female,O+,Erin Wright,2024-04-17,Hypertension,Blackwell-Gamble,UnitedHealthcare,2024-05-07,Aspirin,Normal
+rObErt fiElDS,52,Female,A+,Jennifer Flores,2021-02-04,Hypertension,Wagner PLC,Blue Cross,2021-02-28,Aspirin,Abnormal
+lawrencE mIRAndA,83,Female,O-,Brandi Knight,2021-09-02,Diabetes,Goodman-Kelly,Blue Cross,2021-09-19,Paracetamol,Inconclusive
+mitCheLl caRrOlL,28,Female,B-,Chad Irwin,2022-09-10,Arthritis,"and Boyd Powell, Sims",Cigna,2022-10-01,Paracetamol,Abnormal
+COdY nIcHoLs,63,Male,A+,Victoria Williams,2022-11-25,Diabetes,"and Conrad Boyd, Burnett",Blue Cross,2022-12-20,Lipitor,Normal
+KELlI tHompSOn,85,Male,O-,Travis Walton,2023-08-04,Asthma,Ayala-Armstrong,Cigna,2023-08-12,Ibuprofen,Abnormal
+dAnIElle lOPeZ,37,Male,O-,Catherine Hernandez,2020-11-20,Hypertension,"and Lambert White, Vargas",Aetna,2020-12-06,Lipitor,Normal
+melINda JONES,22,Male,AB-,Kristen Johnson,2019-10-23,Diabetes,Group Doyle,Blue Cross,2019-11-09,Paracetamol,Abnormal
+KRiSTIN sMith,80,Female,AB+,Tammy Chavez,2020-10-17,Arthritis,Henderson-Johnson,Medicare,2020-10-29,Aspirin,Normal
+StEphaniE REYNolDs,48,Female,O+,Savannah Colon,2022-12-27,Arthritis,"Baker Conrad and Andrews,",Blue Cross,2022-12-31,Penicillin,Abnormal
+AnNA NORMaN,29,Male,B+,Jessica Parks MD,2023-06-16,Obesity,"Perkins, Salazar and Johnson",Blue Cross,2023-07-14,Aspirin,Inconclusive
+MAria haYeS,76,Male,A+,Joshua Singleton,2023-11-06,Arthritis,Johnson-Perez,Blue Cross,2023-11-21,Aspirin,Abnormal
+toNya riLEy mD,23,Female,A+,Vincent Ramirez,2023-12-26,Hypertension,Powell-Werner,Medicare,2024-01-22,Penicillin,Normal
+REgiNa DUnn,33,Male,B-,Natasha Smith,2023-02-10,Asthma,Morales Group,Cigna,2023-03-05,Penicillin,Inconclusive
+mIcHael JACoBS,34,Male,O+,John Sparks,2020-07-01,Hypertension,"and Fernandez, Wilson Morrison",Aetna,2020-07-10,Paracetamol,Normal
+jaSon mOOrE md,44,Female,AB+,Michelle Gutierrez,2023-09-21,Obesity,Mayo and Sons,UnitedHealthcare,2023-09-25,Ibuprofen,Inconclusive
+eRiC HALl,84,Male,B+,Rachel Williams,2020-11-25,Diabetes,"Huffman Hall Orozco, and",Cigna,2020-12-02,Ibuprofen,Abnormal
+MALIk MARtINeZ,25,Female,A+,Sergio Shelton,2020-07-10,Cancer,White-Buchanan,Aetna,2020-07-18,Aspirin,Abnormal
+LisA KENNEdY,42,Male,B-,Mr. Michael White MD,2022-12-24,Arthritis,"and Dixon Taylor Hunter,",Cigna,2023-01-06,Ibuprofen,Normal
+kRIstIn ocHOA,57,Male,B+,Mary Drake,2019-10-05,Arthritis,"Anderson and Medina, Sullivan",Blue Cross,2019-10-20,Lipitor,Normal
+joSeph ZuNiGA,75,Female,O-,Tonya Wade,2022-03-13,Arthritis,PLC Dixon,Cigna,2022-03-26,Aspirin,Inconclusive
+kYLe TYlER,24,Female,AB+,Charles Torres,2020-05-15,Obesity,Bowman-Keith,UnitedHealthcare,2020-06-10,Ibuprofen,Normal
+eric duNCan,43,Female,AB-,Jennifer Freeman,2020-12-02,Asthma,Tyler PLC,UnitedHealthcare,2020-12-23,Aspirin,Normal
+raChel roMERo,22,Male,AB+,Reginald Becker,2024-01-08,Asthma,Velazquez-Patton,UnitedHealthcare,2024-01-15,Aspirin,Inconclusive
+mIcHael anDeRson,64,Female,AB-,Charles Webb,2019-08-16,Arthritis,Bass Inc,Medicare,2019-09-06,Ibuprofen,Inconclusive
+emILY clARK,66,Female,AB+,Emily Perez,2023-03-23,Arthritis,"Newton, Smith Ruiz and",Blue Cross,2023-04-19,Penicillin,Abnormal
+danIeL mCKINnEy,19,Male,O+,Rachel Thomas,2020-01-20,Obesity,Graham-Fisher,UnitedHealthcare,2020-02-11,Ibuprofen,Normal
+BOnnIe WILlIaMS,79,Female,B-,Christopher Flores,2024-01-23,Diabetes,Scott Ltd,UnitedHealthcare,2024-02-22,Paracetamol,Abnormal
+MARcUs henry,76,Male,B-,Jennifer Stevenson,2022-12-20,Asthma,Rosales-Sweeney,UnitedHealthcare,2023-01-02,Paracetamol,Normal
+katheRiNE HART,37,Female,A+,Matthew Garcia,2021-08-10,Obesity,"Larson Andrews, and Lynch",UnitedHealthcare,2021-09-03,Ibuprofen,Normal
+MIchelle pIeRCE,62,Male,O-,Brett Meyer,2020-11-23,Arthritis,PLC York,Aetna,2020-11-28,Paracetamol,Inconclusive
+Julie Mejia,80,Male,A-,David Murphy,2020-02-10,Asthma,Kelly-Watson,Blue Cross,2020-02-29,Ibuprofen,Normal
+cAMeRoN sAnChEz,49,Female,A+,Erin Henson,2019-06-04,Diabetes,"Smith Gonzalez Robinson, and",Blue Cross,2019-06-17,Ibuprofen,Abnormal
+davId Vincent,66,Female,O+,Katrina Fuentes,2023-09-24,Obesity,Cook-Taylor,Blue Cross,2023-10-11,Penicillin,Inconclusive
+MeLiSSA gOMez,50,Male,B-,Harold Jackson,2021-08-16,Diabetes,Robinson-Reyes,Blue Cross,2021-08-20,Aspirin,Inconclusive
+AMAnDa pONCe,39,Male,AB-,Christopher Merritt,2020-07-06,Arthritis,Reid Inc,Aetna,2020-07-22,Penicillin,Inconclusive
+CArOl GOMEz,31,Female,B-,Haley Kim,2022-12-07,Diabetes,"Kemp and Taylor, Jones",Aetna,2022-12-29,Paracetamol,Abnormal
+cHRISTopHEr PalmER,84,Male,AB-,Dr. Steven Johnson,2023-12-29,Cancer,Richards-Mack,Aetna,2024-01-16,Ibuprofen,Abnormal
+PAUL Hahn,71,Male,O-,Erin Cole,2023-02-16,Cancer,"and Smith Harmon, Marshall",UnitedHealthcare,2023-02-25,Paracetamol,Abnormal
+aSHLeY MOORe,79,Male,B+,Breanna Nielsen,2022-05-12,Cancer,"Velasquez and Walker Russo,",UnitedHealthcare,2022-05-16,Paracetamol,Abnormal
+lINDa haMiLTOn,56,Male,O+,John Smith,2023-09-20,Arthritis,"Harrington, and Owens Preston",UnitedHealthcare,2023-09-25,Paracetamol,Inconclusive
+robiN coX,36,Male,O-,Frank Gonzalez,2020-01-11,Obesity,Downs PLC,Cigna,2020-01-16,Aspirin,Normal
+AnthoNY HalL,38,Male,O-,Matthew Williams,2022-03-30,Obesity,"Zhang Long Eaton, and",Blue Cross,2022-04-26,Ibuprofen,Inconclusive
+roberT smitH,21,Male,AB+,Jonathan Gray,2020-05-11,Arthritis,PLC Mills,UnitedHealthcare,2020-05-20,Lipitor,Normal
+dEREK CARTER,55,Female,O+,Timothy Rodriguez,2022-01-20,Cancer,"Hoffman Cox Mcdonald, and",Cigna,2022-02-16,Paracetamol,Normal
+HEAthER MAY,79,Female,A-,Victor Welch,2019-11-13,Hypertension,Carpenter and Sons,Blue Cross,2019-11-24,Aspirin,Abnormal
+pETer gOnzAlEZ,55,Male,AB-,Robert Adams MD,2021-02-03,Arthritis,"Collins and Moore Chan,",UnitedHealthcare,2021-02-20,Lipitor,Abnormal
+chrIs flEtCheR,24,Male,AB+,Andrew Jefferson,2020-10-24,Asthma,"and Wood Lewis, Monroe",Cigna,2020-11-15,Aspirin,Inconclusive
+sHIRley wiLkinsoN,39,Female,O+,Sharon Hensley,2022-10-03,Hypertension,"and Keller, Ortega Miller",Medicare,2022-10-06,Ibuprofen,Abnormal
+COurtNey FaRRelL,63,Female,B+,Eugene Branch,2023-12-24,Cancer,"Austin, and Reynolds Duran",Cigna,2024-01-02,Ibuprofen,Normal
+aNDReA WiLliS,26,Male,AB-,Anthony Greer,2023-11-18,Asthma,Lopez LLC,Medicare,2023-11-26,Ibuprofen,Normal
+cHAD huFF,76,Female,AB+,Bob Moyer,2024-03-12,Hypertension,Clark-Tran,Aetna,2024-04-09,Paracetamol,Abnormal
+dEvin giLBert,69,Male,A+,Heather Shea,2023-04-12,Cancer,"Villanueva and Carter Hughes,",Medicare,2023-05-07,Ibuprofen,Abnormal
+DOnALD davIS,38,Female,O+,Nicholas Stevenson,2021-06-16,Obesity,Ltd Osborn,Cigna,2021-07-11,Paracetamol,Abnormal
+KUrT murphy,19,Male,AB-,Laura Guerra,2021-11-24,Hypertension,LLC Hodge,Blue Cross,2021-12-13,Penicillin,Abnormal
+SYlvia wEsT,61,Male,B-,Michele Bradford,2020-07-06,Obesity,"Lopez and Shepard Smith,",Blue Cross,2020-07-22,Aspirin,Normal
+DONaLd vAZQuEZ,42,Female,AB-,Mr. Jesse Cook,2022-06-26,Arthritis,"Moss and Meadows Jones,",Cigna,2022-07-01,Ibuprofen,Inconclusive
+REbeCCA rUsH,57,Male,AB-,Heather Simon,2020-07-21,Diabetes,Young-Williams,Cigna,2020-07-31,Lipitor,Normal
+ChrIstoPhER curRY,36,Female,A-,Larry Mendez,2019-11-04,Arthritis,"Bailey Morgan Frey, and",Blue Cross,2019-12-03,Ibuprofen,Abnormal
+miCHaeL EdwARds,68,Female,AB+,Taylor Smith,2021-11-01,Hypertension,"Neal Price and Smith,",Medicare,2021-11-03,Paracetamol,Normal
+cHriSTOPheR ARnoLd,25,Female,B+,Ian Singleton,2019-11-17,Obesity,"and Johnson Hobbs Owens,",UnitedHealthcare,2019-11-30,Ibuprofen,Inconclusive
+RAcheL hickmAn,37,Female,B+,Angela Burton,2022-12-19,Obesity,Melton Inc,Medicare,2023-01-06,Aspirin,Normal
+ashlEY grAy,68,Male,A+,Lisa Payne,2020-10-06,Asthma,and Weber Sons,Aetna,2020-10-20,Aspirin,Normal
+eLiZaBeTh PeREz,81,Female,AB-,Sara Perry,2022-01-16,Arthritis,"Chung Rodriguez Bradley, and",Aetna,2022-01-22,Ibuprofen,Abnormal
+ANgeL RaNDOlPH ddS,74,Female,A+,Ann Brown,2023-07-06,Asthma,"White Wilson and Farmer,",UnitedHealthcare,2023-08-03,Aspirin,Normal
+maRk SaUNderS,75,Male,O+,David Marshall,2021-06-12,Arthritis,Group Thompson,Cigna,2021-06-15,Ibuprofen,Abnormal
+ChriSTiAn lAnG,74,Female,AB+,Shirley Dawson,2019-08-27,Cancer,and Sons Rangel,UnitedHealthcare,2019-09-01,Lipitor,Abnormal
+Pam perKIns,28,Female,AB-,Susan Hernandez,2022-05-17,Diabetes,"Travis, and Richardson Hampton",Medicare,2022-06-12,Ibuprofen,Abnormal
+kAyLA GrEENe,35,Male,AB+,Gina Edwards,2020-10-02,Hypertension,"and Wilson Matthews, Faulkner",UnitedHealthcare,2020-10-17,Ibuprofen,Inconclusive
+mIcHAEl daVId,79,Female,O+,Laura Howell,2021-08-20,Asthma,Group Bailey,Medicare,2021-09-16,Lipitor,Abnormal
+aLeXIs mCcALl,59,Female,O-,Scott Beltran,2019-11-05,Asthma,Rosales-Johnson,Aetna,2019-11-17,Aspirin,Inconclusive
+mr. brandON perEz md,84,Female,O-,William Campbell,2024-02-06,Arthritis,Bush-Brown,Cigna,2024-02-28,Penicillin,Inconclusive
+dr. jeffREy ColE,36,Female,O-,Ethan Brock,2024-02-07,Asthma,Saunders-Smith,Aetna,2024-02-21,Ibuprofen,Normal
+maTthEw broWN,69,Male,O+,Nicholas Gomez,2023-06-22,Arthritis,"and Mckay, Morrow Myers",Blue Cross,2023-07-11,Lipitor,Normal
+RoBErT sExtON,54,Male,A-,Richard Buchanan,2020-11-19,Cancer,Sherman-Martinez,Blue Cross,2020-11-27,Penicillin,Abnormal
+ashLEy vasQUEZ,30,Female,O+,David Gonzalez,2021-11-24,Asthma,"Baker, Weber Patton and",Medicare,2021-12-07,Ibuprofen,Abnormal
+mIcHelLe FLYnn,31,Male,O-,Kristin Schmitt,2019-07-26,Cancer,"and Fitzgerald Shaw, Edwards",Medicare,2019-07-29,Lipitor,Inconclusive
+StEVEn trAn,81,Female,AB+,Kelly King,2022-07-05,Cancer,Kim-Higgins,Cigna,2022-07-08,Ibuprofen,Abnormal
+JAMeS MilLeR,61,Female,O+,Jeffery Morgan,2019-08-29,Diabetes,"Morgan, Kramer Munoz and",Medicare,2019-09-07,Paracetamol,Normal
+Bonnie hiLl,52,Male,B+,Patricia Fowler,2024-05-02,Hypertension,Harvey Group,Aetna,2024-05-21,Paracetamol,Abnormal
+AnTHONy DaviS,25,Male,B+,David Patterson,2020-05-26,Asthma,Mercer-Rogers,Blue Cross,2020-05-31,Penicillin,Normal
+DaViD ShEPPArD,56,Male,B+,Daisy Eaton,2024-03-20,Cancer,Duran Sons and,Blue Cross,2024-04-06,Paracetamol,Normal
+JOdi LAnG,44,Male,O+,Benjamin Bryant,2024-03-27,Diabetes,"Vaughan Parker and Wagner,",Medicare,2024-04-08,Ibuprofen,Abnormal
+VaNeSSa TAylor,30,Female,O+,Cynthia Velazquez,2021-03-22,Arthritis,Lee-Jacobson,Blue Cross,2021-03-25,Ibuprofen,Abnormal
+WAYnE lyncH,82,Male,O-,William Brock,2020-10-03,Cancer,"Hayes Robbins and Gallagher,",Medicare,2020-10-28,Paracetamol,Abnormal
+YEsENiA MCfarland,67,Male,B+,Douglas Lambert,2023-05-17,Obesity,"Evans and Byrd, Smith",Medicare,2023-05-31,Ibuprofen,Normal
+KEnNETH WilSON,41,Male,A+,Alex Mcknight,2022-08-12,Arthritis,and Howell Sons,Aetna,2022-08-31,Ibuprofen,Abnormal
+JIlLiAn MArks,84,Male,A-,Gregory Fox,2020-06-20,Arthritis,"Clements and Scott, Peters",UnitedHealthcare,2020-06-22,Ibuprofen,Abnormal
+MiCHELLe cruz ddS,85,Female,AB+,Carrie Navarro,2023-04-20,Asthma,Gomez-Olson,Medicare,2023-05-05,Ibuprofen,Normal
+CLaREnce fORD jr.,26,Female,A-,Laura Murillo,2019-10-28,Hypertension,"and Medina Morgan, Whitehead",Aetna,2019-11-21,Penicillin,Abnormal
+DonAlD kaNe,49,Female,O+,Alyssa Walsh,2021-08-31,Diabetes,Miller LLC,Cigna,2021-09-05,Ibuprofen,Normal
+ZaChaRY LARsEN,47,Female,A+,Jeff Barton,2021-07-14,Hypertension,Jones-Aguirre,Blue Cross,2021-08-06,Penicillin,Inconclusive
+sHeRYl MaRTinez,69,Male,A-,Ricky Anderson,2022-01-21,Diabetes,PLC Gonzalez,Aetna,2022-02-02,Paracetamol,Normal
+mr. NaTHAN avILA,78,Female,O+,John Hurst,2019-09-16,Asthma,and Davies Sons,Cigna,2019-10-16,Penicillin,Normal
+aNnE aNTHONY,29,Male,AB+,Cristina Wyatt,2023-01-20,Diabetes,Soto-Richmond,Cigna,2023-01-29,Aspirin,Abnormal
+hOlly LaMBERt,73,Male,A+,Christina Fowler,2020-01-04,Cancer,"and Morrison Ho Woods,",Medicare,2020-01-16,Paracetamol,Normal
+JAmes rASmuSsen,53,Male,AB-,Gary Barr,2024-03-03,Obesity,Lewis and Sons,Cigna,2024-03-15,Aspirin,Inconclusive
+SaRAH cannON,34,Male,AB+,Frederick Whitney,2019-07-06,Diabetes,Wood-Sandoval,Aetna,2019-08-01,Paracetamol,Inconclusive
+melInda tannER,38,Female,AB-,Mary Miller,2022-12-01,Obesity,Ball LLC,Cigna,2022-12-03,Ibuprofen,Normal
+LauriE josEPh,70,Female,B-,Evan Lewis,2020-05-10,Arthritis,Scott LLC,UnitedHealthcare,2020-05-30,Penicillin,Abnormal
+stEPHAnIe hUnteR,59,Female,AB+,Adrienne Howard,2024-03-10,Hypertension,"and Wright, Long Schroeder",Aetna,2024-03-16,Ibuprofen,Inconclusive
+gIna daviS,43,Male,AB+,Daniel Jones,2020-01-14,Arthritis,Ltd Crawford,UnitedHealthcare,2020-01-19,Paracetamol,Inconclusive
+chRiStoPheR sHEA Jr.,49,Male,B-,Craig Wolfe,2020-06-07,Diabetes,Group Moore,Cigna,2020-06-26,Penicillin,Inconclusive
+MrS. SabRIna BaLL,63,Male,AB-,Tina Griffin,2020-11-11,Asthma,Burch-Marks,Blue Cross,2020-11-30,Penicillin,Abnormal
+JoyCe McCoRmIcK,40,Female,O+,John Hansen,2021-05-07,Asthma,Koch-Alvarado,Medicare,2021-05-31,Aspirin,Abnormal
+DEVIN bElL,80,Male,B-,Trevor Evans,2021-07-13,Arthritis,"Garcia Edwards and Daniel,",Cigna,2021-08-05,Penicillin,Normal
+alLISoN rAmiREZ,74,Female,B+,Mark Johnson,2024-03-25,Cancer,Carter-Camacho,Cigna,2024-04-03,Lipitor,Normal
+lauRA roMERO,70,Male,O+,James Hays,2020-03-25,Diabetes,Malone LLC,Aetna,2020-04-02,Lipitor,Normal
+TONi fAULKNer,39,Female,AB-,Nicholas Ferguson,2023-05-14,Diabetes,Zamora PLC,Blue Cross,2023-05-20,Penicillin,Normal
+patrIcia tuRnEr,47,Female,AB+,Mr. Jeffrey Powell,2022-11-19,Diabetes,Ltd Hernandez,UnitedHealthcare,2022-11-23,Penicillin,Normal
+naThaN rAy,49,Male,AB+,Timothy Carter,2021-03-10,Diabetes,"Gomez Ray, and Jones",Cigna,2021-03-30,Lipitor,Abnormal
+RYan sAnCHeZ,64,Male,A-,Jennifer Gonzales,2020-11-15,Obesity,"Davis, Ray and Thompson",Cigna,2020-11-20,Ibuprofen,Inconclusive
+tHOMas DENnIs,40,Male,A+,Leonard Chen,2024-01-28,Asthma,Mckinney-Edwards,Medicare,2024-02-21,Paracetamol,Abnormal
+mR. timOtHY FLoRES,77,Male,A-,Margaret Ramos,2020-07-07,Arthritis,Parker-Shannon,Medicare,2020-08-05,Paracetamol,Abnormal
+WeNDy lEVIne,61,Male,AB-,Joy Davis,2023-01-22,Hypertension,Lawrence LLC,Aetna,2023-01-27,Ibuprofen,Inconclusive
+nicOLe gOnzAleZ,36,Female,A-,Mary Mckee,2020-05-10,Asthma,"and Thompson Burke, Harrington",Aetna,2020-05-24,Aspirin,Inconclusive
+miCHaeL eLlIsoN,19,Female,O+,John Evans,2021-07-09,Diabetes,"Johnson Goodman Clark, and",Cigna,2021-08-04,Aspirin,Abnormal
+BRAndON dAVIS,21,Male,O-,Benjamin Payne,2020-06-11,Cancer,"Doyle Hess, and Dudley",Cigna,2020-06-21,Paracetamol,Inconclusive
+vaNESsa GArCia,49,Male,AB-,Jeanne Allen,2020-04-21,Asthma,Bass PLC,UnitedHealthcare,2020-05-09,Lipitor,Inconclusive
+AUtUmn PEck,62,Female,A+,Kelly Jackson,2019-10-06,Obesity,"Willis and Hunt Pope,",Cigna,2019-11-04,Aspirin,Normal
+NAthAnIEL REynoLdS,54,Female,O-,Michael Barber,2020-07-11,Hypertension,"Gray, Hensley and Hanson",UnitedHealthcare,2020-07-31,Penicillin,Normal
+JOYCE MoOdY,22,Male,AB-,Steven Clark,2022-04-03,Obesity,Moore-Woods,Cigna,2022-04-17,Paracetamol,Abnormal
+MaRK FuEnTes,74,Male,A-,Amy Bailey,2020-01-21,Hypertension,Moore-Franco,Medicare,2020-01-29,Aspirin,Abnormal
+brETT FerGusoN,35,Female,A+,Cody Houston,2022-12-16,Asthma,Hamilton and Sons,UnitedHealthcare,2023-01-08,Lipitor,Abnormal
+TravIS SiMMOnS,20,Male,B-,Gregory Nichols,2022-07-20,Asthma,Burke Group,UnitedHealthcare,2022-07-29,Ibuprofen,Inconclusive
+jEremY fRye,18,Female,B-,Christopher Odom,2021-07-25,Cancer,Anderson LLC,UnitedHealthcare,2021-07-28,Paracetamol,Abnormal
+cAmerOn MilLER,55,Female,O+,Raymond Bell,2023-07-19,Cancer,Sims-Jimenez,Medicare,2023-08-02,Lipitor,Normal
+wilLIAM wiLliams dDS,66,Male,B-,Autumn Fitzgerald,2023-05-22,Diabetes,Holloway PLC,Aetna,2023-06-08,Ibuprofen,Inconclusive
+tRACIe WrigHt,62,Female,O-,James Armstrong,2020-07-08,Hypertension,Cain-Stone,Blue Cross,2020-07-25,Ibuprofen,Inconclusive
+DaVid reyEs,43,Female,A-,Darius Schaefer,2022-12-27,Asthma,Garner Group,Medicare,2023-01-24,Lipitor,Inconclusive
+pAiGE KIng,24,Female,B-,Katherine Dunn,2019-06-21,Diabetes,Ltd Logan,Aetna,2019-07-12,Ibuprofen,Abnormal
+James gArCIA,46,Female,O+,Katherine Flynn,2021-01-01,Diabetes,Bishop PLC,UnitedHealthcare,2021-01-27,Penicillin,Inconclusive
+lOri hArvEY,58,Male,AB-,Julian Perkins,2022-09-07,Asthma,Lewis-Mitchell,Medicare,2022-09-28,Lipitor,Inconclusive
+amy wANG,58,Male,B+,Holly Taylor,2022-06-09,Obesity,and Campbell Sons,Cigna,2022-06-26,Ibuprofen,Abnormal
+joRDAn vARgaS,48,Male,B+,Mark King,2023-11-01,Cancer,James PLC,UnitedHealthcare,2023-11-10,Paracetamol,Inconclusive
+GORDON kELLY,43,Male,O-,Shelby Johnson,2023-08-06,Obesity,Colon-Meyer,Blue Cross,2023-08-13,Lipitor,Inconclusive
+nathaN Scott,74,Female,AB+,Angela Logan MD,2022-07-30,Obesity,"and Woods Liu, Berry",Cigna,2022-08-25,Aspirin,Abnormal
+LiSA grEEn,47,Female,AB-,Gloria Schultz,2021-02-04,Diabetes,LLC Clayton,UnitedHealthcare,2021-02-28,Ibuprofen,Inconclusive
+amY CoMbS,35,Male,A+,Victor Morales,2021-11-26,Cancer,Le-Hawkins,Blue Cross,2021-12-09,Paracetamol,Normal
+KelLY sANfoRD,28,Male,B-,Nancy Vaughn,2020-07-02,Arthritis,"Martinez Taylor Lopez, and",UnitedHealthcare,2020-07-03,Lipitor,Abnormal
+mrs. jEssIcA BlAck md,49,Male,A-,Christopher Rivera,2021-08-09,Diabetes,Williams Group,Medicare,2021-09-06,Ibuprofen,Normal
+rObERT GoulD,28,Male,AB-,Brittany Rocha,2024-01-18,Obesity,Schmidt-Douglas,Cigna,2024-02-04,Ibuprofen,Inconclusive
+cHRISTiNe VArgaS,50,Male,O-,Patricia Hall,2023-01-17,Obesity,Ltd Fleming,Aetna,2023-02-10,Paracetamol,Normal
+BARbara dIaZ,59,Male,A-,Christopher Hudson,2024-03-27,Obesity,"Smith Brown Wallace, and",Blue Cross,2024-04-21,Lipitor,Normal
+jOHn washIngtON,22,Female,O+,Walter Perez,2023-01-10,Hypertension,Boyer Inc,Blue Cross,2023-01-23,Ibuprofen,Normal
+DEVIn stEWaRt,62,Female,B+,Jonathan Chang,2019-07-14,Arthritis,Miranda-Collins,Aetna,2019-07-18,Lipitor,Normal
+JAMeS ROBeRTs,21,Female,A+,Maria Ritter,2020-05-18,Cancer,Hoffman and Sons,Cigna,2020-06-02,Ibuprofen,Normal
+JaMes YATEs,44,Male,B-,Elizabeth Snyder,2022-06-15,Obesity,Group Ortega,Aetna,2022-06-25,Ibuprofen,Inconclusive
+PeTEr nIcHOLs,27,Male,B+,Dennis Harris,2020-03-27,Hypertension,"Mitchell, Vasquez and Chaney",Cigna,2020-04-05,Penicillin,Normal
+karen pRice,47,Male,O-,Caroline Fields,2020-02-20,Diabetes,Villa-Simpson,UnitedHealthcare,2020-03-01,Lipitor,Normal
+chRisTOPHEr jONes,51,Male,O-,Joseph Rivera,2020-06-16,Hypertension,LLC Haynes,Blue Cross,2020-06-21,Penicillin,Inconclusive
+LaRRY LeoNarD,48,Female,B-,Charles Reynolds,2019-06-06,Hypertension,Inc Cummings,UnitedHealthcare,2019-07-02,Ibuprofen,Normal
+MiChELle zHaNg,83,Male,B-,Patricia Valentine,2022-01-18,Arthritis,Downs-Stephens,Blue Cross,2022-02-05,Paracetamol,Abnormal
+kriSTEn FlOrES,64,Male,A+,Angela Reed,2021-01-11,Arthritis,"Carson and Nielsen, Buchanan",Aetna,2021-01-23,Aspirin,Abnormal
+MaTThEW bELl,19,Male,O+,Doris Johnson,2021-02-04,Obesity,Hicks-Perez,Medicare,2021-02-15,Aspirin,Abnormal
+brADLeY MIraNdA,39,Male,B-,Devin Pratt,2022-05-30,Asthma,"Wilson and Brown, Ortiz",UnitedHealthcare,2022-06-01,Aspirin,Inconclusive
+cHRIsToPheR mOORE,23,Female,O+,Angela Allison,2021-12-19,Hypertension,Berg-Mcconnell,Blue Cross,2021-12-30,Paracetamol,Normal
+dan PINEDA,24,Male,B+,Phyllis Nguyen,2021-07-20,Diabetes,Gilbert Ltd,UnitedHealthcare,2021-08-07,Lipitor,Abnormal
+maRIaH SmiTH,73,Female,AB-,Melissa Mendoza,2022-12-27,Cancer,Gutierrez-Webster,Blue Cross,2023-01-19,Paracetamol,Abnormal
+saBRINa cOoK,56,Male,O-,Christopher Bates,2022-09-05,Obesity,Group Thompson,UnitedHealthcare,2022-10-04,Penicillin,Normal
+MelIssA hOFfMAN,36,Male,B+,April Cummings,2022-07-27,Cancer,Cooley-Reid,Cigna,2022-08-19,Lipitor,Inconclusive
+Joseph MARtiN,33,Male,A+,Andrew Hill,2024-05-03,Cancer,"and Davenport Davis Hobbs,",Aetna,2024-05-15,Lipitor,Normal
+meLissA SIms,21,Male,O+,Susan Sampson,2019-08-28,Arthritis,Thompson-Becker,Aetna,2019-09-16,Aspirin,Abnormal
+SaraH evans,80,Male,B-,Darren Becker,2024-04-21,Diabetes,Mitchell Inc,Blue Cross,2024-05-07,Aspirin,Abnormal
+mARIA ANDeRsON,79,Female,O+,Lee Santiago,2024-03-12,Arthritis,"Mack, Wilson and Fowler",Blue Cross,2024-04-04,Aspirin,Abnormal
+MariA JOHnStON,44,Male,A+,Holly Walton,2019-09-29,Obesity,"Johnson Garcia, and Anthony",UnitedHealthcare,2019-10-05,Aspirin,Inconclusive
+JaMES COle,23,Male,AB+,Craig Howard,2022-08-19,Obesity,"and Young Powell Mitchell,",Medicare,2022-08-24,Penicillin,Normal
+iSaiaH hOlT,75,Male,A-,Diane Riley,2021-10-18,Cancer,Bishop Inc,Blue Cross,2021-11-01,Ibuprofen,Normal
+joSEPH gonzaLeS,60,Male,A-,John Schroeder,2023-04-07,Hypertension,Coleman-Dawson,Medicare,2023-05-05,Lipitor,Normal
+JenNiFEr CAMaCho,83,Male,AB-,Mark Watson,2019-10-28,Asthma,Cunningham-King,UnitedHealthcare,2019-11-24,Ibuprofen,Inconclusive
+HecTOR jonES,61,Female,AB+,Diane Griffin,2020-06-29,Hypertension,Anderson PLC,UnitedHealthcare,2020-07-26,Penicillin,Normal
+jEsSIcA jOnes Dds,82,Female,AB+,Kenneth Mcintosh,2022-09-21,Diabetes,"Freeman King Hodges, and",Aetna,2022-10-03,Aspirin,Normal
+IsaBeLlA martIn,40,Male,A-,Victoria Hernandez,2023-08-10,Arthritis,Sons Wilson and,Cigna,2023-08-15,Ibuprofen,Normal
+daNiEL pALMeR,70,Female,B+,David Zavala,2022-05-16,Hypertension,Woodward Ltd,Cigna,2022-05-26,Lipitor,Normal
+sTEPhanIe BeNsoN,68,Female,O+,Frederick Fields,2020-08-25,Cancer,"Powell Branch Osborn, and",Blue Cross,2020-09-15,Lipitor,Abnormal
+AshleY WiLliamS,31,Female,B-,Michael Nguyen,2023-10-04,Cancer,"Brown Brown, and Sanders",Blue Cross,2023-10-11,Ibuprofen,Inconclusive
+GReGOrY NguYEn,28,Male,O+,Casey Fowler,2022-04-28,Asthma,Harris-Oconnor,Aetna,2022-05-27,Penicillin,Inconclusive
+joE SmItH,84,Male,O+,Michael Miller,2019-05-29,Hypertension,"Paul Richardson Haynes, and",Blue Cross,2019-06-17,Aspirin,Abnormal
+LIsa wATTS,34,Female,AB+,Kaylee Hampton,2024-03-09,Arthritis,Patterson-Lee,Aetna,2024-03-23,Aspirin,Abnormal
+alexAnDER GArcia,25,Female,B+,Amber Gordon,2020-01-07,Hypertension,"and Yang Fox Scott,",Cigna,2020-02-01,Aspirin,Normal
+ElIzabETh PErKINs,58,Female,B+,Colleen Meyers,2019-11-10,Asthma,"Burch, and Sexton Sandoval",Medicare,2019-12-06,Paracetamol,Abnormal
+LAuRA WELLS,78,Female,O+,Eileen Hernandez,2023-01-24,Diabetes,"Johnson and Delgado, Bennett",Medicare,2023-02-01,Aspirin,Inconclusive
+robErT mCcORmICk,56,Male,AB+,Carrie Wright,2019-07-28,Diabetes,Garza Group,Blue Cross,2019-08-26,Penicillin,Inconclusive
+MICHAEL yu,77,Male,AB-,Jeffrey Schmidt,2022-07-18,Arthritis,"Olson, Andrade and Dixon",Medicare,2022-08-07,Paracetamol,Abnormal
+jacOB GRaHam,61,Female,A+,Jaime Bell,2020-06-07,Asthma,Fisher Inc,UnitedHealthcare,2020-07-01,Penicillin,Abnormal
+aNdrea kenNedy,40,Female,B-,Brian Cooper,2020-12-07,Cancer,Farrell-Lyons,Medicare,2020-12-20,Lipitor,Abnormal
+StacEY aNderson,80,Male,AB-,Anthony Graves,2020-04-10,Diabetes,"Greer Cain and Taylor,",Medicare,2020-04-30,Paracetamol,Abnormal
+jasOn mArsh,35,Male,A-,Traci White MD,2023-07-12,Hypertension,Turner Ltd,Medicare,2023-07-22,Aspirin,Normal
+tiFfAnY FErguSON,85,Female,A+,Eric Lutz,2022-09-10,Cancer,Johnson Group,Blue Cross,2022-09-14,Lipitor,Abnormal
+mark hErnaNdEZ,64,Male,AB-,Brenda Hill,2021-04-15,Hypertension,Sherman Inc,Cigna,2021-05-07,Aspirin,Normal
+KEITH HenRy,30,Female,O-,Peter Brown,2020-08-20,Cancer,"and Garcia Wade Richardson,",Medicare,2020-08-23,Ibuprofen,Abnormal
+mIChelLE WRIghT,19,Female,A+,Benjamin Banks,2020-08-14,Arthritis,White-Graham,Medicare,2020-08-28,Ibuprofen,Abnormal
+TRoY DaVIS,64,Male,A+,Natalie Perez,2021-07-17,Diabetes,and Miller Sons,UnitedHealthcare,2021-08-03,Lipitor,Inconclusive
+MiSty burton,44,Male,B+,Erica Williams,2023-01-27,Diabetes,"Taylor, and Mullins Lara",Medicare,2023-02-02,Lipitor,Inconclusive
+RObERt rObINsOn,66,Female,O-,Jasmine Webb,2020-09-04,Asthma,"and King, Vega Jones",Medicare,2020-09-20,Penicillin,Inconclusive
+CHrISTiNA caldeROn,79,Female,AB+,David Cabrera,2020-02-08,Hypertension,Alvarez-Cruz,Blue Cross,2020-02-21,Aspirin,Normal
+JOhN GRahAm,59,Female,O+,Julie Gonzales,2019-07-01,Diabetes,"Walker Cisneros and Adams,",Aetna,2019-07-05,Penicillin,Abnormal
+mICHAEl PARkER,47,Male,O+,Julia Campbell,2024-01-01,Asthma,Ltd Lewis,Aetna,2024-01-12,Aspirin,Normal
+WIlliAm EVANs,49,Male,AB+,Zachary Robinson,2021-03-10,Obesity,Esparza-Martinez,UnitedHealthcare,2021-04-07,Paracetamol,Normal
+vAlEriE hodgES,35,Male,AB+,Christine Smith,2019-09-19,Cancer,"Baker Hernandez and Scott,",Blue Cross,2019-10-16,Paracetamol,Inconclusive
+brENda BecK,69,Female,B+,Barbara Burgess,2023-02-24,Obesity,Group Lopez,Blue Cross,2023-02-25,Aspirin,Abnormal
+CHrISTIne DAvIs,57,Male,O+,Malik Goodwin,2022-03-30,Obesity,"and Le Martin Young,",UnitedHealthcare,2022-04-14,Lipitor,Inconclusive
+keVIN dANiEl,51,Female,A+,Diana Shaw,2019-08-30,Asthma,PLC Cook,Aetna,2019-09-17,Paracetamol,Inconclusive
+BRIttney WagNER,31,Female,O+,Michael Mason,2019-12-21,Arthritis,"Baker, Davis Hill and",Blue Cross,2019-12-31,Lipitor,Abnormal
+criStIaN bUChANAn,34,Female,A-,Alexis Bradford,2019-08-31,Obesity,Johnson-Gray,Blue Cross,2019-09-28,Paracetamol,Abnormal
+MiCHAEl bRady,57,Male,O+,Jasmine Parker,2022-03-30,Cancer,"Mitchell, and Garcia Saunders",Medicare,2022-04-11,Ibuprofen,Normal
+jOrdan LEON,51,Female,O+,Christina Lopez,2023-08-11,Arthritis,Dennis-Roth,Cigna,2023-08-20,Penicillin,Normal
+kAteLyn cunNINGHam,85,Male,B+,Richard Franco,2021-10-29,Asthma,"Mcgee Patton Aguirre, and",Cigna,2021-11-25,Penicillin,Inconclusive
+KRyStal mENDoZA,51,Male,A-,Marc Reid,2020-09-18,Cancer,Foster-Thomas,Medicare,2020-10-12,Aspirin,Abnormal
+aLEx RodriGUEz,39,Male,AB+,Ryan Simmons,2021-02-24,Cancer,Group Mann,Aetna,2021-03-17,Paracetamol,Inconclusive
+GeoFfrEy barkER,75,Male,AB-,Clinton Sanchez,2023-07-07,Hypertension,Martinez-Strickland,UnitedHealthcare,2023-07-13,Paracetamol,Normal
+ALEc miTCheLl,46,Female,O+,Cindy Gonzalez,2023-06-26,Hypertension,"Shaw Tapia and Barnes,",Blue Cross,2023-07-23,Ibuprofen,Inconclusive
+JasOn joRDaN,47,Male,O-,Christy Ochoa,2021-11-12,Obesity,Morris-Campbell,Aetna,2021-12-04,Paracetamol,Normal
+philiP ReYES,38,Female,O+,Gabriel Livingston,2021-10-23,Arthritis,"Anderson Morton and Vang,",UnitedHealthcare,2021-11-08,Paracetamol,Abnormal
+AarOn BradsHaw,25,Female,O+,Mackenzie Phillips,2019-11-30,Arthritis,Olson LLC,Aetna,2019-12-20,Lipitor,Inconclusive
+ERicA fOrd,65,Male,AB+,Gabriel Lane,2023-03-19,Hypertension,Juarez and Sons,Cigna,2023-04-16,Lipitor,Normal
+dr. KAtIe baRReTt DVM,50,Female,O-,Whitney Chavez,2022-02-02,Hypertension,"Ramos Hansen Clark, and",Blue Cross,2022-02-05,Aspirin,Inconclusive
+Jacob youNG,40,Male,AB+,Tara Tucker,2023-09-25,Obesity,PLC Aguirre,UnitedHealthcare,2023-10-05,Aspirin,Normal
+amY RAMos,70,Male,B+,Dustin Alvarez,2021-10-28,Arthritis,"Nelson Baldwin, Boyd and",UnitedHealthcare,2021-10-31,Ibuprofen,Inconclusive
+PaTricK moRAlES,56,Female,AB-,Jessica Conway,2020-06-16,Hypertension,"Martinez, and Moore White",Blue Cross,2020-07-14,Ibuprofen,Abnormal
+sOpHIA cONwAY,25,Male,O+,Heidi Wood,2021-10-07,Diabetes,"Barker, Costa Hahn and",Medicare,2021-11-06,Ibuprofen,Normal
+jamES mOORE,20,Male,A-,David Gordon,2021-04-29,Diabetes,"Anderson and Higgins Galvan,",Aetna,2021-05-17,Paracetamol,Inconclusive
+ChRisTOPHeR cOChRan,73,Female,AB-,Jonathan Thomas,2019-05-12,Diabetes,Flores-Roman,Cigna,2019-06-07,Lipitor,Abnormal
+RObeRT Carter,82,Male,B-,Lori Diaz,2021-09-12,Obesity,"Miller, Moon Boyd and",UnitedHealthcare,2021-09-17,Aspirin,Inconclusive
+moRgAn NGUYEn,31,Male,B+,Martin Dominguez,2021-01-25,Diabetes,Inc Harmon,Aetna,2021-01-27,Ibuprofen,Normal
+natHAn MONToYA,74,Male,O-,Adam Roberts,2020-05-22,Cancer,"Elliott Jones Hinton, and",Aetna,2020-06-17,Ibuprofen,Normal
+jOE Berry PhD,38,Female,B-,Nancy Beck,2022-06-20,Asthma,Sons Mckinney and,Blue Cross,2022-07-14,Aspirin,Inconclusive
+daNIeL oRtiz,63,Female,AB-,Christy Hughes,2020-11-16,Cancer,Carroll-Howard,UnitedHealthcare,2020-12-06,Paracetamol,Normal
+mATthEw cLaRk,62,Female,B-,Charles Hernandez,2020-10-09,Obesity,"and Park, Garcia Lam",Cigna,2020-10-14,Ibuprofen,Inconclusive
+JAcQuELINE hArDY,80,Male,O+,Hannah Clay,2023-12-12,Obesity,"Chavez Valenzuela, and Gutierrez",UnitedHealthcare,2023-12-27,Ibuprofen,Normal
+eMiLY JoSEPh,25,Female,AB-,Steven Dixon,2022-06-14,Cancer,Hill-Hernandez,Cigna,2022-07-03,Lipitor,Abnormal
+sarAH HiCKs,51,Male,A-,Monica Thomas,2023-02-23,Diabetes,Skinner LLC,Blue Cross,2023-03-18,Aspirin,Abnormal
+bRiANa rOsS,46,Female,AB+,Alexander Moore,2024-04-25,Obesity,Inc Cox,Aetna,2024-05-12,Ibuprofen,Inconclusive
+maRY mcculLOUgH,18,Female,A+,Curtis Mckinney,2022-06-08,Asthma,Perez Sons and,UnitedHealthcare,2022-06-22,Penicillin,Normal
+bRIAn OSborNe,30,Female,B-,Stephanie Shepard,2023-12-07,Cancer,"Parker Turner, Houston and",Cigna,2023-12-24,Ibuprofen,Normal
+suSAn WALTerS,43,Male,AB-,Russell Soto,2020-11-03,Cancer,Wilson-Chen,Medicare,2020-12-01,Paracetamol,Abnormal
+CATHerine HaRVEY,21,Male,AB+,Charles Cardenas,2023-10-03,Hypertension,Boone-Duffy,Medicare,2023-10-18,Paracetamol,Normal
+cORY PIERCe,28,Female,B-,Brandon Montoya,2022-06-11,Hypertension,Reid-Simmons,UnitedHealthcare,2022-06-28,Paracetamol,Abnormal
+jeSus jORdan,26,Female,O-,Andrew Bishop,2021-07-03,Hypertension,Dunn-Bentley,Aetna,2021-07-29,Penicillin,Inconclusive
+ANn dUNCAN,24,Male,A-,Daniel Sanders,2024-03-19,Asthma,Inc Cherry,Aetna,2024-04-02,Penicillin,Inconclusive
+Sarah pOrTEr,55,Female,AB-,Jeremiah Nunez,2024-01-11,Diabetes,Zavala-Fernandez,Blue Cross,2024-01-30,Paracetamol,Inconclusive
+jACquEliNE DeAN,41,Female,A+,Carolyn Peters,2021-06-26,Cancer,Jones-Fleming,Medicare,2021-07-21,Lipitor,Inconclusive
+AnNE lam,85,Male,O+,Paul Ruiz,2024-01-19,Asthma,Christian-Hall,UnitedHealthcare,2024-02-05,Ibuprofen,Inconclusive
+jEnnifeR GomEz,45,Male,O-,Robert Palmer,2020-12-15,Hypertension,LLC Cabrera,Blue Cross,2021-01-13,Lipitor,Inconclusive
+daVId CuRTIs,22,Female,B+,Lisa Grimes,2021-05-14,Hypertension,"Hernandez and Delacruz, Kramer",Cigna,2021-05-28,Paracetamol,Abnormal
+joSHUa JOHnsON,18,Male,B+,Ronald Russell,2021-07-10,Diabetes,Cervantes-Herrera,UnitedHealthcare,2021-07-12,Paracetamol,Normal
+jEReMy bOwen,60,Male,B-,Tracey Smith,2020-07-25,Diabetes,Garrison-Mcfarland,Medicare,2020-07-29,Lipitor,Normal
+denNIs cLarkE,22,Female,AB+,Mark Baker,2019-09-17,Obesity,Warren-Brown,Cigna,2019-10-01,Lipitor,Inconclusive
+jeNNiFER spEnCe,65,Female,A+,Austin Perry,2019-05-14,Obesity,Ruiz Group,Medicare,2019-05-20,Aspirin,Inconclusive
+biLlY fITZGERALd,73,Female,B+,Dr. Mackenzie Bell,2020-05-31,Asthma,Anderson-Brown,Aetna,2020-06-28,Ibuprofen,Inconclusive
+krisTEN JamES,82,Female,AB+,Kimberly Calhoun,2020-03-27,Hypertension,Hull Sons and,Medicare,2020-04-04,Ibuprofen,Inconclusive
+cAiTLIN bEndEr,32,Female,O-,Timothy Aguilar,2019-12-23,Arthritis,"Oliver Mcdonald, and Johnson",Aetna,2019-12-30,Penicillin,Normal
+bRENda fULleR,76,Male,A-,Cynthia Stanton MD,2024-02-08,Obesity,Lara-Allen,Blue Cross,2024-02-16,Aspirin,Abnormal
+CASSaNdrA rIcE,61,Female,A-,Craig Delgado,2023-09-23,Asthma,Group Summers,Aetna,2023-09-24,Ibuprofen,Abnormal
+SeRgIO saNcheZ,63,Male,AB+,Courtney Parsons,2020-05-14,Cancer,"Phillips Medina, Rivera and",Aetna,2020-05-20,Paracetamol,Inconclusive
+keviN stein,54,Female,B+,Sandra Barker,2020-02-11,Hypertension,LLC Flores,Aetna,2020-03-01,Lipitor,Normal
+MAUrEEN grANT Md,77,Male,AB+,Michael Hogan,2021-09-13,Hypertension,Inc Pace,UnitedHealthcare,2021-10-09,Paracetamol,Normal
+SaMantHA gUtIErrez,64,Male,B+,Toni Perry MD,2020-10-24,Diabetes,Garcia-Robinson,Aetna,2020-10-25,Penicillin,Normal
+GEORgE woodwARd,69,Male,B+,William Bailey,2020-12-29,Arthritis,Snow-Day,Aetna,2021-01-21,Aspirin,Inconclusive
+sHaNe TaTe,31,Male,O+,Tiffany Ortega,2024-03-19,Cancer,Inc Rangel,Cigna,2024-04-07,Penicillin,Inconclusive
+KErRY HaWkiNs,40,Male,O-,Willie Lowery,2021-12-13,Arthritis,Irwin-Kaufman,UnitedHealthcare,2021-12-19,Penicillin,Abnormal
+mARissA mORa,50,Male,O-,Jaime Allen,2022-05-17,Asthma,"Brown and Colon, Anderson",Cigna,2022-06-03,Paracetamol,Abnormal
+rICKy mEYeR,83,Female,A-,Becky Jones,2022-12-01,Arthritis,"and Peterson, Rodriguez Murphy",Cigna,2022-12-17,Paracetamol,Abnormal
+EDWArd JOneS jR.,23,Female,O-,Tiffany Frank,2020-03-16,Cancer,"and Frederick, Jones Garcia",Blue Cross,2020-03-22,Lipitor,Normal
+HeatHER mELeNdez,68,Female,AB+,Joe Mora,2020-10-20,Arthritis,"and Fuentes Rogers Gill,",Aetna,2020-10-27,Paracetamol,Inconclusive
+jesSIcA mAciaS,37,Male,AB-,Teresa Tucker,2024-01-05,Asthma,Group Schneider,Blue Cross,2024-01-27,Penicillin,Inconclusive
+JaMIe leACh,24,Female,B-,Ruben Cross,2023-08-17,Arthritis,Sandoval-Bennett,Cigna,2023-09-01,Aspirin,Abnormal
+matThEW sImMoNs,21,Male,B-,Timothy Choi,2023-03-31,Diabetes,Young Ltd,Cigna,2023-04-22,Lipitor,Abnormal
+SHeILA bAXtEr,46,Female,AB-,Robert Lester,2022-11-21,Diabetes,Lopez-Brooks,Aetna,2022-11-22,Ibuprofen,Abnormal
+DAVE PaRrISH,61,Female,B+,Sandra Bender,2020-08-24,Arthritis,"Leblanc Conway, Holt and",Aetna,2020-09-06,Lipitor,Inconclusive
+brYaN SteWart,25,Male,O-,Martin Smith,2022-02-12,Arthritis,Ltd Roberts,Aetna,2022-03-03,Ibuprofen,Inconclusive
+JaMes beLL,75,Female,A-,Martha Johnson,2023-08-15,Arthritis,and Carter Sons,Medicare,2023-09-04,Lipitor,Abnormal
+Joshua LOve,43,Female,O-,Mercedes Harris,2023-01-13,Diabetes,"Moore and Rhodes Lang,",UnitedHealthcare,2023-02-01,Paracetamol,Inconclusive
+rObErT CLArk,38,Female,B-,Gregory Chung,2020-04-28,Obesity,Poole LLC,Aetna,2020-05-20,Aspirin,Abnormal
+marisa GOlDEN,28,Male,AB+,James Young,2022-10-21,Arthritis,Hansen-Torres,Medicare,2022-10-22,Penicillin,Inconclusive
+NanCy HaMIltOn,80,Male,O+,Carla Combs,2022-12-15,Hypertension,Park-Douglas,Aetna,2022-12-25,Paracetamol,Abnormal
+BRyaN bOwERS,63,Female,O+,Peter Martinez,2020-09-01,Asthma,"Ruiz, Scott Mitchell and",Blue Cross,2020-10-01,Ibuprofen,Inconclusive
+NIColE mArTIN,75,Female,AB-,Christopher Spears,2019-11-18,Cancer,"and Rodriguez Gallegos Henry,",Blue Cross,2019-12-11,Paracetamol,Abnormal
+WillIam HaRmON,59,Female,O+,Carrie Howell,2022-08-22,Arthritis,Ltd Miller,Medicare,2022-08-30,Ibuprofen,Inconclusive
+TOM BRoWN,27,Male,A+,Tina Ray,2020-08-01,Diabetes,"Turner Bradford and Allison,",Blue Cross,2020-08-26,Aspirin,Abnormal
+CynthIa NeLSoN,77,Male,A+,Debbie Jones,2024-01-18,Arthritis,Goodwin Ltd,Aetna,2024-02-15,Penicillin,Inconclusive
+TODD gROSS,19,Female,B-,Anthony Ortiz,2020-03-17,Asthma,Carrillo-Price,Medicare,2020-04-10,Lipitor,Abnormal
+sTEphAnie cHung,58,Male,AB+,Jason Stewart,2022-08-15,Arthritis,and Sons Lee,Aetna,2022-09-01,Ibuprofen,Abnormal
+KayLA PeREZ,57,Male,AB+,Derek Dorsey,2023-05-15,Cancer,Rogers-Robles,Blue Cross,2023-05-19,Lipitor,Inconclusive
+paul marTInez,59,Male,A+,William Carter,2019-06-27,Hypertension,Massey Inc,Medicare,2019-07-19,Ibuprofen,Abnormal
+joshuA neLson,62,Male,B+,Angel Jones,2023-10-29,Hypertension,Arias-Galvan,Aetna,2023-11-14,Lipitor,Normal
+JAkE COpeLand,71,Male,AB-,Christopher Fowler,2024-01-09,Diabetes,Scott-Moore,UnitedHealthcare,2024-01-20,Penicillin,Inconclusive
+mAria GArdNEr,35,Female,B+,Stephanie Herrera,2020-08-23,Cancer,Jarvis-Roberts,Aetna,2020-08-29,Lipitor,Inconclusive
+jAnEt ROBERTs DDS,34,Male,AB+,Scott Herring,2020-01-07,Asthma,Clay LLC,Blue Cross,2020-01-12,Paracetamol,Normal
+pETeR ramSey,84,Female,O-,Angela Cook,2019-10-25,Arthritis,"Quinn, Bentley and Allen",Cigna,2019-11-15,Ibuprofen,Inconclusive
+AsHley farmER,77,Female,AB+,Michael Davis,2023-09-20,Diabetes,Williams PLC,UnitedHealthcare,2023-10-08,Paracetamol,Inconclusive
+kaTHerInE haLE,85,Male,B+,Thomas Hunt,2020-01-12,Arthritis,"Griffith Mccullough Mendoza, and",UnitedHealthcare,2020-01-23,Penicillin,Inconclusive
+GAry BOWEN,34,Female,B+,Dylan Hale,2019-06-04,Asthma,Meyers-Moore,Blue Cross,2019-06-07,Ibuprofen,Normal
+LaURA rYan,72,Female,AB-,Bradley Holt,2021-12-14,Asthma,Blair-Bell,Aetna,2021-12-24,Aspirin,Abnormal
+TiMoThY lOpeZ,33,Female,A-,Sandra Powers,2023-05-30,Diabetes,Lester-Fletcher,Cigna,2023-06-01,Ibuprofen,Abnormal
+ANThoNy gUZmAn,80,Female,AB-,Evan Campbell,2019-08-26,Arthritis,Rodriguez LLC,Blue Cross,2019-09-15,Penicillin,Abnormal
+MIChael ShaRP,24,Female,O-,Sylvia Villarreal,2019-11-16,Arthritis,LLC Baldwin,Medicare,2019-12-02,Aspirin,Abnormal
+daVId CarrOlL,44,Female,A-,Matthew Hopkins,2022-04-23,Arthritis,Riley PLC,Medicare,2022-05-19,Lipitor,Normal
+Connor BARTOn,32,Female,B+,Joseph Miller,2020-02-20,Asthma,Snyder-Perry,Medicare,2020-02-21,Paracetamol,Inconclusive
+AnGElA SCOtT,83,Male,B+,Charles Palmer,2022-10-19,Obesity,Perez-Carlson,Blue Cross,2022-11-10,Ibuprofen,Inconclusive
+DAvID ORTiz,80,Male,O-,Michael Walters,2022-02-05,Arthritis,"Richardson Mccormick, Cruz and",Cigna,2022-02-18,Penicillin,Inconclusive
+paTRicK pierce,41,Female,B+,Scott Smith,2019-08-01,Cancer,Underwood-Mcguire,Cigna,2019-08-09,Ibuprofen,Abnormal
+KeiTH JohnSoN,39,Male,O-,Nicole Jensen,2021-06-19,Arthritis,"Galvan, Lopez Salazar and",UnitedHealthcare,2021-07-16,Aspirin,Normal
+antonio smITh,55,Male,O-,Brent Dickerson,2020-06-28,Asthma,Fisher-Perez,Aetna,2020-07-24,Ibuprofen,Normal
+jOHN TaYlOR,59,Male,A-,Nicole Young,2019-10-06,Asthma,"Maldonado Anderson and Adkins,",Cigna,2019-10-24,Aspirin,Abnormal
+barbAra stEwarT,34,Female,A-,Jared Kemp,2022-07-17,Asthma,Ruiz PLC,Aetna,2022-07-23,Paracetamol,Inconclusive
+lArRy TaNnEr,27,Female,O+,Dennis Gilbert,2021-05-22,Hypertension,Ltd Watts,Cigna,2021-06-09,Paracetamol,Normal
+MAllORy diAz,56,Female,O+,William Mcguire,2022-08-16,Diabetes,and Martinez Sons,Cigna,2022-09-04,Aspirin,Inconclusive
+jOhN WILLiams,60,Female,A+,Jesus Wagner,2021-03-31,Cancer,Harrington-Marshall,Aetna,2021-04-18,Ibuprofen,Abnormal
+peter miller,71,Female,O-,Jose Cooley,2021-09-06,Obesity,Robbins Inc,Aetna,2021-09-17,Lipitor,Abnormal
+rYaN bUtLeR,20,Male,AB-,Andrew Clark,2023-08-26,Diabetes,"and Conway George, Huff",Cigna,2023-08-27,Penicillin,Inconclusive
+SaMANTHa lOwERY,75,Male,A+,Evelyn Patterson,2019-11-27,Asthma,Group Thompson,Aetna,2019-12-07,Penicillin,Normal
+TiFFAny LEe,32,Female,A+,Maria Estes,2023-03-07,Obesity,Rodriguez-Arnold,UnitedHealthcare,2023-03-12,Lipitor,Normal
+SamaNthA WiLlIs,66,Female,A-,Mrs. Linda Miles,2022-10-03,Diabetes,"and Sullivan, Mcclure Shields",Aetna,2022-10-14,Lipitor,Abnormal
+pAmela BroWn,78,Female,O-,Catherine Wiley,2023-01-10,Diabetes,Charles LLC,Medicare,2023-01-30,Lipitor,Abnormal
+cARLA walkER,49,Male,O-,Olivia Nichols,2020-04-12,Cancer,Morgan-Young,Cigna,2020-05-04,Aspirin,Normal
+MaRy GOnzaLeS,73,Male,B-,Christie Vargas,2020-11-20,Arthritis,"Garcia and Nguyen, Leonard",Aetna,2020-12-15,Aspirin,Inconclusive
+SHEllEY FlEmInG,69,Male,AB-,Nathaniel Jacobson,2024-04-26,Hypertension,PLC Fox,Aetna,2024-05-24,Ibuprofen,Abnormal
+MARK bLakE,51,Female,A+,Kayla Clark,2023-06-29,Hypertension,"Bell Preston Washington, and",Medicare,2023-07-07,Paracetamol,Abnormal
+SCoTT KIng,66,Male,O+,Jessica Jackson,2020-01-11,Diabetes,LLC Hernandez,Aetna,2020-02-07,Paracetamol,Abnormal
+JesSicA dAvis,38,Female,O-,Lynn Benson,2022-06-05,Arthritis,Steele PLC,Medicare,2022-06-15,Paracetamol,Normal
+anthOnY odom,33,Male,O+,Michael Dodson MD,2024-01-28,Asthma,"and Sims, Gonzalez Huff",Medicare,2024-02-22,Paracetamol,Inconclusive
+charleS bRoWN,27,Male,B-,David Nunez,2021-11-06,Cancer,Allen-Perez,UnitedHealthcare,2021-11-07,Penicillin,Normal
+raChel DaVIS,36,Male,B-,Lindsay Pierce,2021-07-21,Cancer,"and Alexander Crawford Graham,",Aetna,2021-07-31,Ibuprofen,Normal
+SAndRa mccALl,41,Male,A-,Dr. Jeffrey Barnes Jr.,2019-11-23,Cancer,Moyer-Lamb,UnitedHealthcare,2019-12-06,Penicillin,Normal
+NiCole FraNCIS,33,Male,AB-,Kristie Roberts,2019-05-30,Asthma,Taylor-Wilson,Aetna,2019-06-29,Ibuprofen,Inconclusive
+STEVEN SmitH,56,Female,AB-,Allison Harper,2024-03-23,Asthma,PLC Sutton,Medicare,2024-04-14,Lipitor,Inconclusive
+KAREn johnsoN,25,Male,O+,Heather Howard,2019-06-23,Obesity,and Sons Sanders,Medicare,2019-07-12,Aspirin,Abnormal
+anna ROgERs,21,Female,O-,Vickie King,2022-01-30,Asthma,Gentry and Sons,Aetna,2022-02-26,Aspirin,Abnormal
+pRiSCiLlA dEckEr,57,Male,B-,Christopher Yoder,2022-11-12,Cancer,Haynes-Silva,Cigna,2022-11-22,Penicillin,Normal
+tREVor WRiGHt,39,Female,O+,Matthew Nelson,2020-12-22,Cancer,"Marshall, and Koch Harper",Blue Cross,2020-12-27,Lipitor,Normal
+WiLlIAm tuCKEr,51,Female,A-,Martin Lynch,2022-05-22,Diabetes,Duffy-Jackson,Cigna,2022-06-08,Aspirin,Inconclusive
+JEsSIca KElLer,31,Male,B+,David Hall,2021-03-27,Hypertension,Brown-Diaz,Aetna,2021-04-23,Lipitor,Abnormal
+WILliAM hEnRY,85,Male,AB-,Benjamin Tyler,2022-06-22,Asthma,Mcdaniel-Castaneda,UnitedHealthcare,2022-07-22,Aspirin,Normal
+RobiN Clarke,76,Male,O+,Tyler Adams DDS,2022-07-15,Diabetes,Lyons LLC,Blue Cross,2022-07-19,Penicillin,Abnormal
+jessIca gARZa,59,Male,A+,William White,2022-06-06,Asthma,PLC French,Aetna,2022-06-30,Paracetamol,Normal
+JAmIe salaZAR,64,Male,O-,Amanda Webb,2020-12-29,Diabetes,LLC Coleman,Blue Cross,2021-01-07,Aspirin,Inconclusive
+stevEN VAugHaN,28,Male,A+,Travis Holmes,2020-05-23,Arthritis,Tucker-Warren,UnitedHealthcare,2020-06-12,Penicillin,Abnormal
+MIChAeL contreraS,63,Male,A-,Amy Small,2022-07-25,Obesity,Wang-Hill,Medicare,2022-08-22,Ibuprofen,Normal
+AllEn roBeRTs,24,Male,A-,Katherine Gutierrez,2021-04-01,Arthritis,Jones Ltd,Cigna,2021-04-19,Penicillin,Abnormal
+aMy POwEll,81,Male,B+,Susan Hess,2020-07-20,Arthritis,"White West Herman, and",Medicare,2020-07-29,Lipitor,Normal
+KeNNeth sMitH,74,Male,A+,Kristen Thornton,2020-02-28,Diabetes,Inc Newton,Medicare,2020-03-28,Ibuprofen,Inconclusive
+maTThEW WEsT,28,Male,AB+,Jerry Fisher,2023-08-30,Cancer,Huerta-Sanchez,UnitedHealthcare,2023-09-17,Ibuprofen,Normal
+ERIK MOntoyA,27,Male,AB-,Elizabeth Miller,2020-07-27,Obesity,Snyder-Parrish,Blue Cross,2020-08-24,Aspirin,Normal
+aUSTin lEwis,24,Male,AB-,Reginald Grimes,2021-03-28,Diabetes,Inc Bryant,UnitedHealthcare,2021-04-05,Paracetamol,Inconclusive
+KennEtH ThOmPSon,63,Male,A-,Steven Smith,2022-05-08,Diabetes,Williams Inc,Cigna,2022-05-10,Paracetamol,Normal
+AMANDa DURhAm,46,Female,O+,Katelyn Davis,2021-06-16,Obesity,"Smith White, and Ryan",Blue Cross,2021-07-06,Lipitor,Inconclusive
+stEphen HUdSON,35,Female,AB+,Matthew Jones,2023-10-31,Arthritis,"Williams Dillon White, and",Aetna,2023-11-21,Paracetamol,Abnormal
+CASsanDRA VeLaZquEZ,28,Female,B+,Diana Tran,2022-04-23,Diabetes,Vargas-Cohen,UnitedHealthcare,2022-05-11,Penicillin,Normal
+suSAN peNA,80,Female,B+,Kevin Kelley,2021-12-09,Obesity,Gardner Group,Medicare,2021-12-12,Lipitor,Inconclusive
+anTHoNY PerKinS,31,Male,O-,Anthony Green,2024-01-10,Obesity,Garcia-Blake,Medicare,2024-02-02,Lipitor,Abnormal
+KATRIna LOPEz,69,Female,O+,Jordan Porter,2019-11-17,Diabetes,Castaneda-Tran,Cigna,2019-12-15,Lipitor,Inconclusive
+bRiAn FoSTER,82,Male,AB+,James Thompson,2022-01-05,Asthma,Kim-Ibarra,Medicare,2022-01-11,Ibuprofen,Normal
+JaSon ThOMPson,64,Female,B+,Andrea King,2024-01-15,Arthritis,Boyer-Burgess,Aetna,2024-02-10,Ibuprofen,Inconclusive
+david AYaLa,77,Female,O+,Lucas Torres,2022-11-17,Arthritis,Cross Ltd,Aetna,2022-12-15,Paracetamol,Abnormal
+jaReD YoDER,32,Male,O+,Sarah Garcia,2021-08-02,Obesity,"Patel Payne, and Young",Medicare,2021-08-26,Lipitor,Normal
+gRegoRY cANnON,70,Female,A+,Amanda Alvarado,2020-04-20,Diabetes,Group Santana,Medicare,2020-04-23,Lipitor,Abnormal
+LISa aNdERSON,50,Female,O-,Samantha Preston,2023-06-28,Hypertension,Sons and Cook,Medicare,2023-06-30,Ibuprofen,Inconclusive
+ELIzabEtH ShIelDs,29,Male,O+,David Maxwell,2022-04-06,Asthma,Martin-Rice,UnitedHealthcare,2022-04-30,Penicillin,Inconclusive
+PatriCiA kIM,66,Female,AB+,Kevin Butler,2021-03-31,Cancer,"Ortiz, and Rios Price",Cigna,2021-04-16,Lipitor,Abnormal
+JessiCA sOto,70,Male,AB+,Shannon Sanchez,2020-03-07,Obesity,Barnes-Williams,UnitedHealthcare,2020-03-29,Aspirin,Normal
+JEnNY ReYnOLDS,56,Female,B-,Shelly Bright,2020-06-03,Cancer,Hardy-Gutierrez,Cigna,2020-06-21,Paracetamol,Abnormal
+SHANnon baRRett,85,Male,B-,Stephanie Wilcox,2021-08-31,Asthma,Cole LLC,Aetna,2021-09-17,Aspirin,Inconclusive
+tERrI PERry,67,Male,AB+,Amy Diaz,2022-09-22,Cancer,White-Rowe,UnitedHealthcare,2022-10-11,Paracetamol,Normal
+Joseph MaddEN,50,Female,B+,Stacey Nguyen,2022-07-02,Arthritis,"Rodriguez Harris, Willis and",Medicare,2022-07-15,Ibuprofen,Inconclusive
+RebECCa hOGAN,52,Female,O+,Peter Wright,2019-06-18,Asthma,"Santana Garcia, Alexander and",Aetna,2019-07-08,Aspirin,Abnormal
+kELly WAlKER,84,Male,B-,Eric Shaw,2019-07-19,Hypertension,Collins-Lozano,Aetna,2019-08-08,Aspirin,Normal
+jUlIa muEllER,70,Male,A-,Susan Gaines,2022-01-06,Cancer,Brown-Clark,Cigna,2022-01-27,Paracetamol,Normal
+KAyLa mOORe,66,Male,AB-,Collin Green,2022-02-08,Diabetes,"Mcmahon and Kim, Holmes",Aetna,2022-02-28,Lipitor,Normal
+KAITLyn SmItH,74,Male,AB-,Richard Harris,2022-12-09,Hypertension,Gomez-Smith,Cigna,2022-12-28,Penicillin,Inconclusive
+DAnIEL KemP,75,Female,O+,Charles Fernandez,2020-06-14,Obesity,"Hall Lee Bailey, and",Blue Cross,2020-06-20,Lipitor,Normal
+laurA mYeRs,61,Male,B+,Kyle Williams MD,2021-03-12,Obesity,"Brennan Bentley, and Hunter",Cigna,2021-03-25,Lipitor,Inconclusive
+Carol ReEd,82,Male,AB+,Susan Rios DDS,2022-12-27,Asthma,"Mullins, Gray and Reed",UnitedHealthcare,2023-01-12,Paracetamol,Abnormal
+JesSIcA caRtER,51,Female,A-,Sarah Ibarra,2019-12-08,Obesity,Anderson Group,Cigna,2020-01-05,Penicillin,Normal
+vANeSsa ScHaEFeR,37,Female,A-,Jonathan Burns MD,2023-06-19,Arthritis,"Walsh, Howell and Jennings",UnitedHealthcare,2023-07-14,Lipitor,Inconclusive
+MIgUeL GOmeZ,51,Male,B+,Jennifer Miller,2019-05-10,Hypertension,Haney-Marshall,UnitedHealthcare,2019-06-07,Penicillin,Normal
+linDa cARdeNas,23,Male,A-,Zachary Scott,2021-06-11,Asthma,"Rich and Roach, King",Blue Cross,2021-06-27,Ibuprofen,Abnormal
+annEtTE JAMES,70,Male,B-,Dennis Robbins,2019-10-27,Asthma,"Johnson, and Petty Rubio",Blue Cross,2019-11-12,Lipitor,Normal
+sUSaN HuRLEY,60,Female,B+,Sean Rodgers,2022-08-27,Cancer,"Morse, Hudson Williams and",Aetna,2022-09-15,Penicillin,Normal
+carOLyN Wade,45,Female,A+,Nathan Payne,2019-08-08,Arthritis,"Kane, and Dickson Schwartz",UnitedHealthcare,2019-08-14,Penicillin,Inconclusive
+aNgeLA DelEon,30,Male,A-,Kristina Gray,2023-02-12,Arthritis,Inc Mccullough,Medicare,2023-02-17,Paracetamol,Normal
+cAROLYN COoPer,35,Male,A+,Regina Bryant,2021-05-04,Hypertension,Taylor-Wong,Medicare,2021-05-10,Penicillin,Inconclusive
+reBEcca hARRIs,51,Female,O+,Karen Donovan,2021-07-11,Obesity,Avery-Roy,Aetna,2021-07-28,Lipitor,Normal
+garY cUrtIS,61,Male,A+,Amber Lopez,2021-02-10,Diabetes,LLC Anderson,Medicare,2021-02-18,Lipitor,Inconclusive
+ryaN LIU,52,Female,AB+,Vernon Diaz,2021-10-16,Diabetes,Castaneda-Young,Blue Cross,2021-11-04,Penicillin,Normal
+DenNiS MOrROw,64,Female,B+,Luke Nunez,2019-10-03,Diabetes,"and Thomas Strong, Cook",UnitedHealthcare,2019-10-25,Lipitor,Inconclusive
+JEnNiFEr COOpER,25,Male,A+,Mary Williams,2020-04-26,Obesity,Wells-Price,Aetna,2020-05-02,Aspirin,Abnormal
+JaCOB loPez,76,Female,B-,Gina Richards,2019-09-13,Obesity,Rios Ltd,Medicare,2019-09-19,Penicillin,Abnormal
+carOL McClain,52,Female,B-,Julie West,2022-01-20,Diabetes,Vincent-Hill,Aetna,2022-02-06,Penicillin,Inconclusive
+mIChaeL RiChArdsoN,77,Male,B+,Greg Scott,2023-10-14,Obesity,Brooks LLC,Medicare,2023-11-04,Paracetamol,Abnormal
+MARK NGuYEn,83,Male,A+,Tracy Serrano,2019-11-23,Diabetes,Group Carpenter,Medicare,2019-11-26,Aspirin,Normal
+EriC COOk,57,Female,B-,Rhonda Gilbert,2023-12-05,Cancer,"Henderson Carpenter and Barrett,",Blue Cross,2023-12-31,Lipitor,Abnormal
+kRISTeN STEPheNS,54,Male,B+,Penny Bryant,2021-02-01,Arthritis,Mcdaniel-Walsh,UnitedHealthcare,2021-02-07,Lipitor,Inconclusive
+DaNa WAltoN,62,Male,A-,Edward Webster,2022-06-30,Cancer,Ross-Jones,Blue Cross,2022-07-01,Lipitor,Inconclusive
+Scott arNOLd,37,Male,B-,Brandon Flores,2023-11-09,Arthritis,"Mathews, Smith and Moss",Medicare,2023-11-29,Penicillin,Normal
+MEGan wHEEleR,56,Female,B+,Courtney Crane,2020-07-30,Hypertension,"and Lawrence, Williams Thomas",Blue Cross,2020-08-10,Paracetamol,Abnormal
+AaRON coX,68,Female,O+,Eric Wallace,2022-04-10,Arthritis,Wilkerson Group,UnitedHealthcare,2022-04-19,Lipitor,Normal
+CassanDRA MArTineZ,46,Male,A-,Nicole Norton,2020-01-02,Obesity,Villanueva-Garcia,Medicare,2020-01-16,Paracetamol,Normal
+SHawn bROwn,62,Male,B-,Angela Cunningham,2023-11-10,Hypertension,Duffy-Bowman,Medicare,2023-12-01,Paracetamol,Abnormal
+SAnDRa WillIamSon,49,Female,AB-,Jessica Morgan,2021-02-14,Diabetes,Tyler-Velasquez,Cigna,2021-02-18,Aspirin,Inconclusive
+jenniFeR sTephEnS,75,Male,B-,Shari Foster,2022-07-16,Hypertension,James Inc,Cigna,2022-08-13,Ibuprofen,Normal
+stePHANIe ROdRigueZ,40,Female,O+,Danielle Collins,2023-05-15,Diabetes,Montgomery-Jones,Medicare,2023-05-27,Penicillin,Normal
+CaROlIne mCinTyRe,51,Female,AB+,Beth Mckenzie,2020-04-30,Arthritis,Montgomery-Anthony,UnitedHealthcare,2020-05-22,Penicillin,Abnormal
+Mr. cAMeROn RoBINsoN,64,Male,AB+,Evan Johnson,2021-01-12,Asthma,Davis-Padilla,Blue Cross,2021-01-25,Ibuprofen,Abnormal
+taMmY pINEdA,49,Female,O-,Wendy Rivera,2019-05-23,Arthritis,Ellison-Hayden,Cigna,2019-06-02,Paracetamol,Normal
+nATaLiE aNdeRson,74,Male,A+,Cindy Maxwell,2023-04-23,Obesity,Long-Lee,Blue Cross,2023-05-09,Lipitor,Normal
+jAsminE RodrIgueZ,66,Female,A-,Crystal Hays,2022-12-07,Hypertension,Graves LLC,Medicare,2023-01-01,Aspirin,Abnormal
+deBRA MCkee,52,Female,A-,Jay Barr,2020-10-25,Arthritis,and Sons Dixon,Aetna,2020-11-04,Lipitor,Abnormal
+sANDRa GReENe,58,Female,B-,Lisa Long,2021-04-08,Obesity,"Clark, Garza Tate and",Cigna,2021-05-01,Ibuprofen,Normal
+cRystAl MorRIS,21,Male,B-,Brianna Kelly,2020-09-09,Arthritis,Bates Inc,Aetna,2020-10-04,Aspirin,Inconclusive
+jaSoN pArKER,69,Male,AB+,David Hanson,2019-12-06,Arthritis,LLC Sanford,Aetna,2019-12-08,Ibuprofen,Inconclusive
+ROy JONEs,47,Female,AB-,David Stevens,2023-02-16,Asthma,and Harper Sons,Aetna,2023-03-06,Penicillin,Inconclusive
+RIcHaRd aNDeRsoN,51,Female,O-,Richard Ayala,2023-09-12,Hypertension,"Young Mcclain, Newman and",UnitedHealthcare,2023-10-12,Penicillin,Abnormal
+JenNIfEr FoSTer,20,Female,A+,Nathan Adams,2019-11-21,Cancer,"Ray, Cain and Miller",Blue Cross,2019-12-11,Ibuprofen,Inconclusive
+dEBBIE wILSOn,38,Female,B-,Jennifer Munoz,2019-07-14,Hypertension,Zamora-Rivers,Blue Cross,2019-07-19,Lipitor,Inconclusive
+tRavIS flOreS,70,Female,AB+,Beth Brown,2019-10-03,Obesity,"and Perez Smith, Kim",Aetna,2019-11-02,Paracetamol,Inconclusive
+emIly yOUNg,73,Male,O-,Karen Jones,2019-07-04,Arthritis,Johnson-Wilson,UnitedHealthcare,2019-07-06,Penicillin,Abnormal
+sANDy halL,44,Male,AB+,Seth Burnett,2019-05-26,Hypertension,Delacruz-Chavez,Medicare,2019-06-08,Paracetamol,Abnormal
+madIsOn WRigHT,44,Female,A+,Kevin Johnson,2021-12-12,Obesity,"and Gonzalez, Warren Moore",Cigna,2021-12-18,Paracetamol,Normal
+AMy manN,54,Male,AB-,Julie Garza,2021-05-22,Hypertension,Ramirez-Humphrey,Aetna,2021-06-01,Penicillin,Abnormal
+Jason stEELe,45,Male,AB-,Brian Mack,2020-09-03,Diabetes,and Sons Ford,UnitedHealthcare,2020-09-15,Aspirin,Normal
+PAmEla mIDdlEtoN,18,Female,B-,Jennifer Johnson,2022-03-30,Arthritis,"and Wells, Thomas Kline",UnitedHealthcare,2022-04-13,Penicillin,Abnormal
+liSA JAcKsOn,44,Male,B+,Joseph Barnes,2019-12-20,Hypertension,Wood-Herring,Cigna,2020-01-18,Ibuprofen,Normal
+SaMantHA PATEl,28,Female,A+,Daryl Cross,2022-01-21,Obesity,Wilkerson LLC,Medicare,2022-02-20,Paracetamol,Abnormal
+HeRberT RodRIGUEZ,42,Male,A+,Jonathan Edwards,2020-05-19,Obesity,Brown-Henry,Medicare,2020-06-12,Aspirin,Inconclusive
+OliviA pOWELl,61,Female,A+,Adam Hardy,2024-02-20,Diabetes,Sheppard-Livingston,Cigna,2024-03-08,Penicillin,Abnormal
+SAmaNThA PERkins,75,Female,AB-,Robert Ashley,2023-08-31,Cancer,Golden PLC,Medicare,2023-09-07,Ibuprofen,Inconclusive
+mIchaeL POtTs,85,Male,A+,Mary Vaughn,2023-01-19,Hypertension,"and Perez, Bennett Townsend",Cigna,2023-01-28,Paracetamol,Abnormal
+KeRRy HErnANDEz,74,Male,O-,Steven Simmons,2023-11-20,Obesity,"Johnson, and Benson Harris",Blue Cross,2023-12-17,Ibuprofen,Inconclusive
+jOSHUa reyEs,59,Male,AB+,Mrs. Jessica Martinez,2021-07-28,Obesity,"and Clay, Morton Cunningham",Cigna,2021-08-03,Penicillin,Normal
+JeNniFER oRteGA,49,Male,A-,Erin Arias,2023-04-04,Asthma,Anderson-Estrada,UnitedHealthcare,2023-04-27,Lipitor,Inconclusive
+BrIttANY BRaun,85,Female,B-,Daniel Golden,2020-08-11,Obesity,and Sons Carlson,Cigna,2020-08-24,Ibuprofen,Inconclusive
+daniel cHEn,51,Female,B+,Anthony Malone,2020-01-28,Hypertension,Gonzalez Inc,Cigna,2020-02-21,Ibuprofen,Inconclusive
+ErICA hart,23,Male,AB+,Charlotte Reyes MD,2020-01-07,Asthma,Schaefer-Hoffman,Cigna,2020-02-05,Penicillin,Inconclusive
+alIcIa scOTt,26,Male,O-,Miguel Green,2020-04-20,Asthma,Wilson Group,Aetna,2020-05-17,Penicillin,Abnormal
+amandA aGUIrRE,59,Female,AB+,Frederick White,2020-03-18,Obesity,"and Vargas Reynolds Evans,",Blue Cross,2020-03-25,Penicillin,Normal
+mark hIcKs,25,Female,AB-,Lisa Ruiz,2020-06-18,Diabetes,"Cantu and Tanner Rojas,",Medicare,2020-06-23,Paracetamol,Inconclusive
+TIMOtHy daVIS,29,Male,O-,Cody Rice,2023-07-15,Cancer,"Thornton, Adams Mccarty and",Medicare,2023-07-27,Aspirin,Abnormal
+LONNIE DomInguEZ,25,Male,A-,April Foster,2023-10-02,Hypertension,Cantrell-Griffith,Cigna,2023-10-24,Ibuprofen,Inconclusive
+KIMbERLY hALE,61,Male,B-,Justin Russell,2021-01-13,Diabetes,Martin Group,Cigna,2021-02-05,Aspirin,Inconclusive
+Dana WilLIAMsoN,46,Male,A+,Daniel Thomas,2022-05-16,Hypertension,and Sons Nelson,Aetna,2022-05-31,Aspirin,Inconclusive
+mr. GEORGe BROwN jr.,54,Male,AB-,Emily Williamson,2019-10-22,Hypertension,Ramirez-Hill,Blue Cross,2019-11-01,Aspirin,Abnormal
+ALLEn cAmACho,41,Male,A+,Veronica Christian,2019-08-09,Obesity,Jackson-Butler,Medicare,2019-09-03,Paracetamol,Abnormal
+NATHan woOdS,21,Female,O-,Monica Odonnell,2023-12-30,Asthma,Miller-Avila,Aetna,2024-01-27,Lipitor,Abnormal
+caTheriNe sMitH,38,Female,AB+,Cody Berger,2022-07-11,Diabetes,Reyes-Crawford,Medicare,2022-08-03,Lipitor,Abnormal
+JerRy leE,75,Male,AB+,Jeffrey White,2020-09-19,Obesity,Marshall-Smith,Aetna,2020-10-06,Penicillin,Inconclusive
+AlexaNder COLEMan,44,Male,B+,Stacey Burgess,2019-09-06,Cancer,"and Peterson Matthews Robinson,",UnitedHealthcare,2019-09-07,Ibuprofen,Inconclusive
+dAvid JENSEN,23,Male,O-,Ethan Spencer,2019-11-22,Obesity,Nelson PLC,Cigna,2019-12-22,Paracetamol,Inconclusive
+DeBORAH EVaNs,45,Female,B-,Jonathan Baker,2020-07-22,Cancer,Perez-Mitchell,Medicare,2020-07-24,Penicillin,Abnormal
+ALEXaNdRIa coLon,58,Male,B+,Tonya Burton,2022-03-01,Cancer,"Gross, Thompson Smith and",Aetna,2022-03-19,Paracetamol,Abnormal
+sAMUEL HANSOn,34,Male,B-,Phillip Campos,2023-03-01,Diabetes,"Burch, Moore and Thompson",Aetna,2023-03-21,Ibuprofen,Inconclusive
+BryaN phILliPS,54,Female,B+,Billy Rodgers,2021-04-22,Obesity,Hamilton Group,Cigna,2021-05-11,Lipitor,Abnormal
+naThaN wileY,29,Female,A+,Sherri Campbell,2020-09-23,Obesity,Shaw LLC,Cigna,2020-09-25,Paracetamol,Inconclusive
+ALiShA muRpHy,54,Female,A+,Alex Neal,2023-01-08,Cancer,"and Day, Lewis Coleman",Medicare,2023-01-19,Lipitor,Abnormal
+AMANdA lUcEro,46,Male,AB-,Mark Martin,2022-08-17,Asthma,Stone-Perez,Medicare,2022-09-08,Paracetamol,Abnormal
+SHeIla SelLErs,35,Female,AB+,James Smith,2021-06-15,Hypertension,Ltd Foley,UnitedHealthcare,2021-06-25,Lipitor,Normal
+sUSaN Chan,58,Female,AB+,Amber Walker,2024-03-01,Obesity,Ward-Mayer,Blue Cross,2024-03-20,Lipitor,Inconclusive
+AnGEL MiTChelL,36,Female,AB+,Laura Pena,2023-12-11,Hypertension,and Martinez Sons,Medicare,2024-01-08,Aspirin,Normal
+DARleNE cohEN,80,Female,B+,Tracy Wilson,2022-05-04,Arthritis,Group Anderson,Medicare,2022-05-05,Aspirin,Abnormal
+KrIStY ONeILl,43,Male,A-,Michelle Cox,2021-12-01,Arthritis,"Garcia, and Marshall Maxwell",Blue Cross,2021-12-29,Paracetamol,Inconclusive
+sHErrI gArCia,47,Female,B+,Marie Reed,2021-09-21,Hypertension,Inc Martinez,Aetna,2021-10-10,Ibuprofen,Abnormal
+MIChaEL wEber,49,Female,B-,Philip Vaughn,2020-03-20,Hypertension,"Mcmahon Ortiz, Owens and",UnitedHealthcare,2020-04-09,Ibuprofen,Abnormal
+BETh sChwaRTZ,58,Male,AB-,Kyle Montes,2024-03-29,Asthma,Williams-Saunders,UnitedHealthcare,2024-04-16,Lipitor,Abnormal
+cYnTHIA cLARKE,40,Female,AB-,Mr. Ronald Hoover,2024-03-12,Obesity,Spencer Ltd,Cigna,2024-03-25,Penicillin,Abnormal
+MArK GiLES,44,Male,A-,Daniel Hurley,2022-03-21,Cancer,Mathis-Schwartz,Blue Cross,2022-04-06,Penicillin,Inconclusive
+TAmara beltRaN,38,Male,A+,Nicole Young,2020-07-23,Diabetes,Romero-Ramsey,Aetna,2020-08-09,Ibuprofen,Abnormal
+JOsEpH guTierReZ,82,Male,A+,Christopher Mills,2024-03-10,Obesity,Avery and Sons,Cigna,2024-04-07,Aspirin,Normal
+JAmiE jimeNEZ,71,Male,A-,Richard Webster,2020-03-15,Arthritis,Ltd Richardson,Blue Cross,2020-03-29,Lipitor,Abnormal
+chARles MUrPHY,42,Male,A+,David Soto,2021-05-10,Diabetes,and Sons Williams,Cigna,2021-05-16,Penicillin,Abnormal
+CArLOS lOPEz,38,Female,O+,Michael Paul,2020-12-29,Diabetes,Carter-Reyes,UnitedHealthcare,2021-01-07,Penicillin,Inconclusive
+joHnnY IrWIN,84,Male,B-,Robert Gregory,2020-03-23,Arthritis,LLC Gray,Aetna,2020-03-29,Aspirin,Normal
+SCOTT wERNeR,64,Female,O-,Ashley Lane,2023-07-13,Hypertension,"Gonzalez Anderson Jacobson, and",Aetna,2023-07-25,Ibuprofen,Abnormal
+TeRRi stEWart,57,Female,AB-,Jennifer Brown,2023-07-20,Asthma,"Miller Massey Lopez, and",Aetna,2023-08-02,Ibuprofen,Inconclusive
+dAVId DaviS,54,Male,B+,Kristen Aguirre,2020-02-14,Diabetes,"Taylor Walsh Hawkins, and",Blue Cross,2020-03-01,Paracetamol,Normal
+StEpheN HaRRIS,44,Male,B-,Kathryn Trevino,2023-05-28,Arthritis,LLC Brown,Blue Cross,2023-06-22,Aspirin,Inconclusive
+briDgeT Adams,78,Female,B-,Amanda Ramos,2022-06-12,Cancer,Nelson-Wong,Cigna,2022-06-27,Penicillin,Inconclusive
+MIchAEL MortON,63,Female,A+,Mr. William Decker,2023-12-12,Cancer,LLC Berry,Medicare,2023-12-13,Lipitor,Normal
+MIchElLE LIU,66,Female,B-,Michael Grant,2023-11-06,Hypertension,Anderson-Jenkins,Cigna,2023-11-12,Lipitor,Inconclusive
+ReGina bRIght,75,Male,AB-,Megan Jones,2023-05-16,Arthritis,Wells and Sons,Blue Cross,2023-05-30,Penicillin,Abnormal
+SaMuel decKEr,36,Male,O-,Mr. Andrew Hall Jr.,2022-10-12,Diabetes,"Allen, Williams and Phillips",Cigna,2022-10-14,Aspirin,Normal
+pAuL wRiGHt,18,Female,AB+,Joseph Hernandez,2023-12-30,Diabetes,Gonzalez-Cummings,Aetna,2024-01-14,Penicillin,Normal
+brIAN OlSOn,49,Male,B+,Bryan Brock,2024-02-26,Hypertension,"and Richardson Webster Smith,",Aetna,2024-03-09,Paracetamol,Normal
+TRaCEy harRiSOn,22,Female,B+,Austin Henderson,2021-11-07,Asthma,Hudson-Flores,Cigna,2021-11-26,Penicillin,Abnormal
+ERiKa joHNsoN,72,Female,B+,Jessica Bruce MD,2020-02-03,Hypertension,Inc Rios,Cigna,2020-02-04,Aspirin,Normal
+PEteR CuNnInghAm,46,Female,B+,Kenneth Green,2019-07-05,Arthritis,PLC Thompson,Blue Cross,2019-07-20,Lipitor,Inconclusive
+sIErrA whITe,50,Male,O-,Shelley Garcia,2021-11-13,Asthma,"Rosario Wells, Roberts and",Cigna,2021-11-23,Penicillin,Abnormal
+eDdIe rUSsO dVm,61,Male,B+,Justin Douglas,2019-08-15,Diabetes,Ramirez-Taylor,Blue Cross,2019-09-09,Paracetamol,Abnormal
+yvEtte tuRnER,40,Male,O+,William Faulkner,2023-07-19,Asthma,Murphy-Mason,Aetna,2023-08-14,Paracetamol,Normal
+jameS cHArLes,34,Male,A-,Stephanie Davis,2023-04-06,Diabetes,"Edwards Johnson, and Burgess",Medicare,2023-05-06,Ibuprofen,Inconclusive
+ALexis ALlEn,71,Female,AB+,Ronald Parker,2019-10-08,Arthritis,LLC Spears,Blue Cross,2019-10-28,Penicillin,Abnormal
+stephAnIe martIN,61,Male,A+,Kevin Tucker,2020-08-10,Obesity,Perez-Smith,Aetna,2020-09-06,Penicillin,Normal
+SHelBy AndeRson,24,Male,A+,Katrina Allen,2019-09-26,Asthma,and Sons Mcbride,Blue Cross,2019-10-14,Ibuprofen,Normal
+aBIGail FarmEr,28,Male,O+,Alicia Lopez,2021-02-11,Cancer,Sons and Chapman,Cigna,2021-02-19,Lipitor,Abnormal
+chrIStINa MiLLER,21,Female,O+,Stephen Lopez,2019-09-05,Arthritis,Cole-Davila,Blue Cross,2019-09-29,Lipitor,Inconclusive
+MAtTHew wYAtt,40,Female,B+,Alexandra Sims,2021-03-01,Asthma,"Pearson, and Lynch Oconnor",Cigna,2021-03-20,Penicillin,Abnormal
+dAvID MOnTOYa,57,Male,A-,Andrea Lee,2024-04-19,Cancer,Rivera-Peck,Medicare,2024-05-14,Ibuprofen,Abnormal
+eRic ParK,47,Female,AB+,Olivia Anderson,2023-04-27,Cancer,Hess-White,Blue Cross,2023-05-03,Lipitor,Normal
+lOrI trEVinO,59,Male,O+,Michelle Barnett,2022-07-06,Cancer,"Fox and Moreno Williams,",Aetna,2022-07-26,Aspirin,Inconclusive
+dWaYNe CASTIllO,33,Female,O-,Johnathan Mcmahon,2020-10-31,Arthritis,Johnson-Estrada,Blue Cross,2020-11-18,Penicillin,Normal
+kRIStInE mcCALl,58,Female,B-,Deborah Lawson,2023-09-08,Cancer,Rivera-Mosley,Cigna,2023-09-22,Lipitor,Normal
+jOsepH SelLeRs,39,Female,O-,Diana Boyd,2022-11-20,Cancer,"Diaz Smith Johnson, and",Blue Cross,2022-12-19,Paracetamol,Abnormal
+dR. DONalD AndersON,30,Male,O-,Crystal Ritter,2020-07-04,Arthritis,Harris-Ingram,UnitedHealthcare,2020-08-02,Lipitor,Normal
+VicToRiA WiLLiAMS,27,Male,B+,Carla Mcneil,2023-06-24,Asthma,and Esparza Sons,Blue Cross,2023-07-13,Aspirin,Abnormal
+anna jONEs,39,Female,O-,Peggy Nunez,2020-10-06,Hypertension,Hunt Sons and,Cigna,2020-10-14,Penicillin,Normal
+mR. RobeRT DaVIS,76,Female,B+,Kenneth White,2023-03-16,Cancer,LLC Hernandez,Aetna,2023-04-02,Aspirin,Inconclusive
+jeFfrEY HALl,62,Male,O-,Leonard Alvarez,2019-09-16,Arthritis,Perez-Smith,Blue Cross,2019-09-21,Lipitor,Abnormal
+tERrY GRAvEs,71,Male,O-,Henry Rogers,2021-04-10,Asthma,"Foster Lamb, Graham and",Medicare,2021-04-18,Ibuprofen,Abnormal
+JErome MorAles,67,Male,B-,George Smith,2019-07-21,Diabetes,Sanchez LLC,Cigna,2019-08-17,Penicillin,Normal
+kEith ROdRiGuez,34,Female,A+,Anthony Anderson,2021-12-14,Cancer,Fox-Anthony,Medicare,2021-12-21,Ibuprofen,Abnormal
+tAmARA davENpOrT,31,Male,O-,Meghan Bailey,2023-09-19,Cancer,"Fuentes Knight, Sandoval and",Aetna,2023-10-16,Lipitor,Inconclusive
+JOnatHAN SiMON,25,Male,A-,Jason Phillips,2024-01-27,Cancer,Hudson-Williams,Aetna,2024-02-26,Paracetamol,Normal
+HolLY ARMsTrOnG,33,Female,O-,Bailey Ibarra,2020-04-03,Arthritis,"Lowery, Dunn Anderson and",Cigna,2020-05-03,Aspirin,Inconclusive
+rONaLd bAnKs,61,Female,AB+,Kelsey Simpson,2020-04-16,Hypertension,Mullen-Hernandez,Medicare,2020-04-22,Aspirin,Abnormal
+rYAn BRadforD DDS,42,Female,O+,Sarah Guerra,2019-08-23,Hypertension,"Herman, Liu and Hill",Cigna,2019-09-05,Lipitor,Abnormal
+jaNICE hAlL,44,Male,AB-,Tony Matthews,2021-07-01,Diabetes,"Davis White, Flores and",UnitedHealthcare,2021-07-23,Paracetamol,Inconclusive
+JaCOB mcDOnaLD,18,Female,B+,David Gonzalez,2022-08-21,Obesity,Williams-Jones,Medicare,2022-09-04,Ibuprofen,Abnormal
+GlENN maSSeY,51,Male,A-,Michael Villanueva,2020-08-06,Cancer,Inc Holloway,UnitedHealthcare,2020-08-26,Lipitor,Abnormal
+SAndrA mURray,26,Female,AB+,Alan Cain,2022-01-16,Diabetes,"Phillips Jones and Wu,",Cigna,2022-02-10,Lipitor,Inconclusive
+maRK wiLLIaMs,44,Male,O-,Melissa Turner,2021-08-02,Diabetes,"Wilson and Lopez, Molina",UnitedHealthcare,2021-08-04,Penicillin,Abnormal
+stEPHAnie rEid dvm,56,Female,AB+,Alexander Robles,2020-03-17,Obesity,Jones-Garrett,Blue Cross,2020-04-13,Aspirin,Inconclusive
+sEth BArTleTt ii,24,Male,AB+,Joseph Carr,2020-07-23,Obesity,"and Brown, James Green",Medicare,2020-08-03,Penicillin,Normal
+jerEmY rIcH,39,Male,O-,David Poole,2022-07-22,Hypertension,"Meadows and Nelson, Owen",Cigna,2022-07-24,Aspirin,Abnormal
+eLIZAbeTh MiLLEr,53,Male,O-,Cynthia Thomas,2020-08-08,Hypertension,Sons and Gallegos,Aetna,2020-08-21,Ibuprofen,Normal
+ErIn MaRtiN,21,Male,O-,Rebecca Reed,2023-09-29,Asthma,Davis Group,Blue Cross,2023-10-06,Paracetamol,Normal
+FRaNK HESS,82,Female,B-,Steven Boyle,2022-01-05,Cancer,Herrera Group,Aetna,2022-01-08,Ibuprofen,Abnormal
+pAul Rogers,61,Female,AB-,Bryan Wu,2020-06-22,Cancer,Juarez-Weiss,Aetna,2020-07-20,Ibuprofen,Abnormal
+JEnNiFEr edWArDS,59,Female,AB-,James Quinn,2019-10-26,Obesity,Dawson-Jones,Aetna,2019-10-29,Lipitor,Normal
+BRian halL,51,Female,O+,Ryan Rich,2024-02-21,Arthritis,Hickman Group,UnitedHealthcare,2024-03-19,Paracetamol,Abnormal
+kIMbERly WILLIamS,43,Male,AB+,James Robinson,2023-01-07,Hypertension,Herman-Ewing,UnitedHealthcare,2023-01-08,Ibuprofen,Abnormal
+IsAaC MENdeZ,79,Male,B+,Edwin Sparks,2023-09-21,Cancer,Gutierrez Inc,Blue Cross,2023-10-01,Penicillin,Normal
+SarAh SmitH,79,Female,B-,Tyler Parsons,2022-12-07,Arthritis,Hurley-Gill,Aetna,2022-12-21,Lipitor,Abnormal
+dAniEl Wolf,49,Male,O+,Kirk Rich II,2022-12-13,Obesity,Dillon PLC,Medicare,2022-12-28,Aspirin,Abnormal
+RobeRT RoSS,68,Female,O-,Andrew Neal,2022-11-16,Hypertension,"Murphy, and Garcia Jones",Blue Cross,2022-11-21,Aspirin,Inconclusive
+DOuglAS fosTEr,69,Female,O+,Susan Silva,2019-06-19,Asthma,Ramsey-Thomas,Medicare,2019-07-17,Penicillin,Inconclusive
+LOuIS LoWERY,49,Female,B+,Lynn York,2023-01-29,Obesity,Miller and Sons,Blue Cross,2023-02-18,Ibuprofen,Normal
+JESsICA Tyler,27,Female,O-,Ellen Bush,2023-11-30,Cancer,"Chung Herrera, and Pollard",Cigna,2023-12-12,Paracetamol,Abnormal
+wiLLiAm davIES,73,Male,A+,Anthony Smith,2021-03-26,Obesity,"and Hernandez Waters, Cruz",Medicare,2021-04-20,Penicillin,Abnormal
+JeSSICA rEyeS,42,Female,AB+,Mary Schwartz,2021-08-21,Diabetes,Schmidt Sons and,Cigna,2021-09-03,Paracetamol,Abnormal
+dAnIEl JoneS,59,Female,O-,Victoria Osborne,2024-01-03,Cancer,"and Carroll Orr Kelly,",Blue Cross,2024-01-25,Lipitor,Abnormal
+PAUla moRaLes,20,Female,A+,Regina Glass,2024-03-23,Hypertension,"Smith and Rose Rivera,",UnitedHealthcare,2024-04-21,Penicillin,Abnormal
+DAvId spEArS,61,Female,A+,Craig Ray,2022-12-03,Cancer,Odonnell-Watts,Medicare,2022-12-10,Paracetamol,Inconclusive
+ScoTT bErRY,50,Male,B+,Carlos Steele,2021-09-25,Asthma,Inc Roberts,UnitedHealthcare,2021-10-23,Penicillin,Inconclusive
+dAltON NGuYEN,29,Female,B-,Michael Pugh,2020-08-23,Asthma,LLC Chaney,Cigna,2020-08-26,Ibuprofen,Normal
+SCoTT clARK,44,Male,B+,Mark Mccarthy,2020-09-18,Asthma,"Hutchinson, Wilson Daniel and",Cigna,2020-10-16,Penicillin,Inconclusive
+JaMIE bAKEr,37,Female,AB+,Shane Green,2022-08-01,Diabetes,Davis-Martin,UnitedHealthcare,2022-08-30,Lipitor,Inconclusive
+couRTnEy pAtrick,79,Female,AB-,Hayley Payne,2020-01-11,Hypertension,"and Thompson Cook Wiggins,",Cigna,2020-01-25,Penicillin,Inconclusive
+wILLiAm waRE,18,Male,AB+,Christopher Sharp,2020-10-16,Hypertension,Baldwin PLC,Cigna,2020-10-17,Lipitor,Abnormal
+AmBer andeRSoN,25,Female,A+,Joseph Chandler,2024-04-29,Cancer,Heath-Brown,UnitedHealthcare,2024-05-19,Aspirin,Inconclusive
+caSey joHNson,64,Female,O+,Brandi Elliott,2022-07-05,Cancer,"Mendez, and Smith Munoz",Blue Cross,2022-07-06,Lipitor,Abnormal
+ZAcHaRY ColLins,23,Male,B+,Brian Fox,2019-08-27,Diabetes,Inc Daugherty,Aetna,2019-09-15,Paracetamol,Normal
+ZACHArY rEed,57,Male,A-,Paul Coleman,2024-03-10,Hypertension,Gonzalez LLC,Medicare,2024-03-22,Penicillin,Abnormal
+CHRisTOPHer wEiss,49,Female,AB-,Kelly Thompson,2023-02-16,Asthma,Hunter-Hughes,Aetna,2023-03-09,Penicillin,Inconclusive
+CHArleS sTrong,49,Female,O-,Corey Perez,2024-04-25,Diabetes,"and Woods, Rodriguez Williams",Aetna,2024-05-14,Penicillin,Abnormal
+kathErINE KeLLY,65,Female,B-,Blake Phillips,2023-09-25,Asthma,Lowery-Howard,UnitedHealthcare,2023-10-13,Lipitor,Normal
+chrIstOPhEr heNdERSon,59,Female,AB-,Nicole Phelps,2022-09-12,Arthritis,Colon-Leon,Cigna,2022-09-21,Aspirin,Normal
+jOsEPh bROWn,82,Male,O+,Lorraine Powers,2019-06-30,Diabetes,Boyle-Woods,UnitedHealthcare,2019-07-22,Penicillin,Normal
+josEpH SAncHEz,31,Male,B-,Michael Colon,2023-02-12,Diabetes,"and Graham Morris, Gonzales",Cigna,2023-02-27,Penicillin,Inconclusive
+KYle pEREz,63,Female,AB-,Taylor Sullivan,2020-01-23,Obesity,Tucker-Moyer,Cigna,2020-02-01,Aspirin,Normal
+EdUaRdO hOuSTOn,78,Male,AB+,Natalie Howell,2022-11-25,Asthma,Sons and Stephenson,Aetna,2022-12-11,Penicillin,Inconclusive
+lORi roACh,25,Female,A+,Lonnie Duncan,2021-02-10,Diabetes,Hernandez PLC,Aetna,2021-02-17,Lipitor,Normal
+ErIc bUtleR,66,Male,AB-,Bruce Rivera,2023-01-30,Cancer,Dougherty Group,Medicare,2023-02-27,Ibuprofen,Inconclusive
+jEfFREY bROWn,58,Male,O+,Jordan Shannon,2019-08-24,Arthritis,"Morgan Zimmerman, Matthews and",Aetna,2019-09-17,Aspirin,Normal
+ThOmAs hAAS,28,Female,A+,Cindy Jones,2024-02-05,Arthritis,Jimenez-Huff,UnitedHealthcare,2024-02-06,Penicillin,Normal
+kelLY tURner,18,Female,O+,Reginald Mckinney,2021-08-30,Arthritis,Stevenson-Chen,Blue Cross,2021-09-25,Penicillin,Inconclusive
+lANce SiMPsOn,46,Female,B+,Tiffany Hunt,2022-01-07,Asthma,Parker-White,Cigna,2022-01-25,Ibuprofen,Normal
+jeffrey GReeN,44,Male,AB+,Frank Pierce,2023-09-08,Arthritis,"Vang Schneider and Torres,",Cigna,2023-10-06,Aspirin,Inconclusive
+ErIc cOLlInS,52,Female,B+,Olivia White,2021-10-07,Cancer,Booth-Williams,UnitedHealthcare,2021-10-10,Paracetamol,Abnormal
+brIanNa wiLlIaMs,24,Female,B+,Laura Hill,2020-02-29,Cancer,Gray-Black,UnitedHealthcare,2020-03-17,Lipitor,Normal
+RoBerT gRavEs,53,Male,A+,Angela Rogers,2019-08-06,Obesity,Johnson-Garcia,UnitedHealthcare,2019-09-03,Lipitor,Normal
+CINDy wiLLIamS,46,Female,A-,James Smith,2019-08-06,Obesity,"Salinas Terrell Villanueva, and",Blue Cross,2019-08-09,Penicillin,Abnormal
+VIcToR sULLivan,72,Female,O+,Brian Cooper,2021-12-06,Asthma,Phelps Group,Blue Cross,2021-12-12,Aspirin,Inconclusive
+Frank SCotT,54,Female,A-,Jonathan Jimenez,2020-05-19,Asthma,"Harrison and Erickson, Barnett",UnitedHealthcare,2020-06-11,Paracetamol,Inconclusive
+Mark BRaDShaw,73,Male,AB+,Ashley Bishop,2019-12-27,Hypertension,Fischer Ltd,Medicare,2019-12-29,Lipitor,Abnormal
+JeSSicA duNn,69,Female,AB-,Charles Harris,2022-06-04,Cancer,Rhodes-Kelly,Cigna,2022-06-13,Penicillin,Normal
+KELsEy foX,32,Male,O+,Brandon Richardson,2023-01-18,Diabetes,"Tate Pierce and Jackson,",Aetna,2023-02-03,Penicillin,Normal
+MarY RICE,29,Male,B+,Shane Wong,2023-07-25,Diabetes,Inc Daniel,Aetna,2023-07-28,Lipitor,Inconclusive
+RACHeL jaCKSON,82,Female,A+,Michael Oliver,2020-07-17,Arthritis,"and Roberson Lee Young,",Blue Cross,2020-08-09,Lipitor,Inconclusive
+leah FRederICk,19,Male,O-,John Cooper,2023-02-03,Obesity,Giles-Miller,Aetna,2023-02-23,Lipitor,Abnormal
+COnnOr ODoNNell,63,Male,A-,Daniel Freeman,2021-11-27,Arthritis,"Martinez, and Snyder Hill",UnitedHealthcare,2021-12-08,Penicillin,Normal
+clAUdIa DoWNS,38,Male,A-,Adriana Gould,2020-08-18,Hypertension,Barber-Page,Blue Cross,2020-08-24,Paracetamol,Inconclusive
+wIlliaM LaNG,74,Male,B+,Amanda Hall,2019-07-06,Diabetes,"and Hess Delgado Foster,",Medicare,2019-08-02,Lipitor,Normal
+LIsA MORAn,38,Male,B-,Michael Mcbride,2024-02-17,Asthma,Johnson-Holland,UnitedHealthcare,2024-02-19,Lipitor,Normal
+rUBeN BUrTOn,53,Male,AB-,Deborah Wise,2021-09-06,Arthritis,"and Gonzales Dunn, Camacho",Aetna,2021-10-05,Paracetamol,Normal
+bRANdon sMith,36,Male,AB+,Ronald Edwards,2021-12-17,Diabetes,"Rodriguez Diaz Daugherty, and",Blue Cross,2022-01-07,Ibuprofen,Inconclusive
+jeSSiCa MURPHY,67,Female,A+,Raymond Bowen,2022-09-20,Arthritis,Rowland-Abbott,Blue Cross,2022-10-07,Aspirin,Abnormal
+miSty wiLLIamS,63,Male,AB-,Jill Bailey,2021-12-13,Asthma,"Murphy, Reid Knox and",Cigna,2021-12-20,Penicillin,Inconclusive
+brAndY GEORGE,39,Male,A+,Jennifer Pope,2021-10-12,Arthritis,Ryan-Mcneil,Blue Cross,2021-10-27,Ibuprofen,Normal
+ANDrea Buck,55,Male,O-,Taylor Craig,2023-08-08,Asthma,"Ramos Miller and Moore,",Medicare,2023-08-21,Aspirin,Abnormal
+STephanIE bUrKE,80,Male,AB-,Kristy Waters,2019-11-15,Obesity,Sons Cherry and,Aetna,2019-12-13,Aspirin,Inconclusive
+STEPHaNiE moON,18,Female,B-,Elizabeth Blevins,2021-12-17,Asthma,Cook LLC,Blue Cross,2021-12-26,Aspirin,Normal
+sHaRON joHnsON,41,Male,O+,Janice Jones,2022-11-08,Cancer,Phillips Ltd,Cigna,2022-11-11,Penicillin,Abnormal
+MaTtHeW haLEY,81,Male,A+,Joann Anderson,2020-02-24,Arthritis,"Oliver Griffin Johnson, and",Blue Cross,2020-03-16,Paracetamol,Abnormal
+SaBRInA May,66,Female,O+,Christine Mejia,2022-05-28,Asthma,Gregory Group,Aetna,2022-06-22,Lipitor,Inconclusive
+melindA aUstiN,44,Male,A+,Pamela Reed,2022-09-03,Hypertension,"and Camacho Thomas Malone,",UnitedHealthcare,2022-09-30,Aspirin,Inconclusive
+angElA MonTgOmery,81,Female,AB-,William Holmes,2020-04-07,Arthritis,LLC Smith,Cigna,2020-04-30,Aspirin,Abnormal
+VAnessA MaRTiN,77,Male,O+,Heather Bowman,2019-08-25,Arthritis,"Cunningham Andrade and Butler,",Cigna,2019-09-04,Aspirin,Inconclusive
+gABriel steVEnS,62,Male,B-,Brittany Burns,2021-05-28,Obesity,Curtis-Lin,Medicare,2021-06-09,Penicillin,Abnormal
+MichAEL wOLfE,78,Male,O+,Amber Carpenter,2024-02-25,Cancer,Ltd Smith,Aetna,2024-03-08,Paracetamol,Inconclusive
+bROokE TorreS,70,Male,O+,Kimberly Castaneda,2019-09-08,Diabetes,Inc Sanchez,Medicare,2019-09-09,Lipitor,Normal
+vicTOr DUKE,33,Male,B-,Jessica Vasquez,2023-05-25,Asthma,"Rice, Cooper Rivera and",Aetna,2023-05-29,Lipitor,Abnormal
+josepH gaRrETt,56,Female,AB-,Joseph Robinson,2023-07-11,Arthritis,Garcia LLC,Medicare,2023-08-01,Ibuprofen,Abnormal
+kARa lI,38,Male,A+,Travis Morales,2024-03-20,Cancer,Bell Ltd,Blue Cross,2024-04-05,Penicillin,Normal
+jUan kEllEy,33,Male,AB+,Carrie Montes,2021-11-05,Hypertension,"Hogan, Young Holmes and",Medicare,2021-11-06,Paracetamol,Inconclusive
+sHawNA rUsseLl,25,Male,O-,Alexander Walters,2023-08-27,Hypertension,Vazquez-Sanchez,Aetna,2023-08-28,Lipitor,Inconclusive
+LOrI LawREnce,66,Female,B-,Justin Paul,2022-05-26,Obesity,Mcintyre Ltd,UnitedHealthcare,2022-05-30,Paracetamol,Inconclusive
+WhItney jonES,47,Male,B+,Curtis Fox,2021-09-13,Hypertension,"White Roberts and Lee,",Blue Cross,2021-09-16,Lipitor,Normal
+JOE DaVila,53,Female,O-,Theresa Harrison,2024-03-10,Obesity,"Simpson Espinoza, and Thompson",Aetna,2024-03-15,Penicillin,Normal
+lISa KELlEr,37,Male,AB+,Mark Maynard,2022-09-26,Asthma,and Moore Sons,Cigna,2022-10-24,Paracetamol,Normal
+jOrdAN BUSh,56,Male,A-,Randy Graham,2019-12-26,Arthritis,"and Mclaughlin Powers Stevens,",Medicare,2019-12-27,Paracetamol,Inconclusive
+BrEnDA yU,51,Male,A-,Michael Jenkins,2021-01-18,Arthritis,"and Anderson, Porter Becker",Blue Cross,2021-02-11,Aspirin,Inconclusive
+JASmine sHort,40,Female,O-,Amy Johnson,2021-02-23,Cancer,Bailey-Hunt,Medicare,2021-03-20,Lipitor,Inconclusive
+Tamara LEonArd,56,Female,AB+,Timothy Wagner,2020-03-15,Arthritis,"King and Bryant Olsen,",Cigna,2020-03-22,Paracetamol,Normal
+keVIN wong,76,Male,A+,Kara Stevens,2019-09-22,Asthma,"Watson Johnson Joseph, and",Aetna,2019-09-28,Aspirin,Abnormal
+LIsa LopeZ,81,Male,AB+,David Keller,2023-12-07,Obesity,Group Evans,Aetna,2023-12-13,Ibuprofen,Abnormal
+jUSTiN VArgAs,84,Female,O-,Emily Sanders,2020-07-01,Arthritis,"Collins Porter and Rodgers,",Aetna,2020-07-09,Paracetamol,Normal
+JoDy loPEZ,54,Male,O+,Chris Green,2020-05-12,Obesity,"and Goodwin, Hernandez Andrade",Medicare,2020-05-17,Penicillin,Normal
+JONaTHaN wOODs,40,Male,B+,Kurt Hamilton,2022-08-29,Asthma,Solomon PLC,Medicare,2022-09-10,Penicillin,Inconclusive
+eMMa RAY,79,Male,O-,Richard Jones,2019-11-01,Cancer,Flores Sons and,Blue Cross,2019-11-19,Penicillin,Inconclusive
+andrEa jOHNSon,52,Male,AB-,Brian Herrera,2019-08-16,Cancer,Lowe LLC,Blue Cross,2019-09-15,Paracetamol,Abnormal
+waYnE SHArp,42,Male,B+,Robert Perkins,2021-02-28,Diabetes,"Lopez Keller, Williams and",Cigna,2021-03-14,Paracetamol,Normal
+sHelby BLack,41,Male,A+,Peter Nunez,2020-09-07,Asthma,Brown-Wood,Blue Cross,2020-09-30,Paracetamol,Normal
+maRthA MARTiN,26,Male,A+,Diane Richardson,2024-02-16,Arthritis,Martinez-Davis,Blue Cross,2024-02-28,Aspirin,Abnormal
+amanDA wilSoN,76,Female,B+,Julia Monroe,2021-01-16,Cancer,Alexander-Oconnor,Cigna,2021-01-27,Lipitor,Abnormal
+JErEMy NGuyeN,29,Female,A+,Michael Palmer,2023-01-31,Arthritis,Carlson-Stone,Cigna,2023-02-14,Penicillin,Normal
+eILEEN HaRRIs,19,Male,B-,Hector King,2022-07-29,Hypertension,"George Ward, and Clark",Medicare,2022-08-21,Penicillin,Normal
+johN becKEr,30,Female,O-,Michael Webster,2022-04-27,Diabetes,Nicholson-Johnson,Cigna,2022-05-01,Penicillin,Inconclusive
+FelICIa wILey,37,Female,O-,Christy Maxwell,2020-06-06,Asthma,PLC Carr,Aetna,2020-06-22,Aspirin,Normal
+JESsE JOneS,82,Female,AB-,Jorge Armstrong,2019-11-02,Asthma,Alexander-Middleton,Blue Cross,2019-11-28,Penicillin,Abnormal
+steVEN gleNn,84,Female,B+,Alexander Patterson,2022-09-12,Obesity,Horton-Martinez,UnitedHealthcare,2022-09-22,Paracetamol,Inconclusive
+CAROLine sWanSoN,52,Female,A+,Richard Rodgers,2021-01-10,Arthritis,Group Schneider,Aetna,2021-01-25,Paracetamol,Abnormal
+TERRy NiCHolson,75,Female,B-,Jasmine King,2019-11-05,Hypertension,PLC Obrien,Blue Cross,2019-11-08,Aspirin,Inconclusive
+KelLy tHOmAS,30,Male,A+,Nancy Sutton,2021-02-17,Cancer,Ramos-Holt,Blue Cross,2021-03-07,Ibuprofen,Abnormal
+stevEn McgeE,76,Male,A-,Brittany Anderson,2023-06-04,Diabetes,"Patterson and Peterson, Velazquez",Medicare,2023-06-27,Paracetamol,Inconclusive
+sHeLleY waRE,56,Male,B-,Heather Long,2023-09-07,Diabetes,"Jensen and Jackson, Greene",Medicare,2023-10-06,Lipitor,Inconclusive
+MELiSSA bRADY,65,Female,O-,Amy Hawkins,2022-09-29,Hypertension,Mathews-Lawrence,UnitedHealthcare,2022-10-09,Paracetamol,Abnormal
+MArIA hAll,83,Female,A+,Victor Fowler,2022-02-03,Obesity,"Morales, Johnson and Carlson",Blue Cross,2022-02-08,Penicillin,Abnormal
+AnDRE sMITh,43,Female,B+,Sharon Hall,2024-02-14,Hypertension,"Wilson, Ward Taylor and",Medicare,2024-03-02,Penicillin,Inconclusive
+KareN GOnZaleZ,84,Male,A+,Jeffrey Arellano,2020-09-10,Hypertension,Torres-Johnson,Cigna,2020-09-21,Ibuprofen,Inconclusive
+ViNCENt SelLErS,84,Female,B+,Mary Johnson,2023-01-24,Hypertension,Inc Mcbride,Blue Cross,2023-01-27,Lipitor,Inconclusive
+brANDon buRKe,77,Male,O-,Kimberly Key,2021-10-01,Obesity,"and Dunlap, Wright Mays",UnitedHealthcare,2021-10-23,Paracetamol,Abnormal
+MR. MArK hANCocK,60,Male,O+,Tara Lopez,2021-06-05,Arthritis,Sullivan-Crosby,Blue Cross,2021-06-11,Penicillin,Inconclusive
+kenNETH PEReZ,48,Male,O+,Angela Lara,2023-08-09,Arthritis,"and Shaw, Davis Pollard",UnitedHealthcare,2023-08-26,Paracetamol,Inconclusive
+MArtiN haNsEn,80,Female,B-,Laurie Brewer,2020-12-22,Asthma,Williams LLC,Aetna,2021-01-16,Ibuprofen,Normal
+susAn bROWN,46,Male,A+,Margaret Hensley DVM,2022-06-21,Hypertension,Franklin Ltd,Cigna,2022-07-10,Paracetamol,Inconclusive
+niCOle ALVAraDO,38,Male,B-,Adam Bowers,2021-05-05,Arthritis,Galloway-Barnett,Medicare,2021-05-15,Penicillin,Abnormal
+JeSsicA RodRiGUeZ,72,Female,A-,Renee Odom,2024-04-20,Asthma,"Miller Olson, and Collins",Cigna,2024-05-10,Aspirin,Normal
+tiNA PriCE,70,Female,A+,Amanda Morris,2022-06-13,Asthma,"Wheeler and Miller Burch,",UnitedHealthcare,2022-07-05,Lipitor,Abnormal
+mR. jaCk wIlliS,46,Female,O+,Gregory Oneill,2023-09-01,Hypertension,Mercer-Booker,Cigna,2023-09-18,Penicillin,Abnormal
+GreGoRY aDAMS,82,Male,AB+,Erika Smith,2020-03-14,Cancer,"and Burke Skinner Myers,",Blue Cross,2020-04-01,Penicillin,Normal
+DAVId RObErtS,44,Female,A+,Michelle Harmon,2022-06-05,Hypertension,"and Parker, Stout Chase",Blue Cross,2022-06-29,Ibuprofen,Inconclusive
+COry PERry,34,Female,O+,Shane Russell,2019-12-19,Asthma,"Fernandez Harris, and Wilson",UnitedHealthcare,2020-01-16,Ibuprofen,Inconclusive
+JeSsica BarrY,49,Male,A-,Rhonda Miller,2020-12-06,Hypertension,Young-Myers,Aetna,2020-12-09,Ibuprofen,Normal
+cyNthIA thOmAs,44,Female,B+,Aaron Turner,2019-05-13,Cancer,Johnson PLC,Medicare,2019-06-10,Paracetamol,Inconclusive
+sHannOn JOHnSOn,37,Male,A-,Angela Anderson,2023-01-17,Hypertension,"Barber Waters Castillo, and",Cigna,2023-02-05,Penicillin,Normal
+jUSTIn whITE,37,Male,AB-,Caitlin Jackson,2022-07-28,Arthritis,Jarvis-Craig,Aetna,2022-08-16,Aspirin,Abnormal
+reGINA sTewarT,58,Female,O+,Jeremy Stout,2022-10-15,Diabetes,Schneider-Patton,Cigna,2022-11-05,Ibuprofen,Abnormal
+chelsEa FInLeY,20,Female,A+,Michele Warren,2020-05-25,Obesity,"Kane Porter and Robinson,",Medicare,2020-06-06,Ibuprofen,Normal
+emmA beNNeTt,43,Male,A-,Eric English,2021-02-13,Obesity,Archer Inc,UnitedHealthcare,2021-03-03,Aspirin,Abnormal
+AlaN lEe,57,Female,AB-,Shirley Armstrong,2023-05-31,Cancer,Castaneda-Powell,Blue Cross,2023-06-25,Penicillin,Inconclusive
+KatELYn MiLler,76,Male,AB+,Mary Miller,2020-01-18,Arthritis,"King, Williams and Terry",Aetna,2020-01-26,Paracetamol,Inconclusive
+aManda morriS,53,Female,B-,Steve Anderson,2020-08-19,Cancer,Henry PLC,Cigna,2020-08-28,Penicillin,Abnormal
+dAvID pRatt,45,Male,A-,Candice Harris,2022-12-24,Diabetes,"and Carpenter, Hernandez Chang",UnitedHealthcare,2023-01-22,Ibuprofen,Normal
+MAtTheW cunnINGHAm,21,Female,O+,Rhonda Lucas,2020-09-05,Asthma,Santiago-Bush,Aetna,2020-09-25,Aspirin,Normal
+bObBY CarSoN,64,Male,A-,Cody Mcintyre,2022-09-10,Arthritis,"Williams Hale and Summers,",Aetna,2022-09-22,Paracetamol,Normal
+meliNda WIlSOn,71,Male,AB-,Scott Adams DDS,2021-04-26,Diabetes,Ltd Carroll,UnitedHealthcare,2021-05-04,Aspirin,Abnormal
+NancY HaNSEn,28,Female,O-,Jason Dixon,2024-01-20,Diabetes,"Stevenson, Harding and Woods",Cigna,2024-01-28,Penicillin,Normal
+gReGoRY wALlS,79,Male,A-,Larry Williams,2021-03-05,Hypertension,Munoz Ltd,Aetna,2021-03-15,Lipitor,Normal
+aMBer NiXoN,40,Male,O+,Candice Gray,2020-12-27,Arthritis,LLC Hernandez,Cigna,2021-01-23,Penicillin,Abnormal
+KriStIn fRancO,50,Female,AB+,Michael Richardson,2021-09-22,Asthma,"Kidd Romero, and Douglas",UnitedHealthcare,2021-10-15,Lipitor,Abnormal
+JEremIAH vAZQuEz,64,Female,B-,Megan Allen,2023-05-01,Cancer,and Cordova Sons,Cigna,2023-05-31,Lipitor,Abnormal
+AnthONy SmITH,81,Male,O+,Jonathan Crawford,2019-05-12,Obesity,Garcia-Clark,Aetna,2019-05-23,Penicillin,Abnormal
+vIcToRiA brADy,52,Female,O+,Benjamin Cruz,2021-02-22,Hypertension,Robinson Group,Medicare,2021-03-15,Penicillin,Normal
+erIN cLaRk,76,Male,B+,Tracy Marks,2022-03-10,Obesity,"Hayes Ryan, and Martinez",Blue Cross,2022-03-18,Aspirin,Inconclusive
+hEAtHer BOyLe,52,Male,B+,Nathan Benjamin,2022-10-23,Obesity,"Glover and Oneill Miller,",Cigna,2022-11-03,Aspirin,Abnormal
+eLiZAbeTH ShEPPARd,77,Female,O-,Sara Cole,2024-03-13,Cancer,Diaz Inc,Aetna,2024-03-29,Penicillin,Inconclusive
+roBErT boOne,81,Male,AB+,Sara Warner,2019-08-06,Hypertension,Martin-Nguyen,UnitedHealthcare,2019-08-16,Lipitor,Normal
+geoFFrEy DANiELs,36,Male,B-,Stanley Moreno,2020-09-15,Obesity,Roberts Inc,Cigna,2020-09-26,Paracetamol,Inconclusive
+joHN khAn,72,Female,AB+,Nina Smith,2019-10-31,Cancer,"Riley, Grimes Ruiz and",Blue Cross,2019-11-03,Lipitor,Inconclusive
+ChrISTopheR aRmSTRoNg,70,Male,O-,Justin Nguyen,2020-09-07,Diabetes,Ltd Rogers,Aetna,2020-09-19,Lipitor,Inconclusive
+JeNNiFER lopez,44,Female,O-,Michele Ramos,2021-08-27,Arthritis,Gomez Inc,Medicare,2021-09-24,Lipitor,Inconclusive
+mELISSa ROBerTson,81,Female,A-,James Harris,2019-12-21,Arthritis,PLC Mack,Cigna,2020-01-15,Aspirin,Inconclusive
+KAren PriCE,41,Male,B-,Carla Burgess,2019-09-23,Arthritis,Castro-Gomez,Medicare,2019-09-26,Lipitor,Abnormal
+LiSa fRanKLin,32,Female,A+,Luke York,2022-05-21,Arthritis,"Chan, Goodman and Gould",Cigna,2022-05-25,Penicillin,Inconclusive
+KRisTIN BURtoN,58,Female,B-,Whitney Phillips,2019-12-29,Obesity,"Russell and Randolph, Lawrence",Medicare,2020-01-04,Aspirin,Normal
+caiTLin aDAms,33,Male,A-,Daniel Johnson,2020-04-03,Arthritis,Evans-Gonzalez,Cigna,2020-04-04,Penicillin,Inconclusive
+EvaN HeRnANDez,80,Male,A+,Audrey Lewis,2022-12-15,Cancer,Miller Sons and,Medicare,2022-12-28,Paracetamol,Inconclusive
+jEnNiFer KNiGht,67,Male,O-,Donald Wagner,2020-08-07,Obesity,Watts-Schneider,Aetna,2020-08-09,Aspirin,Inconclusive
+BOnnIE WiLSon,39,Male,A-,Lisa Fisher,2022-03-19,Diabetes,Harrell Inc,Aetna,2022-03-20,Paracetamol,Normal
+kEnnETh raMIREZ,52,Male,A+,Amber Williams,2024-03-10,Arthritis,"Reed Valdez and Pratt,",Medicare,2024-03-26,Aspirin,Normal
+ELleN mCCuLloUgh,49,Male,AB-,Patrick Medina,2019-11-29,Arthritis,Ali Group,Blue Cross,2019-11-30,Lipitor,Normal
+THomAS SToNe,41,Male,B-,Sheri Castro,2019-07-17,Hypertension,Conner-Nelson,Blue Cross,2019-08-12,Paracetamol,Abnormal
+katHLEEn ArMstrong,81,Female,O-,Crystal Thornton,2020-05-27,Hypertension,"and Miller Prince Rodriguez,",Blue Cross,2020-06-12,Aspirin,Normal
+tErrY BEnnetT,19,Female,A-,Kimberly Carter,2019-09-06,Hypertension,"Parker Davis Clark, and",Blue Cross,2019-10-01,Penicillin,Inconclusive
+kRISTIN NGuYeN,83,Male,AB+,Frederick Arnold,2021-04-06,Hypertension,Mills-Petersen,Cigna,2021-05-06,Ibuprofen,Abnormal
+aNgEla rANdOLph,36,Female,O+,Anna Atkinson,2019-05-19,Cancer,"Smith Anderson and Hunt,",UnitedHealthcare,2019-05-29,Paracetamol,Abnormal
+chrIsTOpHEr tAtE,43,Female,A-,Mary Coleman,2023-09-24,Cancer,Kennedy-Smith,Cigna,2023-10-20,Paracetamol,Abnormal
+chrisTopHeR wALToN,72,Male,AB-,Jeremy Parker,2019-09-30,Diabetes,"and Moore, Ballard Johnson",Cigna,2019-10-10,Paracetamol,Abnormal
+mEAGAN MIranDA,73,Female,A+,Dorothy Garcia,2022-07-23,Asthma,"Williams Reynolds and Rangel,",Cigna,2022-08-16,Ibuprofen,Abnormal
+dAvId BrOwn,32,Male,AB-,John Sanders,2020-05-11,Cancer,"Shelton Johnson, and Green",Blue Cross,2020-06-06,Aspirin,Inconclusive
+EriC MilleR,39,Male,O+,Ashlee Cooper,2019-08-01,Asthma,"Lopez, and Howard Morrison",Aetna,2019-08-08,Penicillin,Normal
+JoeL BaRTlEtT,72,Male,B+,Nicole Vance,2019-09-06,Asthma,Sons and Cortez,Medicare,2019-09-15,Lipitor,Abnormal
+stAcY GIlLEspiE,24,Male,B-,Karen Lynn,2023-01-28,Cancer,Roberts Ltd,Cigna,2023-02-26,Penicillin,Inconclusive
+cINdy SHaW,32,Female,O-,Rachel Lopez,2023-09-11,Obesity,Sellers-Shepard,Blue Cross,2023-10-11,Penicillin,Abnormal
+Andrew eriCKsON,57,Female,AB+,Samuel Williams,2020-03-11,Asthma,"Lloyd Scott, and Reese",Medicare,2020-03-18,Ibuprofen,Normal
+aShleY roDrIguez,56,Male,B-,Steven Rogers,2021-03-07,Asthma,Gibson-Osborne,Medicare,2021-03-21,Paracetamol,Abnormal
+dARrYl CruZ,84,Female,O+,Melanie Lloyd,2024-04-03,Asthma,Matthews-Morgan,UnitedHealthcare,2024-04-10,Ibuprofen,Inconclusive
+shEiLA cHurcH,46,Male,B-,Bobby Mayo,2022-12-25,Cancer,Scott and Sons,Aetna,2023-01-10,Penicillin,Abnormal
+NANcY munOZ,55,Male,AB+,Fernando Hodge,2020-04-01,Obesity,Diaz-Richards,Aetna,2020-04-26,Ibuprofen,Inconclusive
+REBeccA MarTinEZ,19,Female,A+,Valerie Simmons,2020-01-23,Hypertension,LLC Johnson,Medicare,2020-02-20,Aspirin,Abnormal
+johN SIMmOns,69,Female,O+,Cheryl Herrera,2023-02-10,Diabetes,Murphy Group,Blue Cross,2023-02-25,Paracetamol,Inconclusive
+LANce TORREs,69,Female,B-,John Rodriguez MD,2023-10-20,Cancer,"Barajas and Byrd, Wolf",Medicare,2023-10-28,Paracetamol,Normal
+tImotHy TErrY,56,Male,A-,Ashley Jackson,2020-07-15,Hypertension,"Salazar Newman White, and",Medicare,2020-08-11,Lipitor,Inconclusive
+joHn MOorE,36,Female,A-,Samuel Hebert,2023-01-14,Arthritis,Hancock-Lewis,Medicare,2023-02-08,Aspirin,Normal
+bRAdLeY RAMos,44,Male,A-,Ryan Garcia,2021-06-19,Arthritis,Barrett-Wright,UnitedHealthcare,2021-07-14,Paracetamol,Normal
+JIlL TayLOR,32,Male,O-,Kelli Gutierrez,2020-05-18,Obesity,"Bowers Blankenship Jackson, and",Medicare,2020-05-19,Aspirin,Abnormal
+kelLy brown,61,Female,B-,Kenneth Watson,2020-05-16,Arthritis,Hahn-Wilson,UnitedHealthcare,2020-06-15,Ibuprofen,Abnormal
+jonATHan chAVEZ,61,Male,AB+,Jo Donaldson,2021-03-11,Cancer,"Ramirez and Nelson, Collins",Cigna,2021-04-02,Paracetamol,Normal
+deniSe Wall,47,Male,B-,Ronald Patrick,2023-02-05,Arthritis,Sosa-Jackson,Blue Cross,2023-02-12,Penicillin,Abnormal
+ToDd martinez,49,Female,A+,Lonnie Patton,2021-10-19,Obesity,Dillon-Richard,Cigna,2021-11-12,Penicillin,Normal
+jEnnIFer foRD,83,Male,B-,Gabrielle Hendrix,2019-09-07,Asthma,Stokes and Sons,Medicare,2019-09-29,Aspirin,Abnormal
+RAYMOnD Park JR.,63,Male,B-,Brandy Parsons,2021-05-26,Asthma,Inc Nguyen,Blue Cross,2021-06-20,Ibuprofen,Normal
+jUlia reYNOLDs,26,Female,O-,Anthony Norris,2021-05-07,Cancer,Gallagher-Hernandez,Aetna,2021-05-27,Penicillin,Abnormal
+JOhN McleAn,20,Female,AB-,Kristina Mendez MD,2023-01-17,Arthritis,"Johnson David Carpenter, and",Medicare,2023-01-29,Paracetamol,Normal
+KATie hOwARd,69,Male,AB-,Justin Clark,2020-03-05,Asthma,"and Montes Marshall Valdez,",Medicare,2020-03-06,Lipitor,Normal
+AmandA LAWSon,26,Male,AB-,Charles Schmidt,2022-09-16,Asthma,PLC Kelly,Blue Cross,2022-10-16,Aspirin,Normal
+PAUL muRRaY,36,Male,AB+,Johnny Alvarado,2022-06-03,Arthritis,Wilson-Sherman,UnitedHealthcare,2022-06-28,Ibuprofen,Abnormal
+JAmEs MorRis,27,Male,AB-,Patricia Kidd,2020-12-30,Diabetes,Peterson Group,Medicare,2021-01-26,Paracetamol,Abnormal
+MaTTHew cOlliNs,60,Female,B-,Christopher Fleming,2020-08-09,Obesity,Hall-Taylor,Aetna,2020-08-15,Penicillin,Abnormal
+sharOn cArPenTeR,67,Female,AB-,Robert Higgins,2021-03-10,Arthritis,Rios PLC,UnitedHealthcare,2021-03-29,Lipitor,Normal
+maRcUS bRoWn,41,Female,O+,Adrian Powell,2021-03-15,Cancer,"Lutz, Lester and Kelly",UnitedHealthcare,2021-03-26,Ibuprofen,Abnormal
+mItcHElL DeCkeR,45,Male,B-,Alexander Rivera,2021-08-23,Hypertension,"Scott, Moore and Brewer",Medicare,2021-08-24,Penicillin,Normal
+dONald mURPhY,37,Male,A+,Pam Johnson,2023-11-11,Diabetes,"Sullivan Henderson Lloyd, and",Cigna,2023-11-28,Penicillin,Inconclusive
+JOSePh faRlEy,46,Male,A+,Tracy Howard,2023-12-31,Cancer,"and Rhodes Trujillo, Booth",Cigna,2024-01-27,Penicillin,Inconclusive
+BReNdaN paRKer,71,Female,A+,Matthew Taylor,2019-09-21,Arthritis,Bailey-White,Cigna,2019-10-20,Penicillin,Normal
+SaMuEL dAVis,69,Female,B+,Sharon Harding,2022-11-04,Hypertension,Bridges Inc,UnitedHealthcare,2022-11-13,Ibuprofen,Inconclusive
+KeLsey POrTeR,65,Male,O-,Kristine Browning,2019-08-08,Asthma,"Jackson Carr, Garcia and",Medicare,2019-08-19,Paracetamol,Abnormal
+mArk bRYaNt,75,Female,O+,Timothy Kim,2023-10-05,Arthritis,Richardson-Griffin,Cigna,2023-10-08,Penicillin,Inconclusive
+mARGAret ZamoRa,77,Male,O+,Joshua Ross,2020-08-28,Diabetes,Allen-Campbell,UnitedHealthcare,2020-09-04,Ibuprofen,Normal
+dAVid pAyne,22,Male,A+,Linda Adams,2020-07-08,Obesity,Ferguson-Liu,Medicare,2020-07-13,Ibuprofen,Abnormal
+tony salAs pHD,58,Female,O+,Richard Andrews,2023-10-06,Obesity,Lee Ltd,Medicare,2023-10-09,Ibuprofen,Inconclusive
+AdRiaN bowMan,25,Female,A-,Julie Warren,2023-07-01,Cancer,Baldwin-Marshall,Blue Cross,2023-07-05,Lipitor,Normal
+MRS. laUrEn morgaN,83,Female,B-,Angela Mathis,2021-08-07,Diabetes,Norman PLC,Blue Cross,2021-08-20,Lipitor,Normal
+joSHuA muRRay,27,Male,A-,Beth Williams,2020-05-13,Hypertension,Boyd-Fisher,Blue Cross,2020-05-26,Lipitor,Abnormal
+JAsoN webER,32,Male,B-,Alejandra Williams,2023-09-26,Arthritis,Inc Davis,UnitedHealthcare,2023-09-29,Aspirin,Normal
+reBeCcA LeWis,40,Male,A+,Jennifer Mitchell,2023-06-14,Diabetes,Perry Inc,Cigna,2023-06-15,Ibuprofen,Inconclusive
+JOAn aRcHeR,25,Male,AB-,Bradley Hunter,2024-05-05,Asthma,"and Brown Larson Moyer,",Cigna,2024-05-07,Aspirin,Abnormal
+brittAnY EDwarDs,69,Male,A-,Todd Houston,2023-04-03,Asthma,Soto-Boyle,Blue Cross,2023-04-11,Ibuprofen,Normal
+tiMotHy dIAz,25,Female,B-,Michael Grant,2021-10-24,Diabetes,Jones-Ellis,Medicare,2021-11-13,Ibuprofen,Normal
+DaniEL BLaNKenShIP,66,Female,B+,Debra Carpenter,2023-05-24,Arthritis,"Jenkins, Mathews and Ho",Medicare,2023-06-09,Lipitor,Abnormal
+mAry stEphenS,62,Male,A+,Amanda Johnson,2019-12-20,Hypertension,Villa Inc,UnitedHealthcare,2020-01-17,Penicillin,Inconclusive
+BrIAN FigUERoA,30,Male,A-,Joseph Flores,2022-04-27,Hypertension,Castro PLC,UnitedHealthcare,2022-05-04,Lipitor,Inconclusive
+sTEphANIe anderSOn,55,Male,B+,Kyle Gray,2019-11-14,Hypertension,Ortiz-Martin,Cigna,2019-11-16,Ibuprofen,Inconclusive
+MiCHaeL DOyle,78,Female,O-,Sarah Jackson,2022-04-17,Hypertension,Anthony-Torres,Medicare,2022-04-25,Penicillin,Abnormal
+KAThlEEn MARsHAll,69,Female,A-,Alyssa Cox,2022-04-15,Arthritis,PLC Drake,Medicare,2022-05-12,Penicillin,Inconclusive
+dONaLD lYNch,77,Male,O+,Angela Johnson,2021-03-13,Cancer,Schmidt Ltd,UnitedHealthcare,2021-03-14,Aspirin,Normal
+DaVid EspInoza,56,Female,A+,Debbie Browning,2021-12-18,Hypertension,Ortiz-Gardner,UnitedHealthcare,2022-01-06,Ibuprofen,Inconclusive
+jULia kEiTh,58,Female,O-,James Smith,2022-12-09,Asthma,Smith-White,Blue Cross,2022-12-27,Paracetamol,Inconclusive
+KRiStEN cOhEn,78,Female,O-,Brandy Nichols,2024-01-06,Asthma,Ltd Stewart,Aetna,2024-01-31,Aspirin,Normal
+eRICa ReyEs,50,Male,O+,Jennifer Roach,2020-12-27,Asthma,"Hunter and James Wilson,",Blue Cross,2020-12-30,Aspirin,Inconclusive
+aNdREw bryAN,38,Female,O-,Kenneth Beltran,2024-01-05,Obesity,Martinez-Elliott,Blue Cross,2024-01-06,Penicillin,Abnormal
+MaRy pArrISH,81,Female,A-,Elizabeth Freeman,2021-02-24,Cancer,Wright-Nguyen,Medicare,2021-02-28,Paracetamol,Abnormal
+kATRIna WaRreN,80,Male,AB-,Elizabeth Campbell,2023-09-11,Cancer,"and Johnson Wright Carter,",Medicare,2023-09-27,Lipitor,Abnormal
+Kevin rOBInSoN,48,Female,A+,Larry Collier,2022-01-31,Cancer,Johnson-Collins,UnitedHealthcare,2022-02-09,Lipitor,Normal
+miCHaeL BrADLEY,22,Male,O+,Lisa Howell,2022-08-22,Arthritis,Olsen LLC,UnitedHealthcare,2022-09-15,Penicillin,Inconclusive
+debBiE scOtt,50,Male,A-,Ellen Bailey,2021-10-07,Arthritis,Smith LLC,Cigna,2021-10-08,Ibuprofen,Abnormal
+sARA caNTrelL,19,Male,O-,Kimberly Gregory,2021-10-04,Diabetes,Rodriguez-Morgan,Cigna,2021-10-13,Aspirin,Inconclusive
+cAtheRInE PEtErSOn,79,Male,A+,Timothy Williams,2023-08-13,Obesity,Ltd Bell,Aetna,2023-09-02,Paracetamol,Inconclusive
+KYLe tHoMaS,44,Female,B-,Crystal Thompson,2019-11-16,Arthritis,"and Thompson Mccall, Brooks",Medicare,2019-11-25,Paracetamol,Inconclusive
+ScOtT sImON,50,Female,A-,John Bryant,2023-05-10,Hypertension,Castillo LLC,Blue Cross,2023-06-04,Ibuprofen,Inconclusive
+valErIe HUnter,20,Female,O+,Robert Brewer,2021-03-28,Arthritis,Torres Group,Medicare,2021-04-17,Lipitor,Abnormal
+AsHley WaRnER,60,Male,A+,Andrea Bentley,2021-12-21,Hypertension,"and Wagner, Lee Klein",Aetna,2022-01-11,Ibuprofen,Normal
+mOniQue dOMiNgUEz,75,Male,B+,Craig Allen,2021-02-05,Asthma,"Boyd and Baker Rasmussen,",Blue Cross,2021-02-17,Aspirin,Abnormal
+coDy TAYLOR,45,Female,AB+,Shannon Hicks,2023-07-15,Asthma,Owens-Adkins,Medicare,2023-07-23,Ibuprofen,Abnormal
+aMAnDa SULLIvan,20,Female,O-,Toni Russell,2023-01-20,Asthma,PLC Lewis,Medicare,2023-02-18,Ibuprofen,Inconclusive
+MARY ruIz,50,Female,AB-,Anita Ortega,2020-03-22,Hypertension,Brennan-Walters,Blue Cross,2020-04-01,Paracetamol,Inconclusive
+aPRil MaRTIN,39,Female,AB+,Anthony Lopez,2020-10-17,Diabetes,"and Mcdonald Taylor, Pitts",Aetna,2020-10-26,Penicillin,Abnormal
+sean bENNeTt,32,Female,O+,Timothy Johnson,2021-01-19,Asthma,Martin LLC,Blue Cross,2021-02-05,Lipitor,Normal
+Ryan hARRis,58,Male,A-,Erica Gallagher,2023-03-26,Diabetes,Huang-Blanchard,Aetna,2023-04-05,Ibuprofen,Normal
+TylER gonZalez,67,Female,A-,Megan Zimmerman,2022-09-28,Diabetes,"Gonzalez and Marks, Lopez",Aetna,2022-10-16,Aspirin,Normal
+CHRistOPheR rOdRIgUEZ,59,Male,AB-,Kyle Nelson,2019-10-20,Cancer,"Molina, Rogers and Horton",Cigna,2019-11-07,Penicillin,Abnormal
+briAn ArEllAno,37,Male,O+,Thomas Cross,2022-03-13,Arthritis,"Haynes Miller, and Gray",Aetna,2022-03-17,Paracetamol,Abnormal
+DanIeLLe cANNOn,37,Male,B+,Stephanie Howard,2020-03-19,Obesity,"Garcia Woodward and Morgan,",Cigna,2020-03-22,Aspirin,Abnormal
+KATIe mARTinEZ,59,Female,O+,Dr. Alex Clark,2021-02-22,Diabetes,and Kennedy Sons,Cigna,2021-03-04,Paracetamol,Abnormal
+pamEla KeLLY,68,Male,B-,Joseph Powers,2021-06-28,Arthritis,Inc Anderson,Cigna,2021-07-27,Ibuprofen,Inconclusive
+laURie EdWaRdS,51,Female,A-,Kevin Mack,2022-10-08,Hypertension,"Armstrong Everett, Adams and",UnitedHealthcare,2022-11-05,Aspirin,Abnormal
+chAd crOss,74,Male,B-,Savannah Mahoney,2021-10-05,Hypertension,Mclaughlin-Jenkins,Blue Cross,2021-10-26,Aspirin,Abnormal
+KYLe grAy,81,Female,AB+,Taylor Juarez,2023-02-15,Hypertension,Parks PLC,UnitedHealthcare,2023-02-22,Ibuprofen,Abnormal
+CaseY HamIlToN,60,Male,O-,Stephanie Thompson,2021-01-24,Diabetes,"Hendrix, Roberts and Pitts",UnitedHealthcare,2021-02-11,Paracetamol,Abnormal
+JIlLIAN sILva,44,Male,A+,Christopher Ross,2022-01-22,Hypertension,"and Berger Perry, Calhoun",UnitedHealthcare,2022-02-09,Ibuprofen,Inconclusive
+DOnAld AYAlA,33,Female,AB-,Cassandra Howe,2023-03-02,Obesity,Evans-Molina,Aetna,2023-03-03,Ibuprofen,Abnormal
+wIlLIAM forD,35,Male,B+,Hannah Garcia,2020-10-26,Obesity,and Sons Tucker,Medicare,2020-10-31,Ibuprofen,Normal
+IsABella kENNEDy,46,Male,B-,Raymond Mercer,2022-02-09,Asthma,Group Holder,Blue Cross,2022-02-16,Paracetamol,Inconclusive
+jUSTIN BrOwN,51,Female,B+,Wendy Morgan,2023-10-26,Hypertension,Lawrence PLC,UnitedHealthcare,2023-11-21,Penicillin,Inconclusive
+SHANNoN aLexaNder,65,Male,A-,Cynthia Sanders,2024-01-11,Obesity,Smith Ltd,Cigna,2024-01-15,Penicillin,Abnormal
+kATHERIne WhITakEr,75,Male,O+,Michael Munoz,2022-05-25,Hypertension,Howe-Smith,Aetna,2022-06-19,Paracetamol,Normal
+JeREmy camPBELl,33,Female,B-,Frederick Smith,2019-07-31,Cancer,PLC Vargas,Cigna,2019-08-08,Aspirin,Abnormal
+joEl MOntgomeRY,45,Female,O+,Ricky King,2022-02-27,Diabetes,"and Ray Wood Barrett,",Cigna,2022-03-03,Aspirin,Abnormal
+chRiStinE FrAziER,81,Female,AB+,Richard Fox,2021-05-15,Diabetes,"Davis Moore Bartlett, and",UnitedHealthcare,2021-05-31,Paracetamol,Abnormal
+bRittany NorMaN,56,Female,B-,Alexander Preston,2023-07-27,Arthritis,Barton-Johnson,Blue Cross,2023-08-19,Penicillin,Abnormal
+julIE frEEman,57,Male,A+,Stacey Weaver,2022-08-01,Obesity,Salas-Farmer,Medicare,2022-08-16,Aspirin,Abnormal
+HenRY CastRo,75,Male,A+,Cole Harris,2021-05-17,Arthritis,"Neal and Roberson Hicks,",Cigna,2021-05-30,Paracetamol,Abnormal
+dR. aARon AndErseN,22,Male,A+,Kimberly Martinez,2022-03-22,Cancer,Robinson Inc,Aetna,2022-04-01,Ibuprofen,Normal
+brANDon gOmEz,68,Male,B+,Daniel Calhoun,2020-08-31,Hypertension,and Howard Sons,Aetna,2020-09-13,Penicillin,Normal
+REgIna MATthEWs,22,Male,AB+,Zachary Lopez,2021-03-17,Arthritis,"and Morris Mullins, Hernandez",UnitedHealthcare,2021-03-20,Aspirin,Normal
+AlAn roACH,47,Male,A+,Dwayne Bradley,2019-06-13,Cancer,Rodriguez-Howard,Medicare,2019-06-17,Penicillin,Normal
+CHRisTOPhER mcFarlaNd,66,Male,AB-,Francisco Gray,2020-08-01,Hypertension,Martin Ltd,Cigna,2020-08-22,Lipitor,Abnormal
+mICHAElA pATtERSON mD,51,Female,O+,Shane Mcintosh,2020-03-25,Cancer,Jordan-Hood,Blue Cross,2020-04-05,Lipitor,Abnormal
+miChAel hofFMAn,45,Male,AB+,Katherine Taylor,2020-05-03,Asthma,Fox-Singleton,Cigna,2020-05-27,Lipitor,Abnormal
+DYlAN SiMON,23,Female,A+,Laura Shaw,2022-11-29,Arthritis,"Holland, Daniels Brennan and",Cigna,2022-12-17,Ibuprofen,Abnormal
+chriStiNa DAVIs,77,Male,AB-,Susan Wheeler,2019-12-12,Obesity,Sanchez-Green,Aetna,2019-12-27,Penicillin,Abnormal
+JeNniFeR FUEntEs,68,Male,B+,Tim Rodriguez,2023-04-14,Asthma,Brown LLC,Blue Cross,2023-05-03,Penicillin,Abnormal
+petER kelLY,21,Female,AB+,Stephanie Lamb,2021-09-08,Cancer,Pacheco-Morris,Cigna,2021-10-03,Penicillin,Normal
+TammY coLE,28,Male,A+,Frank Bell,2020-05-16,Hypertension,"Odonnell, Kelly Mejia and",Blue Cross,2020-05-20,Ibuprofen,Inconclusive
+sanDra FLYnn,64,Male,B+,Sherry Parker,2020-05-24,Obesity,Zimmerman-Schneider,UnitedHealthcare,2020-06-01,Ibuprofen,Abnormal
+KatHryn SMiTH,23,Male,B-,Daniel Johnson,2020-01-05,Obesity,"Hoover Rodriguez, and Vang",UnitedHealthcare,2020-01-31,Lipitor,Abnormal
+JACQUEliNE StANtON,29,Female,B-,Mr. Joseph Smith,2023-05-20,Cancer,Fuller Sons and,Cigna,2023-05-25,Penicillin,Normal
+emMA FredERIck,79,Female,O-,Abigail Flores,2023-10-16,Arthritis,and Sons Bonilla,Cigna,2023-10-27,Penicillin,Inconclusive
+kENNeTh jOnES,53,Male,O+,Maria Hernandez,2022-12-09,Cancer,"and Gordon Lee Yang,",UnitedHealthcare,2022-12-12,Penicillin,Inconclusive
+JEffrEy sMITH,25,Female,AB-,Tonya Potter,2022-10-21,Cancer,LLC Howard,UnitedHealthcare,2022-11-14,Penicillin,Normal
+DAVId OWeN,60,Male,O-,Joshua Meyer,2020-02-27,Obesity,"and Shields Williams, James",UnitedHealthcare,2020-03-16,Lipitor,Abnormal
+KYle REEd,59,Female,AB+,Stacy Bender,2022-08-28,Obesity,Moore-Sanders,Cigna,2022-09-14,Aspirin,Inconclusive
+CHad peRez,26,Female,A+,John Moore,2023-11-15,Diabetes,"Ortiz, and Massey Norton",Cigna,2023-11-27,Lipitor,Abnormal
+COUrtnEy bArnETT,56,Male,AB+,Michael Craig,2023-03-25,Obesity,PLC Anderson,UnitedHealthcare,2023-03-26,Penicillin,Abnormal
+KElLY MiLler,53,Female,A+,Christine Wood,2021-02-28,Obesity,Herring-Smith,Cigna,2021-03-29,Ibuprofen,Abnormal
+lARRy rAmSEY,73,Female,B+,Melissa White,2021-05-14,Diabetes,PLC Hale,Blue Cross,2021-05-17,Lipitor,Abnormal
+edWaRD DUrAn,38,Male,B+,David Obrien,2020-04-19,Obesity,"Parker Jackson, Jackson and",Aetna,2020-05-12,Aspirin,Normal
+LEAH SullIVAn,73,Female,A-,Matthew Clark,2024-01-18,Cancer,"Parsons Petersen, Mckenzie and",Medicare,2024-02-08,Lipitor,Abnormal
+SUsan oWeN,20,Female,B-,Michele Alvarez,2021-05-05,Arthritis,Guerrero-Jordan,Medicare,2021-05-20,Lipitor,Inconclusive
+sTEVEN James,19,Male,A+,Patrick Ross,2020-06-27,Hypertension,"Lee Pugh, and Orozco",Medicare,2020-07-23,Aspirin,Normal
+hOLLY coLON,79,Female,A+,Maureen Jones,2022-01-08,Obesity,"Payne Parker, Murphy and",Medicare,2022-01-31,Penicillin,Abnormal
+PaTRICK Cook,56,Female,A+,Eric Beard,2019-09-01,Arthritis,"and Hernandez Mckinney Li,",Medicare,2019-10-01,Lipitor,Abnormal
+daNIEL heNdriCks,54,Female,O-,Colleen Lawrence,2020-02-17,Arthritis,Hancock Ltd,UnitedHealthcare,2020-02-21,Penicillin,Normal
+RyAn BeRg,37,Female,O-,Stefanie Howard,2021-04-05,Arthritis,"Mitchell Brown and Rice,",UnitedHealthcare,2021-04-09,Paracetamol,Inconclusive
+DEbbiE thoMPsON,23,Male,B+,Mark Wallace,2023-07-14,Diabetes,Garcia-Martinez,Blue Cross,2023-07-18,Lipitor,Abnormal
+JESsE SanCHeZ,35,Male,A+,Nichole Washington,2021-01-06,Cancer,Douglas-Diaz,Blue Cross,2021-01-25,Penicillin,Abnormal
+NORMAN tHoMaS,52,Male,A-,Gabrielle Brown,2023-05-05,Cancer,Ltd Tran,Cigna,2023-05-14,Ibuprofen,Abnormal
+cATherInE zhAnG,58,Male,O+,Sean Ortiz,2020-02-17,Asthma,"Smith and Foster Cooper,",UnitedHealthcare,2020-03-06,Paracetamol,Normal
+john OROzCo Md,28,Male,B+,Jacqueline Monroe,2022-08-27,Arthritis,Hunter Inc,Blue Cross,2022-09-07,Paracetamol,Abnormal
+wAYNE hODGE,47,Female,A-,Nicole Manning,2019-10-09,Diabetes,Sons Flores and,Blue Cross,2019-11-07,Paracetamol,Normal
+ElAINE LYncH,68,Female,B+,Donna Callahan,2022-05-06,Arthritis,Green Group,Medicare,2022-05-14,Paracetamol,Inconclusive
+DERek LAwSoN,25,Female,B+,Ashley Warner,2019-07-08,Cancer,"Lewis, Gibbs and Powell",Aetna,2019-07-14,Paracetamol,Inconclusive
+ANdRE andErSon,71,Female,O+,Noah Schultz,2020-09-12,Arthritis,"Gomez and Espinoza, Wilson",Aetna,2020-09-18,Paracetamol,Normal
+DonNa SMitH,36,Female,B+,Cassandra Martinez,2021-12-02,Diabetes,Sons Martin and,Blue Cross,2021-12-16,Lipitor,Normal
+Dr. LEONarD BrEWEr Ii,34,Male,A+,Robert Gomez,2022-09-08,Diabetes,Sons and Moore,Medicare,2022-09-21,Penicillin,Normal
+pAMELa GARrett,23,Female,A+,Adam Torres,2021-01-30,Cancer,Hernandez-Pearson,Medicare,2021-02-19,Penicillin,Normal
+pHiLlip wIlsON,66,Male,O+,Dawn Mcintosh,2020-04-03,Diabetes,Harrison-Robles,Medicare,2020-04-30,Lipitor,Normal
+VAnEsSa WALKeR,57,Male,B-,Cody Shaw,2022-08-14,Obesity,Ltd Guerra,Aetna,2022-09-13,Ibuprofen,Inconclusive
+jusTIN LEwis,73,Female,AB-,Ryan Mclean,2023-05-09,Asthma,Group Hudson,Medicare,2023-05-30,Lipitor,Inconclusive
+aNtHoNy coLeMAn,21,Female,O+,Mr. Evan Long PhD,2019-12-29,Asthma,Cordova LLC,Aetna,2020-01-07,Penicillin,Normal
+JasmInE luNA,27,Male,A-,Dr. William Santiago,2020-04-10,Obesity,Horton-Boone,Cigna,2020-05-10,Paracetamol,Abnormal
+mICHaeL pattON,58,Female,O-,Kimberly Conner,2022-11-19,Hypertension,Campbell-Ryan,Medicare,2022-12-15,Lipitor,Abnormal
+JoShUA tURNER,31,Female,AB+,Kenneth Glass,2019-08-18,Asthma,"Johnson Aguilar Hamilton, and",Aetna,2019-08-30,Ibuprofen,Normal
+bilLY JOhNSOn,64,Female,B+,Preston Werner,2021-09-30,Cancer,Moreno Inc,Medicare,2021-10-03,Lipitor,Normal
+AntHONy gOnZALez phd,80,Female,AB+,Robin Davis,2019-09-16,Arthritis,Group Brown,Aetna,2019-09-27,Aspirin,Inconclusive
+saRaH LoPEZ,26,Female,AB+,Alexandra Kim,2021-04-18,Arthritis,Inc Singh,Blue Cross,2021-04-30,Ibuprofen,Abnormal
+LAWrencE wIlliAmS,56,Male,AB+,David Moore,2024-02-13,Hypertension,Sanchez-Mccullough,UnitedHealthcare,2024-02-24,Lipitor,Inconclusive
+sUSAN NicHOLs,46,Female,A+,John Barker,2020-10-05,Diabetes,"Smith Rodriguez and Buchanan,",Aetna,2020-10-07,Aspirin,Abnormal
+jEaN RodriGuez,53,Male,B-,Taylor Dillon,2021-08-02,Hypertension,Grant-Wiggins,Medicare,2021-08-26,Aspirin,Abnormal
+JeNNIfER leOn,58,Male,A-,Michael Preston,2022-10-16,Cancer,May-Smith,Aetna,2022-10-26,Lipitor,Abnormal
+meREdIth HILl,40,Male,B-,Mark Brown,2023-12-13,Cancer,"Franco and Trevino Clayton,",Medicare,2023-12-19,Aspirin,Inconclusive
+LaUra lAwrenCe,84,Female,O-,Alyssa Tapia,2023-11-19,Obesity,Herman-Griffin,Blue Cross,2023-11-22,Lipitor,Normal
+juSTin HiCks,39,Female,O-,Justin Carey,2021-01-03,Arthritis,Mcclure Inc,UnitedHealthcare,2021-01-10,Paracetamol,Normal
+KRiSTa THORNton,41,Male,AB+,Kevin Chan,2022-10-01,Obesity,Watson-Hill,Cigna,2022-10-20,Paracetamol,Inconclusive
+Ian DuFFy,74,Male,B+,Gregory Braun,2019-05-24,Cancer,"Martin Rodriguez, Richardson and",UnitedHealthcare,2019-06-17,Aspirin,Normal
+jaDe BaKER,84,Female,O-,Todd Evans,2021-05-31,Obesity,"and Gray Smith, Jennings",UnitedHealthcare,2021-06-03,Lipitor,Normal
+BiLlY pEtersEn,67,Female,B+,Donald Hebert,2019-07-02,Obesity,"and Reynolds Moore Martin,",Medicare,2019-07-13,Penicillin,Inconclusive
+robeRT GArciA,55,Female,B-,Erik Santos,2022-12-01,Cancer,Inc Wyatt,Blue Cross,2022-12-03,Ibuprofen,Inconclusive
+joHn doNAlDsON,84,Female,B+,Diana Lee,2019-06-26,Obesity,"Potts, Salas Fletcher and",Blue Cross,2019-06-30,Lipitor,Abnormal
+rAYMond gaLvaN,28,Male,A+,Cory Mitchell,2023-02-19,Obesity,Carr Group,Cigna,2023-03-13,Paracetamol,Normal
+bRaNdoN GREene,57,Female,A-,Michelle Moses,2020-06-03,Diabetes,Osborne-Hayes,Aetna,2020-06-11,Paracetamol,Abnormal
+CHristINe COOper,55,Male,O+,Jennifer Herman,2021-05-06,Diabetes,Sullivan-Thomas,Cigna,2021-05-14,Lipitor,Normal
+AsHlEY HAWKInS,22,Female,B-,Danielle Jennings,2020-11-22,Hypertension,Group Graves,Blue Cross,2020-11-27,Lipitor,Normal
+deREK sINglETon,46,Female,AB+,Matthew Calhoun,2021-02-14,Hypertension,Inc Gonzales,UnitedHealthcare,2021-03-02,Paracetamol,Normal
+KyLe ANDErsoN,55,Male,AB-,Marcus Green,2022-08-12,Diabetes,Roberts-Brock,Aetna,2022-08-16,Aspirin,Normal
+SARAH GrEEn,51,Female,B+,Kelly Warren,2023-02-06,Asthma,PLC Johnson,Medicare,2023-03-02,Penicillin,Abnormal
+sHeLLY lyNn,80,Female,B+,Jennifer Smith,2021-08-04,Arthritis,"and Gill, King Osborn",Cigna,2021-08-30,Paracetamol,Normal
+JOHn mCcArTY,67,Female,A+,Shelia Burns,2023-01-20,Asthma,"and Johnson, Carter Johnston",Aetna,2023-02-02,Ibuprofen,Abnormal
+cOURTNEy mOoRE,21,Female,O-,Gina Jackson,2021-03-12,Arthritis,"Deleon Oneal, Moore and",Cigna,2021-04-11,Penicillin,Inconclusive
+jaVieR hamILToN,71,Male,O-,Jason Jackson,2022-02-12,Arthritis,Scott-Stewart,Cigna,2022-02-25,Ibuprofen,Abnormal
+sanDra graham,54,Female,A+,Steven Burgess,2022-06-16,Hypertension,Santos-Harris,UnitedHealthcare,2022-07-02,Ibuprofen,Inconclusive
+Carol miLler,85,Female,AB+,Kenneth Simmons,2019-12-27,Hypertension,Brown PLC,Cigna,2020-01-23,Lipitor,Normal
+braNDI hOod,73,Male,A-,Melinda Valencia,2022-01-20,Arthritis,Benson-Cunningham,Medicare,2022-02-02,Lipitor,Abnormal
+adAM thompsoN,21,Male,A+,Anita Ramos,2022-09-12,Cancer,"and Walker, Li Gomez",Cigna,2022-09-19,Ibuprofen,Abnormal
+ambER rEid,41,Male,AB+,Brian Wright,2020-12-17,Hypertension,Moore-Arias,Blue Cross,2020-12-20,Lipitor,Normal
+jEnnifEr EvAns,63,Male,A+,Alvin Guzman,2022-01-10,Obesity,Cunningham Group,Cigna,2022-01-12,Aspirin,Normal
+keIth WilCox,21,Female,B-,Ricky Nguyen,2024-01-15,Asthma,"Pineda Rhodes, and Luna",Blue Cross,2024-02-06,Ibuprofen,Inconclusive
+CyntHIa BRyaNt,70,Male,A+,Nicole Weaver,2021-12-09,Hypertension,"Pearson, Carroll and Lane",Medicare,2022-01-08,Lipitor,Abnormal
+NIChoLas bEll,49,Male,AB-,John Whitney,2019-08-05,Obesity,Gonzalez-Keith,Cigna,2019-08-08,Penicillin,Normal
+HAnNAh CareY,60,Female,AB-,Emma Yang,2021-02-17,Cancer,Perez-Henderson,Cigna,2021-03-14,Lipitor,Inconclusive
+BRaD lEwis,29,Male,O+,Sierra Kerr,2019-05-29,Diabetes,Davis-Smith,Aetna,2019-06-26,Penicillin,Normal
+CHrIsTIna sullIVAn,46,Male,A+,James Austin,2019-08-28,Cancer,Henderson Inc,UnitedHealthcare,2019-09-20,Penicillin,Normal
+sHARon ferREll,55,Male,AB-,Jennifer Snyder,2023-03-15,Arthritis,"Williams, and Diaz Campbell",UnitedHealthcare,2023-03-21,Paracetamol,Normal
+kylE aRmStroNg,62,Male,AB+,Casey Baker,2023-02-05,Obesity,"Finley Salinas, Jones and",Blue Cross,2023-02-23,Paracetamol,Inconclusive
+BRYcE klEIN,71,Female,O+,Joshua Vargas,2024-01-24,Hypertension,"Baker and Barber Baxter,",Blue Cross,2024-02-11,Paracetamol,Abnormal
+GAbRIeL GaRciA,18,Female,A-,Calvin Evans,2021-01-02,Cancer,Ltd Marquez,Cigna,2021-01-10,Lipitor,Inconclusive
+JuSTIn gibbs,23,Male,AB-,Olivia Morales,2019-07-12,Obesity,Stuart Inc,UnitedHealthcare,2019-07-25,Paracetamol,Normal
+keLly JOhNSON,38,Male,O+,Jessica Leblanc,2019-09-27,Hypertension,Ltd Dixon,Medicare,2019-09-30,Ibuprofen,Inconclusive
+ChristophEr bROWN,30,Male,B+,Kimberly Vargas,2019-06-18,Obesity,PLC Harris,Medicare,2019-07-16,Lipitor,Abnormal
+lISa CHamBERS,39,Male,A-,Lucas Woods,2022-04-22,Diabetes,Carpenter-Chen,Blue Cross,2022-05-08,Ibuprofen,Inconclusive
+MICHAel zImmeRMaN,55,Female,AB-,Samantha Contreras,2020-05-31,Arthritis,Ltd Wilkinson,Cigna,2020-06-18,Paracetamol,Abnormal
+deaNNA colLiNS,38,Male,O-,Ashley Steele,2021-12-15,Asthma,Miles-Sanchez,UnitedHealthcare,2022-01-13,Lipitor,Normal
+eRIka HErNAndez,48,Female,B+,Richard Stokes,2021-03-17,Diabetes,Collins Sons and,Medicare,2021-04-13,Paracetamol,Normal
+PAMeLA DuncaN,26,Female,B+,Paula Herrera,2023-10-05,Asthma,Massey Inc,Cigna,2023-10-18,Aspirin,Normal
+saRa jONES,68,Female,O+,Donald Nguyen,2022-11-15,Obesity,"Baker and Thompson, Johnson",Blue Cross,2022-12-14,Lipitor,Inconclusive
+THErEsA COlEMan,60,Female,A+,Jonathon Galvan,2021-12-23,Obesity,Group Robbins,Cigna,2021-12-30,Penicillin,Inconclusive
+stACeY WOOd,72,Female,B+,Joan Mccarty,2020-02-10,Diabetes,White-Stone,Medicare,2020-02-16,Aspirin,Abnormal
+pATrICK FlOreS,23,Female,O+,Jason Stokes,2021-06-11,Cancer,Caldwell Group,Blue Cross,2021-06-17,Lipitor,Normal
+lAURa mORgaN,55,Male,AB+,Ronald Stafford,2022-03-05,Arthritis,Brown-Thompson,Cigna,2022-03-14,Paracetamol,Normal
+nIcOlE CRaNE,59,Male,AB+,Rebecca Davis,2023-11-22,Diabetes,Sons and Morton,Aetna,2023-11-23,Paracetamol,Inconclusive
+RoBert aRELlaNO,83,Male,O-,Kathleen Wheeler,2021-01-08,Obesity,and Johnson Sons,Medicare,2021-02-06,Aspirin,Normal
+JoN SPeNCe,36,Female,A+,Clifford Wilson,2023-07-31,Arthritis,Travis Inc,Cigna,2023-08-15,Lipitor,Inconclusive
+KevIn sMiTH,51,Male,A-,Ryan Patterson,2019-08-10,Arthritis,Brooks LLC,UnitedHealthcare,2019-08-14,Paracetamol,Abnormal
+RHonDa JAcKsoN,59,Male,B+,Kathryn Wong,2020-02-24,Asthma,"Nguyen, Simmons and Johnson",UnitedHealthcare,2020-03-22,Paracetamol,Normal
+DanIEL mORRiS,64,Female,AB+,Amy Perry,2021-06-25,Arthritis,"Buck and Delgado, Rich",Blue Cross,2021-07-16,Lipitor,Abnormal
+CoURtney stepHeNs,38,Male,B-,Joe Hicks,2022-04-10,Obesity,Snyder Ltd,Medicare,2022-04-28,Paracetamol,Abnormal
+bRENT RObiNsON,25,Female,B+,Aaron Johnson,2020-01-26,Obesity,"Patton and Mclaughlin, Barr",UnitedHealthcare,2020-02-19,Paracetamol,Normal
+DEVin HaRmon,52,Male,AB+,Margaret Massey,2021-06-26,Diabetes,Olson LLC,Cigna,2021-06-27,Penicillin,Normal
+kimBErlY sHANNoN,80,Female,A-,Pamela Miller,2022-03-21,Obesity,"Foley, Williams Gonzales and",Blue Cross,2022-03-30,Penicillin,Normal
+paTRicIA bEniTez,34,Female,A+,Christopher King,2022-11-01,Cancer,Melton Ltd,Blue Cross,2022-11-18,Penicillin,Normal
+micHAEl ROgERS,32,Female,B+,Debbie Peters,2022-10-11,Obesity,Baker PLC,Cigna,2022-11-06,Penicillin,Abnormal
+WIlLiam fAULKner,42,Female,B+,William Paul,2019-06-13,Obesity,Oconnor and Sons,Blue Cross,2019-07-12,Penicillin,Inconclusive
+aMy HartmAN,37,Female,O-,Dustin Russell,2020-09-13,Arthritis,"Schmitt and Montgomery, Barber",Blue Cross,2020-10-13,Paracetamol,Inconclusive
+HoLlY anDeRSen,20,Male,O-,Mr. Jimmy Gonzales,2022-05-26,Cancer,"and Miller Montoya, Small",Aetna,2022-06-25,Penicillin,Abnormal
+jEnNiFEr MayO,26,Female,A+,Nicole Johnson,2021-07-07,Cancer,"Travis Graham and Whitehead,",Aetna,2021-07-17,Paracetamol,Inconclusive
+Greg whItE,21,Female,B+,Michael Mcdaniel,2023-12-21,Diabetes,Thomas Ltd,UnitedHealthcare,2024-01-11,Ibuprofen,Abnormal
+KeNNeth WeEks,56,Female,O+,John Dixon,2021-01-30,Arthritis,LLC Allen,Medicare,2021-02-26,Aspirin,Abnormal
+jESse YOrk,20,Male,O+,James Murphy,2022-07-06,Diabetes,King Group,Medicare,2022-07-11,Aspirin,Inconclusive
+LEAh stONe,32,Male,AB-,Jason Hernandez,2022-10-12,Arthritis,Lamb-Hansen,Cigna,2022-11-11,Lipitor,Abnormal
+JEfFReY FergUSON,47,Female,B+,Lisa Thompson,2023-04-26,Arthritis,PLC Haney,Medicare,2023-05-16,Penicillin,Abnormal
+TRAVIS rOMAn,47,Female,B-,Tanya Gutierrez,2020-02-06,Cancer,Moss-Jones,Medicare,2020-02-14,Aspirin,Normal
+aSHLEy SAlaZAr,79,Female,AB-,Christopher Stevens,2019-09-21,Obesity,"Meyer Bishop and Wallace,",Aetna,2019-10-06,Ibuprofen,Inconclusive
+DAVid mIraNDa,48,Female,B+,Anne Alvarez,2020-03-11,Cancer,Black and Sons,Aetna,2020-03-14,Paracetamol,Abnormal
+aNgela sUlLIVaN,44,Male,B+,Sonya Fletcher,2022-04-30,Cancer,Davis-Bell,Medicare,2022-05-12,Ibuprofen,Inconclusive
+asHlEY bell,42,Male,AB-,Donald Maynard,2020-04-09,Arthritis,"Hill, Murphy and Stewart",Blue Cross,2020-04-11,Penicillin,Inconclusive
+mrs. sabrInA mOrEnO,78,Female,A+,Jessica Byrd,2020-10-05,Diabetes,"Bryant and Thomas, Smith",Aetna,2020-10-14,Paracetamol,Normal
+CraiG cLaRkE,39,Female,O+,George Thompson,2019-12-28,Asthma,Sons and Dawson,Aetna,2020-01-05,Aspirin,Normal
+keLLy HIlL,67,Female,AB-,Lisa Small,2023-09-05,Asthma,"Paul Watts and Perkins,",Blue Cross,2023-09-14,Paracetamol,Inconclusive
+aaROn WEAvEr,40,Female,AB-,Tonya Dodson,2022-08-12,Obesity,Williams-Gordon,Blue Cross,2022-09-01,Paracetamol,Normal
+gEoRge mason,30,Female,AB-,William Scott,2024-02-17,Diabetes,"and Chapman Payne, Werner",Medicare,2024-02-18,Penicillin,Abnormal
+JOnaTHan HODges,69,Female,B+,Robert Evans,2019-05-21,Asthma,"Thomas, Green and Barron",Cigna,2019-06-18,Ibuprofen,Inconclusive
+FelicIa YAng,29,Female,A-,Francis Stout,2019-11-30,Arthritis,Lambert-Brandt,UnitedHealthcare,2019-12-22,Penicillin,Normal
+SaraH MilLer,82,Male,B-,Jasmine Jimenez,2023-01-29,Diabetes,Group Sparks,Medicare,2023-02-04,Penicillin,Inconclusive
+vInCent RAY,56,Male,A-,Robert Martinez,2019-06-21,Cancer,Inc Swanson,Blue Cross,2019-07-11,Ibuprofen,Abnormal
+JAMie CollINs,84,Male,B-,Nathaniel Williams,2023-06-17,Asthma,"Mclaughlin, and Tucker Francis",Aetna,2023-07-17,Penicillin,Normal
+aMANdA CUmMINGS,43,Female,B-,Michelle Shepard,2022-07-24,Obesity,Inc Copeland,UnitedHealthcare,2022-07-28,Aspirin,Normal
+RAChEl SWanSON,79,Female,AB-,Andrea Mitchell,2022-01-28,Arthritis,Ltd Smith,Medicare,2022-02-18,Lipitor,Inconclusive
+nICoLE kNiGhT,22,Female,B+,Marie Glass,2022-07-31,Arthritis,Brown LLC,UnitedHealthcare,2022-08-28,Lipitor,Inconclusive
+mIChAel mAnN,73,Male,B+,Ryan Fisher,2023-05-05,Cancer,"Hodges Brown, Munoz and",Blue Cross,2023-05-28,Aspirin,Inconclusive
+wiLliAm ROGERS,84,Male,A-,Heather Petty,2020-08-31,Asthma,Robinson-Ritter,Cigna,2020-09-28,Lipitor,Inconclusive
+MelAnIE mITCHEll,49,Male,A-,Nicole Stevenson,2022-05-13,Obesity,"Green, Howell and Jordan",Aetna,2022-06-05,Paracetamol,Normal
+Steven ROBiNson,54,Male,AB+,Monica Costa,2019-12-04,Cancer,PLC Garcia,Aetna,2019-12-30,Paracetamol,Inconclusive
+BrIaN gEOrGe,59,Male,B-,Joseph Copeland,2023-04-06,Cancer,"Fox, and Lucas Cain",Medicare,2023-04-21,Aspirin,Abnormal
+ToNy haRrisoN,55,Male,B+,Daniel Mayer,2022-10-08,Hypertension,and Lee Sons,Medicare,2022-11-06,Penicillin,Inconclusive
+elaINe gUZMAn,27,Male,A-,Christian Allen,2023-07-22,Asthma,Petty-Lloyd,Medicare,2023-08-11,Paracetamol,Normal
+MiCHeLLE lAne,38,Male,O+,Amy Gonzales,2021-10-19,Cancer,Kelly PLC,Aetna,2021-11-01,Penicillin,Normal
+JaSon sMitH,55,Female,B+,Tracy Sandoval,2021-12-05,Arthritis,Conley-Wood,UnitedHealthcare,2021-12-11,Ibuprofen,Normal
+jaNIce MooRE,46,Male,A-,Daniel James,2023-09-24,Diabetes,Choi PLC,Medicare,2023-10-06,Ibuprofen,Normal
+jeNnIfeR HayES,40,Female,A+,Kerry Johnson,2021-12-03,Hypertension,Yu-Bryant,Aetna,2021-12-14,Lipitor,Inconclusive
+PhILlIp eSpinoZA,21,Male,A+,Brian Strong,2020-02-06,Arthritis,LLC Chavez,UnitedHealthcare,2020-02-16,Aspirin,Inconclusive
+charLENe BrowN MD,81,Male,O-,Christopher Barnes,2023-07-30,Hypertension,"Mills and Young, Perry",Cigna,2023-08-11,Paracetamol,Inconclusive
+THoMAs EricKSon,40,Female,O-,Adam Gray,2020-03-25,Hypertension,Sims-Castro,Cigna,2020-04-07,Aspirin,Inconclusive
+jEROmE DAY,60,Male,O-,Michael Thomas,2021-02-25,Arthritis,Gonzalez LLC,Medicare,2021-03-15,Paracetamol,Normal
+ALEjandro khaN,58,Female,B+,Reginald Williams,2020-10-25,Hypertension,"Hall and Montgomery King,",Blue Cross,2020-11-14,Paracetamol,Abnormal
+lauriE cOLe,54,Male,A+,Ryan Tran,2021-08-07,Asthma,Ingram-Collins,Aetna,2021-08-26,Lipitor,Abnormal
+bILL waLKER,60,Male,A+,Lauren Hines,2023-01-21,Diabetes,Watkins Group,Aetna,2023-02-07,Penicillin,Normal
+aLEXaNdEr cErvANtEs,52,Female,O+,Jerry Farley,2023-07-30,Diabetes,Group Smith,Blue Cross,2023-08-23,Penicillin,Normal
+maNuEl knight,49,Male,A+,Cameron Smith,2023-09-25,Obesity,Carpenter PLC,Blue Cross,2023-10-04,Ibuprofen,Abnormal
+aarOn siMMonS,38,Male,B+,Kelly Spencer,2020-03-29,Diabetes,Sons and Davis,Aetna,2020-04-19,Aspirin,Abnormal
+SAndY geOrgE,55,Female,B+,Michael Russell,2023-08-10,Diabetes,"Ellis, and Smith Black",UnitedHealthcare,2023-08-30,Aspirin,Normal
+auStIN AnDerSoN,59,Female,B-,Stephen Davis,2023-06-04,Cancer,Aguilar-Moreno,Medicare,2023-06-20,Lipitor,Abnormal
+SHarON fReeMAN,72,Female,O-,Joseph Lee,2021-03-26,Obesity,Inc Howard,Blue Cross,2021-04-25,Lipitor,Inconclusive
+GarY WiLsOn,55,Female,B+,Krista Hess,2020-11-15,Arthritis,Goodwin-Lawrence,Medicare,2020-12-06,Penicillin,Inconclusive
+REbecca JOnES,85,Male,B-,Eddie Williams,2019-05-12,Arthritis,PLC Hoffman,Blue Cross,2019-05-16,Lipitor,Inconclusive
+Craig WYaTt,18,Female,AB-,Ellen Brown,2019-05-20,Arthritis,Acosta Group,Cigna,2019-06-15,Aspirin,Abnormal
+AmAnda diXoN,58,Female,A-,Stefanie Martinez,2024-01-03,Cancer,"Murray, Gilbert and Crawford",Medicare,2024-01-26,Aspirin,Abnormal
+CLaYTOn hoffmAn,76,Male,B+,Lauren Stevens,2020-05-17,Arthritis,Group Blake,Aetna,2020-05-23,Penicillin,Normal
+LiNDsEY chErRY,82,Female,O+,Jacob Soto,2022-10-03,Hypertension,"Price, Neal and Mcpherson",Cigna,2022-10-31,Penicillin,Inconclusive
+joRDAN ValDEz,66,Female,O-,Lisa Carrillo,2020-09-24,Asthma,Group Davis,Cigna,2020-09-26,Paracetamol,Normal
+MIsTy CLaRK,84,Female,B-,Heather Santiago,2019-10-12,Diabetes,"Sellers and Nelson, Anderson",Blue Cross,2019-10-31,Penicillin,Normal
+ReBecca fULLEr,62,Male,A+,Janet Holt,2022-03-11,Obesity,Gordon-Foster,Blue Cross,2022-03-28,Penicillin,Normal
+joHN loPeZ,38,Male,AB-,Danielle Turner,2021-11-03,Obesity,Boyd Ltd,Cigna,2021-12-03,Penicillin,Normal
+ChRiSTINa WiLlIAMS,70,Male,A+,Amanda Grant,2023-01-21,Obesity,Cole Inc,UnitedHealthcare,2023-02-14,Aspirin,Abnormal
+LaUREn fRieDMAN,63,Male,B-,Jeffrey Wilkinson,2020-02-14,Obesity,Matthews Group,UnitedHealthcare,2020-03-02,Aspirin,Inconclusive
+anDreA MorGAN,27,Female,AB-,Dr. Michael Peters,2023-08-17,Asthma,PLC Clarke,Medicare,2023-08-19,Penicillin,Normal
+aNGeLA GIlBErT,29,Female,O+,Christopher Griffin,2020-08-30,Hypertension,Graham-Smith,Medicare,2020-09-01,Lipitor,Abnormal
+FAitH fOstER,65,Female,A+,Daniel Lucero,2020-05-06,Obesity,Reynolds and Sons,Aetna,2020-05-15,Lipitor,Inconclusive
+TaNNer BUrGesS,26,Female,B+,Eileen Sanchez,2024-03-25,Hypertension,Adams-Kim,UnitedHealthcare,2024-03-30,Penicillin,Abnormal
+EliZabeTh TAyLoR,53,Male,B-,Mitchell Kerr,2020-11-08,Cancer,Sons and Good,Blue Cross,2020-11-16,Paracetamol,Normal
+eLIZAbEth huNt,46,Female,A-,Amanda Simmons,2019-09-09,Cancer,"Howell, Young Potts and",Medicare,2019-09-23,Paracetamol,Normal
+EriN ryAn,25,Male,B+,Thomas Jenkins,2019-05-29,Asthma,"Martinez, Reed Watts and",Medicare,2019-06-27,Ibuprofen,Abnormal
+MR. CODy NAvArrO,18,Male,A+,David Chan,2021-02-22,Cancer,LLC Massey,Medicare,2021-03-16,Ibuprofen,Inconclusive
+LAUrIe garcIa,67,Female,B-,Bruce Moss,2021-05-01,Obesity,Lewis-Fletcher,UnitedHealthcare,2021-05-26,Ibuprofen,Inconclusive
+DeviN sheLtoN,25,Female,B-,Jamie Williamson,2022-05-04,Cancer,"and Harmon Brown, Cabrera",Medicare,2022-05-17,Ibuprofen,Normal
+oSCar nElSOn,24,Male,AB+,Crystal Schwartz,2023-06-27,Obesity,Wagner LLC,Cigna,2023-07-09,Ibuprofen,Abnormal
+TAYLoR BrOwn,47,Male,AB+,Sarah Stafford,2023-05-05,Hypertension,Inc Johnson,Cigna,2023-05-18,Penicillin,Inconclusive
+AARon OnEal,69,Male,A-,Anthony Atkins,2019-09-22,Asthma,Inc Taylor,Medicare,2019-09-26,Lipitor,Abnormal
+JOHN milLer,18,Female,B-,Brenda Clements,2023-10-22,Cancer,Steele-Robinson,Cigna,2023-11-16,Paracetamol,Abnormal
+britTAnY waTsoN,53,Male,A+,Tammy Walker,2021-09-02,Hypertension,"Berry and Fischer, Wells",UnitedHealthcare,2021-09-09,Paracetamol,Abnormal
+JoHN moORe,45,Male,O-,Brian Hicks III,2021-06-30,Obesity,Benson-Cook,Medicare,2021-07-29,Penicillin,Inconclusive
+JosepH lIVIngsTOn,50,Female,AB-,Monica Richardson,2024-01-28,Cancer,Montes-Evans,Blue Cross,2024-02-01,Ibuprofen,Inconclusive
+ANdreW Brooks,51,Female,AB+,Melissa Tyler,2022-05-19,Diabetes,Ortega Ltd,Medicare,2022-05-28,Lipitor,Normal
+HArold webb,34,Male,B-,Jessica Hoffman PhD,2022-09-21,Arthritis,"and Rose Stewart, Davis",Blue Cross,2022-10-08,Paracetamol,Abnormal
+dOugLAS kIng,80,Male,B-,Elizabeth Smith,2020-12-06,Arthritis,Melendez LLC,Cigna,2020-12-11,Paracetamol,Abnormal
+jESSiCa fRANklIN,19,Female,A-,Heidi Miller,2023-04-07,Obesity,Vazquez-Brown,Medicare,2023-05-05,Ibuprofen,Normal
+JOhn HowARD,49,Male,AB-,Crystal Cortez,2022-10-30,Diabetes,Warren-Bowman,Medicare,2022-11-15,Penicillin,Normal
+RobyN thOMpson,46,Male,B+,Anthony Sanchez,2019-11-12,Hypertension,"Brown Reed Robinson, and",Cigna,2019-12-05,Paracetamol,Abnormal
+IsAAc moralES,63,Male,AB-,Anna Crane,2020-08-23,Arthritis,Ltd Peterson,UnitedHealthcare,2020-09-15,Paracetamol,Abnormal
+jasOn SmiTH,75,Male,AB+,Mark Adams,2021-01-11,Hypertension,Moore-Taylor,UnitedHealthcare,2021-01-22,Lipitor,Inconclusive
+dOnnA joHnSON,59,Female,A-,Daniel Molina,2019-10-17,Cancer,Stewart-Dominguez,Cigna,2019-11-08,Lipitor,Abnormal
+denise GuERRero,18,Male,A-,Andrea Roach,2019-05-09,Obesity,Lamb-Herrera,Cigna,2019-06-02,Ibuprofen,Normal
+dAVid chandLer,68,Male,AB+,Damon Hayes,2020-06-20,Hypertension,and Sons Morrison,Cigna,2020-07-01,Penicillin,Inconclusive
+MiCHeLlE benDeR,72,Male,O-,Vincent Bell,2020-07-21,Cancer,Ellis-Roberson,Medicare,2020-08-18,Ibuprofen,Normal
+jessE mOLina,79,Female,AB-,Nicholas Obrien,2019-05-22,Asthma,"and Glover Christensen, Jackson",Cigna,2019-06-07,Penicillin,Normal
+Rita NelSon,74,Male,B+,Elijah Potts,2019-09-15,Hypertension,"Alvarez Austin Snyder, and",Cigna,2019-10-11,Lipitor,Normal
+JAnET Boyd,56,Male,B+,Christina Webb,2019-12-23,Diabetes,Erickson-Rodriguez,Medicare,2020-01-07,Aspirin,Abnormal
+cAthErIne wElCh,80,Female,A-,Donna Dunn,2020-07-25,Cancer,"and Daniel Bryan Brown,",Blue Cross,2020-08-11,Paracetamol,Inconclusive
+jaSOn daVis,83,Male,AB-,Sarah Davis,2019-11-15,Diabetes,Sons and Sanchez,Medicare,2019-12-07,Aspirin,Abnormal
+ChRistOPheR reYnolDS,69,Male,B-,Patty Day,2020-09-15,Diabetes,Costa LLC,Cigna,2020-09-18,Lipitor,Abnormal
+LEaH martINez,84,Female,O-,Matthew Smith,2023-08-08,Hypertension,Coleman-Aguilar,Cigna,2023-09-01,Aspirin,Normal
+mIchAeL DUArtE,60,Male,AB-,Christopher Prince,2021-05-23,Asthma,PLC Morrison,UnitedHealthcare,2021-06-20,Penicillin,Inconclusive
+lauRa bAKEr,49,Female,AB-,Glenda Jones,2020-07-22,Asthma,Jones-Graham,UnitedHealthcare,2020-08-12,Ibuprofen,Normal
+cHArLeS tHOmPson,63,Male,A+,Raymond Watson,2022-06-01,Cancer,Ltd Brown,Medicare,2022-06-21,Lipitor,Inconclusive
+juliA wade,21,Male,A-,Dawn Herman,2024-01-01,Diabetes,"Bell and Davis Ross,",Aetna,2024-01-14,Lipitor,Normal
+GLORIA VANCe,28,Female,O+,Mr. Matthew Luna,2024-04-25,Asthma,"Allen Garcia and Wolf,",Medicare,2024-05-25,Aspirin,Abnormal
+JoHn ATKINs,77,Male,O+,Derek Cruz,2019-08-30,Asthma,"Lin Chan, and Moreno",Blue Cross,2019-09-06,Aspirin,Abnormal
+aNGElA miLlER,34,Male,A-,Daniel Padilla,2023-03-03,Cancer,"Dennis, and Hood Guerra",Medicare,2023-03-22,Paracetamol,Normal
+MAriA sUtTon,83,Female,A-,Sydney Garcia,2020-01-16,Obesity,Inc Mercer,Medicare,2020-02-03,Aspirin,Inconclusive
+laureN tayloR,33,Female,B-,Alexander Mcintosh,2024-03-15,Arthritis,Garrett PLC,UnitedHealthcare,2024-03-20,Penicillin,Abnormal
+erIC PINeDa,39,Male,O+,Alexandria Harris,2022-10-12,Diabetes,Rollins-Garrett,Blue Cross,2022-11-06,Aspirin,Normal
+DOuGlAS tUrNeR,31,Female,B+,Jacob Cabrera,2020-03-01,Hypertension,"Medina, and Allen Wilkins",Cigna,2020-03-06,Lipitor,Abnormal
+dOrOTHY quiNn,75,Female,O+,Christopher Patel,2022-05-25,Hypertension,LLC Smith,Cigna,2022-06-02,Ibuprofen,Abnormal
+CHrIstInA DyEr,44,Male,O-,Matthew Brown,2021-05-04,Hypertension,Martin Group,Medicare,2021-05-11,Aspirin,Abnormal
+AlExaNdRIa cOLemaN,43,Female,O+,Alex Davis,2023-06-20,Hypertension,"Hayes and Miller, Sawyer",Blue Cross,2023-06-24,Penicillin,Normal
+vICToRIa evanS,84,Female,B+,Megan Cohen,2020-01-09,Obesity,"and Phelps Burke Fields,",UnitedHealthcare,2020-02-06,Paracetamol,Inconclusive
+wILliE maY,21,Female,AB-,Victoria Horton,2024-01-29,Arthritis,Inc Smith,UnitedHealthcare,2024-02-20,Penicillin,Abnormal
+JOsEPH eLLiS,49,Male,A+,Joshua Graham,2021-10-14,Cancer,"and Smith Conway, Byrd",Cigna,2021-11-01,Ibuprofen,Inconclusive
+isaAc pEtErson,50,Female,O+,Joseph Johnson,2020-01-11,Cancer,LLC Roberts,UnitedHealthcare,2020-02-10,Aspirin,Inconclusive
+wilLiAm baSs,31,Male,B+,David Lee,2021-08-24,Diabetes,Sons Gonzalez and,UnitedHealthcare,2021-08-25,Aspirin,Abnormal
+MicHaeL EvANS,40,Male,B+,Michael Thomas,2020-12-07,Diabetes,"Johnson Kirby and Richard,",UnitedHealthcare,2020-12-10,Paracetamol,Inconclusive
+aNdREW hILL,68,Female,O+,Wesley Mclaughlin,2021-12-13,Diabetes,LLC Ware,Medicare,2022-01-01,Aspirin,Abnormal
+herbErT jiMEneZ,41,Female,AB-,Jenna Thomas,2024-01-03,Cancer,"Thomas and Nguyen, King",Aetna,2024-01-16,Lipitor,Inconclusive
+saNdrA MuRphy,84,Male,A-,Angela Clayton,2019-11-29,Asthma,Bruce-Thomas,Aetna,2019-12-24,Aspirin,Normal
+MIcHAEl ElLiotT,70,Male,A-,Jose Wiggins,2019-09-08,Asthma,"Baldwin, and Roberts Ray",Cigna,2019-09-23,Ibuprofen,Normal
+MArY SaVaGe,30,Female,O+,Lisa Hart,2021-01-12,Arthritis,Horton-Hines,Aetna,2021-02-04,Ibuprofen,Abnormal
+CheRYl FOSTeR,57,Male,O+,Jay Wagner,2020-10-09,Obesity,"and Lewis, Hardy Cooper",Cigna,2020-11-07,Penicillin,Normal
+mR. DaviD bOweN,63,Male,B-,Justin Joyce,2023-09-24,Cancer,Moore Group,Medicare,2023-10-10,Aspirin,Normal
+cHRIStoPhEr WIlsON,55,Male,A+,Nicole Craig,2022-10-04,Hypertension,Nelson-Hawkins,Medicare,2022-10-11,Ibuprofen,Normal
+MatTHEW sHANnOn,30,Female,A+,Taylor Gregory,2019-06-24,Asthma,LLC Martinez,Aetna,2019-06-25,Paracetamol,Normal
+jill cUNninGhaM,45,Male,O-,Mark Potts,2022-03-22,Arthritis,Ross LLC,Cigna,2022-04-01,Penicillin,Normal
+CHRIStIna bROwN,75,Female,B+,Raven Turner,2023-04-30,Cancer,Graves LLC,Aetna,2023-05-30,Ibuprofen,Normal
+connIE pAGe,42,Female,A+,Jeremy Johnson,2024-02-06,Cancer,"Cowan Cardenas Allen, and",UnitedHealthcare,2024-02-27,Ibuprofen,Abnormal
+DaViD LopeZ,82,Male,A+,Lisa Adams,2024-04-09,Arthritis,PLC Mann,Aetna,2024-05-01,Aspirin,Normal
+JAMES wILLIaMs,18,Female,A-,Paul Hale,2021-12-01,Arthritis,Inc Lopez,Medicare,2021-12-18,Penicillin,Abnormal
+andreW yANg,58,Female,AB-,Laura Morrow,2020-10-03,Arthritis,LLC Gonzalez,Medicare,2020-10-30,Ibuprofen,Normal
+maUREen duNn,69,Female,B-,Angela Brown,2023-01-06,Asthma,Lee-White,Aetna,2023-01-07,Aspirin,Inconclusive
+andREw aRnoLd,69,Female,A-,Amber Martinez,2022-02-25,Arthritis,Rodriguez-Beck,Blue Cross,2022-02-26,Paracetamol,Normal
+MRs. CouRtneY MOore md,47,Male,AB+,George Gilbert,2019-09-19,Diabetes,King-Garza,Cigna,2019-10-01,Penicillin,Normal
+RaymoND bRuCe,35,Male,AB+,Amy Murillo,2020-05-13,Diabetes,"and Nelson Blake, Gutierrez",Cigna,2020-05-25,Lipitor,Abnormal
+samaNtHa bateS,44,Male,O-,Richard Martin,2019-06-14,Hypertension,Willis-Dixon,Cigna,2019-07-07,Aspirin,Abnormal
+MaTTheW burNEtT,76,Male,AB-,Nicole Cunningham,2021-04-29,Diabetes,"Arnold, Steele Scott and",UnitedHealthcare,2021-05-16,Lipitor,Inconclusive
+liNda BUtler,23,Female,O+,Michael Owens,2023-11-07,Diabetes,Sharp-Greer,Medicare,2023-12-05,Lipitor,Abnormal
+aNgEla WIley,82,Female,A-,Sharon Jones,2020-05-13,Diabetes,"Jones, Valentine Pacheco and",Aetna,2020-06-07,Aspirin,Abnormal
+AusTIn AndERson,37,Male,AB-,Christopher Burke,2020-07-14,Obesity,Burns LLC,Medicare,2020-07-23,Lipitor,Abnormal
+deBorAh gArNer,79,Female,A+,Brianna Powers,2021-10-12,Diabetes,"Floyd and Williams Stephenson,",UnitedHealthcare,2021-10-13,Penicillin,Inconclusive
+eRic sMIth,61,Female,AB-,Mr. Brendan Young,2020-10-23,Obesity,"Smith, Singh and Gonzales",Aetna,2020-11-15,Ibuprofen,Inconclusive
+CarrIE wHitEHEAD,48,Male,O-,Pedro Stewart,2024-03-03,Hypertension,Smith-Smith,Cigna,2024-03-27,Ibuprofen,Abnormal
+dOmINIqUE MaLDOnADO,70,Female,A-,Shelley Miller,2020-03-11,Arthritis,"Jenkins, Jenkins and Patterson",Aetna,2020-04-07,Paracetamol,Abnormal
+jorGe singh,37,Female,O+,Christopher Harris,2023-08-29,Diabetes,"Duran Mendoza and Scott,",Medicare,2023-09-08,Penicillin,Normal
+jIlL LANe,40,Male,AB-,Kenneth Brown,2020-06-17,Obesity,Frye Group,Aetna,2020-07-05,Paracetamol,Normal
+jAMES NGuyEn,39,Female,AB+,Travis Johnson,2023-02-26,Diabetes,Harding-Adams,Medicare,2023-03-28,Lipitor,Inconclusive
+dEbbIe sHaw,76,Male,A+,Michael Mcdowell,2021-02-08,Arthritis,Lopez Group,Cigna,2021-02-12,Aspirin,Abnormal
+emIlY vAldEZ,74,Male,B+,Kathy Murray,2022-01-08,Cancer,Powell Inc,Blue Cross,2022-01-26,Aspirin,Normal
+AlEJandRo PiErce,65,Male,B-,Alexander Williams,2023-02-10,Cancer,Duran-Scott,Blue Cross,2023-03-10,Lipitor,Abnormal
+oMaR LoPEZ,44,Female,AB-,Rachel Duran,2020-09-03,Diabetes,LLC Fletcher,Medicare,2020-09-24,Penicillin,Abnormal
+MArilyN fiGUEroa,80,Female,B-,Alexandra Howard,2019-05-14,Hypertension,Smith-Hicks,Cigna,2019-05-15,Penicillin,Normal
+sArA Green,48,Male,A+,Denise Rivera,2023-06-02,Asthma,LLC Dickerson,Medicare,2023-06-27,Lipitor,Abnormal
+JeSsicA MilLEr,76,Male,AB-,Matthew Lopez,2023-02-01,Hypertension,Guerrero Group,Aetna,2023-02-28,Ibuprofen,Abnormal
+JoNaTHan gArcIa,65,Female,AB-,Jason Williams,2022-10-06,Hypertension,"and Gardner Torres, Rosario",UnitedHealthcare,2022-10-23,Penicillin,Abnormal
+jOHn ThOmPsoN,52,Male,B+,Thomas Schwartz,2024-04-30,Diabetes,Wilson Sons and,Blue Cross,2024-05-19,Paracetamol,Abnormal
+clifFoRd belL,19,Male,A-,Thomas Newton,2020-05-15,Arthritis,PLC Rivera,Medicare,2020-05-21,Paracetamol,Abnormal
+ChARlEs finlEY,26,Male,A-,Pamela Harris,2024-04-17,Diabetes,PLC Holmes,UnitedHealthcare,2024-04-22,Ibuprofen,Normal
+MrS. MOnICA Craig,31,Female,O-,Sherri Hill,2019-09-17,Obesity,"Taylor Mcintosh and Ross,",Medicare,2019-10-17,Aspirin,Abnormal
+HEiDI EVaNs,84,Male,A+,Joseph Cole,2019-06-16,Hypertension,Anderson-Miller,Blue Cross,2019-06-30,Lipitor,Inconclusive
+MR. tImOtHY hOwARd,54,Male,A+,Michelle Wheeler,2021-05-04,Asthma,Martin-Terry,Aetna,2021-05-15,Penicillin,Inconclusive
+MarIO CoX,84,Female,B-,Amy Kennedy,2022-01-06,Cancer,Inc Meyer,Aetna,2022-01-09,Aspirin,Normal
+lUIs BarNES,82,Male,O-,Dustin Mcdaniel,2020-08-12,Diabetes,PLC Phillips,Aetna,2020-09-07,Penicillin,Inconclusive
+SydNeY tuCker,22,Female,AB+,Angela Melton,2022-09-21,Hypertension,"Schneider and Hopkins Oconnor,",UnitedHealthcare,2022-09-29,Ibuprofen,Abnormal
+andre HArVEy,76,Male,AB-,Kathleen Davis,2022-10-04,Arthritis,Bauer Inc,UnitedHealthcare,2022-10-07,Lipitor,Normal
+KIMBErly vasqueZ,26,Male,A-,Jennifer Bennett,2023-10-23,Obesity,Cowan Inc,UnitedHealthcare,2023-11-18,Penicillin,Abnormal
+beNjAmIn KErR,77,Male,B+,John Bush,2022-07-04,Asthma,Burns-Callahan,Medicare,2022-07-30,Lipitor,Normal
+ALeXIS sImMoNs,77,Female,A-,Sheila Schwartz,2022-03-31,Obesity,Moore-Smith,Cigna,2022-04-21,Aspirin,Inconclusive
+DAvid HEnsleY,43,Male,AB+,Mrs. Stephanie Miller,2020-03-03,Hypertension,"Taylor Johnson, Beasley and",Medicare,2020-03-15,Ibuprofen,Abnormal
+CHrIstinE DYEr,18,Female,O+,Mike Carter,2021-01-08,Hypertension,"Young Wright Davis, and",Aetna,2021-01-28,Paracetamol,Inconclusive
+sHari wIllIaMs,71,Male,B+,Eric Haynes,2021-08-17,Diabetes,"Wood and Murphy Jones,",Aetna,2021-09-07,Ibuprofen,Normal
+tammy jaCKSon,77,Male,A-,Victoria Cox,2024-02-14,Hypertension,"Gonzalez and Stevens Ruiz,",Medicare,2024-02-18,Paracetamol,Abnormal
+KiMBErLy cRawFOrd,34,Male,AB-,Kimberly Bernard,2021-07-08,Hypertension,Willis-Mcgee,Cigna,2021-07-21,Paracetamol,Normal
+dONnA smitH,63,Male,B+,Bob Vega,2019-08-29,Diabetes,Williams-Meza,Medicare,2019-09-21,Ibuprofen,Abnormal
+TAylOr pEteRSEn,77,Male,A+,Ryan Porter,2023-07-20,Obesity,"King Weiss, and West",Aetna,2023-08-14,Lipitor,Abnormal
+CHriS sTEVeNsON,70,Male,A-,Deborah Mccarthy,2019-10-10,Diabetes,Benson PLC,Blue Cross,2019-10-27,Aspirin,Normal
+LesLIe CoLlins,26,Male,O-,Gail Armstrong,2019-11-12,Hypertension,"Morgan and Wilcox Barnett,",Blue Cross,2019-11-16,Penicillin,Normal
+DEBORaH moORE,36,Male,O+,Angela Massey,2020-03-09,Asthma,Rubio LLC,UnitedHealthcare,2020-04-03,Paracetamol,Abnormal
+JAMeS hOrtOn,68,Female,A+,Ana Thomas,2021-08-23,Hypertension,"Lee Chambers, and Foley",Medicare,2021-09-18,Penicillin,Abnormal
+kArLa CrAWFoRd,51,Male,O+,Ian Davenport,2023-10-10,Asthma,Hurley Ltd,UnitedHealthcare,2023-10-15,Paracetamol,Inconclusive
+PetEr spENcer,46,Female,O-,Michelle Clark,2021-03-10,Arthritis,PLC Trujillo,Aetna,2021-03-12,Lipitor,Abnormal
+lIsA McCLure,58,Male,A-,James Chen,2022-09-07,Arthritis,Henson-Harmon,UnitedHealthcare,2022-09-29,Paracetamol,Normal
+mARilYN TRAn,38,Female,AB-,Vanessa Mclaughlin,2023-07-04,Hypertension,Jacobs-Howell,Cigna,2023-07-17,Ibuprofen,Abnormal
+niCOLe hARRison,55,Female,O+,Allen Mcintosh,2022-06-21,Arthritis,Williams PLC,Cigna,2022-06-28,Aspirin,Normal
+cHad MAldOnadO,77,Male,O-,Briana Pittman,2019-07-05,Cancer,Martin PLC,Aetna,2019-07-15,Paracetamol,Inconclusive
+ARiaNa brOWN,72,Female,B+,Ronald Crawford,2020-02-10,Hypertension,"Mata Norman, Holmes and",Aetna,2020-02-14,Lipitor,Inconclusive
+Robert DUnN,26,Female,B+,David Taylor,2022-09-12,Arthritis,Brown LLC,Aetna,2022-09-19,Paracetamol,Inconclusive
+tEReSA HARriSOn,29,Female,O-,Brandon Crawford,2021-06-14,Asthma,Ward-Crosby,Medicare,2021-07-01,Penicillin,Normal
+ThOMAS arNold,85,Female,A-,Jordan Martinez,2021-02-09,Cancer,Wong-Booth,Blue Cross,2021-03-09,Penicillin,Inconclusive
+crYstAl simPSon,37,Female,A+,Sara Simmons,2023-11-16,Cancer,"and Valencia Flores, Byrd",Blue Cross,2023-12-03,Paracetamol,Inconclusive
+gEORGe PHILlIPS,69,Female,A-,Timothy Guerra,2021-03-21,Asthma,Collins-Gutierrez,UnitedHealthcare,2021-03-25,Aspirin,Abnormal
+jEFfREY gUtierREz,27,Male,B-,Sara Thomas,2021-06-23,Diabetes,"Cameron Black Davis, and",Medicare,2021-07-23,Aspirin,Normal
+PAUL maCK,77,Male,B+,Brian Holmes,2023-05-14,Obesity,Group Rivera,Medicare,2023-05-27,Penicillin,Abnormal
+kIMBeRLy rAmirez,55,Female,B-,Robert Wyatt,2024-02-01,Obesity,PLC Davis,UnitedHealthcare,2024-02-21,Paracetamol,Abnormal
+sArah viLLaRReaL,75,Male,O+,Jacob Deleon,2023-06-20,Arthritis,Ltd Taylor,Medicare,2023-07-08,Lipitor,Abnormal
+CHLoe hUNT,74,Female,O-,Craig Hunt,2019-12-05,Asthma,"Anderson, Smith Smith and",Aetna,2019-12-06,Lipitor,Abnormal
+Heidi POpe,38,Male,B+,Wanda Sanchez,2021-11-22,Asthma,"and Walker Smith Cannon,",Aetna,2021-12-02,Ibuprofen,Abnormal
+megAn GRaY,61,Male,AB-,Scott Kennedy,2023-07-29,Asthma,Williams LLC,Medicare,2023-08-14,Ibuprofen,Normal
+SANdra SotO,38,Female,AB+,Cynthia Sexton,2019-05-24,Obesity,Ayers-Alvarez,Cigna,2019-06-16,Paracetamol,Inconclusive
+brenda LE,28,Male,A+,Julian Hernandez,2020-10-27,Cancer,"Walsh Alexander, and Dennis",Aetna,2020-11-11,Penicillin,Normal
+Lori riVaS,65,Male,A-,Robin Schwartz,2020-09-18,Obesity,Nelson PLC,UnitedHealthcare,2020-10-09,Ibuprofen,Normal
+rOGEr HaMiLtOn,44,Female,O-,Luis Franklin,2020-05-16,Arthritis,Group Kim,Cigna,2020-05-26,Lipitor,Normal
+MelissA WaLleR,58,Male,B-,Alejandro Pearson,2020-05-15,Obesity,Hess Sons and,Aetna,2020-06-11,Aspirin,Abnormal
+daRRYl wiLliaMs,38,Female,AB+,Mary Jackson,2021-06-26,Obesity,"Cardenas, and Fields Nichols",Blue Cross,2021-06-30,Ibuprofen,Inconclusive
+mOnIca wALKeR,49,Female,A-,Samantha Eaton,2021-02-10,Asthma,"Fisher Kirk, and Becker",Cigna,2021-02-16,Ibuprofen,Abnormal
+tERESa CampbELL,35,Female,A-,Brian Hobbs,2020-05-23,Obesity,Jenkins-Jackson,Cigna,2020-06-22,Lipitor,Abnormal
+frEDeriCK MCiNtOsh,45,Female,O+,Chris May,2020-09-23,Cancer,"Jackson Hammond and Garcia,",UnitedHealthcare,2020-10-16,Ibuprofen,Normal
+DeBRa hArriS,41,Male,A-,Mary Richardson,2023-06-23,Arthritis,Inc Miller,Blue Cross,2023-06-27,Penicillin,Abnormal
+ChAd GrEEn,77,Female,A+,David Moore,2021-10-21,Hypertension,LLC Smith,Medicare,2021-10-24,Aspirin,Abnormal
+TErRy mARTIn,66,Female,O+,Karen Oconnor,2022-09-27,Hypertension,Schroeder-Walker,Cigna,2022-10-05,Ibuprofen,Abnormal
+madISon PAlmEr,72,Female,A+,Tasha Meyer,2020-11-12,Arthritis,"Mcguire and Wheeler, Morris",Aetna,2020-12-09,Ibuprofen,Normal
+MIchaEl JONes,85,Female,A+,Jose Smith,2023-10-30,Asthma,Washington-Sanchez,Cigna,2023-11-25,Penicillin,Inconclusive
+mICHAEL nEwMAn,52,Male,A+,Janet Elliott,2022-01-20,Diabetes,Dawson-Baker,Medicare,2022-02-15,Paracetamol,Inconclusive
+LindSEY tURNeR,78,Male,B+,Paul Harding,2021-12-14,Cancer,LLC Perez,Aetna,2022-01-05,Lipitor,Abnormal
+NIcoLE HaLL,55,Female,A+,Mr. Zachary Williams,2022-04-13,Arthritis,Sons and Olson,Aetna,2022-04-22,Ibuprofen,Inconclusive
+LeSlie rotH,19,Male,B-,Troy Williams,2024-03-27,Obesity,Bell-Thomas,Blue Cross,2024-03-31,Penicillin,Inconclusive
+rOBert ROBeRtS,47,Male,A-,Dennis Cabrera,2024-03-18,Cancer,Thompson-Thomas,Cigna,2024-03-21,Aspirin,Inconclusive
+ERic TorRES,41,Female,B+,Cassidy Thompson,2023-01-06,Arthritis,"Kelly Johnson, Parker and",UnitedHealthcare,2023-01-28,Aspirin,Normal
+REbecCA moore,36,Female,O+,Michelle Perez,2019-09-03,Cancer,"Tanner Smith Miller, and",UnitedHealthcare,2019-09-05,Lipitor,Abnormal
+STEve goODMAN,77,Female,O+,Joy Lewis,2023-02-09,Asthma,"Johnson and Doyle, Collins",Blue Cross,2023-03-03,Paracetamol,Normal
+TErESa StRong,55,Male,B-,Candice Cardenas,2022-03-31,Hypertension,Inc Taylor,Blue Cross,2022-04-03,Aspirin,Normal
+BRaNdon SMiTh,50,Female,AB-,Melanie Cook,2019-12-15,Obesity,Inc Williams,Aetna,2020-01-05,Aspirin,Inconclusive
+MoNiCA WhITe,72,Female,AB-,Theodore Ramos,2022-03-12,Arthritis,King-Henry,UnitedHealthcare,2022-03-20,Ibuprofen,Abnormal
+saRa HARRIs,58,Male,AB+,Rodney Hall,2023-03-04,Diabetes,"Cruz and Hahn, Gibbs",Medicare,2023-03-14,Lipitor,Abnormal
+katHLEeN saNdovAl,76,Male,AB-,Sonya Miller,2019-08-25,Hypertension,"and Higgins Mckay, Cruz",Blue Cross,2019-09-23,Ibuprofen,Normal
+CAROLinE milleR,50,Female,AB-,Victoria Lara,2022-04-27,Obesity,Johnson-Mitchell,Aetna,2022-05-13,Aspirin,Normal
+JENnIfeR BAKEr,40,Male,AB+,Kelly Watson,2024-01-29,Diabetes,"Vincent, Walker Parsons and",Blue Cross,2024-02-26,Penicillin,Inconclusive
+KrIsTIna PAynE,38,Male,AB+,Kari Ramos,2021-03-13,Diabetes,Collins-Mcdonald,Cigna,2021-03-18,Penicillin,Inconclusive
+sTAcy jOnes,31,Male,AB+,Sydney Robbins,2023-11-28,Arthritis,Kelly-Tapia,UnitedHealthcare,2023-12-07,Ibuprofen,Abnormal
+MichaEl RaMoS,82,Male,AB-,Bobby Becker,2020-05-25,Asthma,Williams-Peterson,Aetna,2020-05-30,Lipitor,Inconclusive
+MichAEl MezA,25,Female,O+,Daniel Watkins,2022-02-01,Hypertension,LLC Merritt,UnitedHealthcare,2022-02-20,Lipitor,Normal
+rAndY sHAW,84,Female,B+,Karen Ramirez,2020-02-06,Diabetes,Ryan-Miller,Aetna,2020-02-08,Ibuprofen,Normal
+aNn sUllIVAn,28,Male,B-,Craig Cooper,2024-02-08,Obesity,Mcintosh-Cantu,Aetna,2024-03-08,Lipitor,Inconclusive
+Amy wHIte,70,Female,B+,Erin Oconnell,2023-02-09,Hypertension,PLC Hill,Medicare,2023-02-13,Lipitor,Normal
+nichOlAS SulLIvAN,63,Male,B+,Carlos Jennings,2020-12-15,Cancer,"and Perkins, Long Herring",Blue Cross,2020-12-23,Paracetamol,Abnormal
+jENniFER jOhnsON,70,Female,AB+,Kimberly Freeman,2024-02-29,Asthma,"Russell, and Barnett Williams",UnitedHealthcare,2024-03-16,Aspirin,Inconclusive
+jonAtHaN yOUNG,66,Female,B+,Mrs. Lisa Lucas DVM,2024-02-18,Hypertension,Lambert-Richardson,Medicare,2024-03-11,Penicillin,Inconclusive
+GLEnn RodrIgueZ,72,Female,A+,Rachel Wallace,2023-07-02,Hypertension,"Morgan, Stephenson and Frazier",Cigna,2023-07-17,Lipitor,Inconclusive
+chrisTOPhER HurSt,76,Female,AB+,Laura Washington,2020-05-30,Diabetes,"Taylor Reyes and Bowers,",Aetna,2020-06-19,Ibuprofen,Inconclusive
+patRIcK smITh,84,Male,AB-,Jamie Bright,2021-04-16,Asthma,PLC Gaines,Aetna,2021-04-17,Paracetamol,Inconclusive
+mArk LAne,53,Male,AB+,Paul Chen,2021-09-16,Hypertension,"and Neal Vargas, Welch",UnitedHealthcare,2021-10-15,Paracetamol,Abnormal
+aMANDa wIlson,31,Male,B-,Susan Clark,2021-07-23,Hypertension,Howe-Mitchell,UnitedHealthcare,2021-08-13,Ibuprofen,Abnormal
+cARrie ScoTt,67,Male,AB-,Cheryl Maxwell,2021-03-12,Arthritis,Becker LLC,Aetna,2021-04-07,Lipitor,Abnormal
+DaltoN TuCKEr,56,Male,A-,Thomas Harding,2019-05-26,Diabetes,Vargas-Walker,UnitedHealthcare,2019-06-18,Lipitor,Normal
+cyNTHiA willIams,25,Male,A-,Jessica Lawrence,2023-11-01,Obesity,Henderson-Cruz,Cigna,2023-11-19,Lipitor,Abnormal
+StevEn PRIcE,84,Female,AB+,Jose Strickland,2022-06-11,Hypertension,Holt-Hale,UnitedHealthcare,2022-06-15,Paracetamol,Inconclusive
+anNa ClEMENtS,80,Male,A-,Lee Richard,2022-03-11,Arthritis,"and Cohen Nelson, Davidson",Aetna,2022-04-09,Paracetamol,Inconclusive
+hEIdI BuCHanan,41,Male,A-,Margaret Booker,2023-04-03,Asthma,Brooks PLC,Blue Cross,2023-04-16,Paracetamol,Inconclusive
+aNneTte PruiTt,70,Female,A-,Jimmy Savage,2021-03-24,Obesity,and Sons Curry,Medicare,2021-04-11,Ibuprofen,Abnormal
+karI welLs,38,Female,AB+,Heather Fuller,2021-07-09,Obesity,Group Owens,Aetna,2021-07-26,Ibuprofen,Abnormal
+JAY galloWaY,74,Female,O+,Debra Everett,2021-01-20,Asthma,Group Peters,Blue Cross,2021-02-09,Ibuprofen,Abnormal
+cLiFfOrD lEe,32,Female,A-,Walter Jacobs,2020-05-22,Diabetes,"Vang, and Cook Moore",Cigna,2020-06-14,Paracetamol,Abnormal
+mELISSa nGuYen,29,Male,A-,Breanna Simmons,2022-09-19,Hypertension,Sons and Lewis,Aetna,2022-10-02,Lipitor,Inconclusive
+zaChaRY reED,77,Male,AB-,Matthew Harrison,2023-08-12,Arthritis,"Haynes Lopez and Simon,",Medicare,2023-08-17,Lipitor,Normal
+JUDY RUIz,56,Female,O+,Emily Molina,2020-08-09,Obesity,Walker Sons and,Medicare,2020-09-01,Aspirin,Inconclusive
+daVID bOwmAN,54,Female,O+,Pamela Williams,2023-06-19,Arthritis,"and Leon Anderson, Arnold",Cigna,2023-07-13,Ibuprofen,Inconclusive
+erICA STeVENS,77,Female,O+,Angela Garcia,2019-09-03,Asthma,Santana-Thomas,Cigna,2019-09-27,Penicillin,Inconclusive
+JoRDAN waRREn,21,Female,O+,Amy Nguyen,2022-10-16,Hypertension,Hayes Ltd,Cigna,2022-10-25,Aspirin,Abnormal
+lEE WHIte,36,Female,AB-,Kim Dean,2021-10-31,Asthma,Baker-Gill,Aetna,2021-11-26,Ibuprofen,Normal
+JULiE goNZalez,36,Male,B+,Curtis Hopkins,2022-08-19,Diabetes,Cook-Fischer,UnitedHealthcare,2022-09-10,Lipitor,Normal
+SuMmer heRmAN,32,Male,A-,Tara Robinson DDS,2023-08-09,Obesity,Garcia-Nichols,Cigna,2023-09-07,Aspirin,Abnormal
+anGeLa cOx,38,Female,O-,Kevin Green,2020-12-02,Asthma,LLC Baker,UnitedHealthcare,2020-12-16,Penicillin,Abnormal
+stevEn wILLIams,73,Male,AB-,Dr. Jennifer Weeks,2019-08-23,Cancer,Gallegos Ltd,Medicare,2019-09-02,Penicillin,Abnormal
+sUsan leE,79,Male,AB+,Joy Rojas,2021-09-14,Diabetes,"Nash Stevenson and Martinez,",UnitedHealthcare,2021-09-16,Aspirin,Inconclusive
+WILLiAm rODriGuez,55,Female,B-,Leslie Cook,2020-04-21,Cancer,Miller-Bell,Cigna,2020-05-21,Aspirin,Inconclusive
+mike mcbRIdE,58,Male,AB+,Ashley Petersen,2023-08-07,Asthma,"Gray and Harris, Oneal",Blue Cross,2023-08-28,Penicillin,Abnormal
+HEaTHeR cARtEr,61,Female,B+,Daniel Barnes,2020-07-13,Cancer,Ltd Carter,UnitedHealthcare,2020-07-29,Aspirin,Abnormal
+ELiZABeth iBaRrA,45,Male,B-,Tara Smith,2019-07-31,Asthma,Sons Hodges and,Blue Cross,2019-08-11,Paracetamol,Normal
+GRACE haWKinS,34,Female,O+,Jennifer Taylor,2022-05-11,Hypertension,Henderson and Sons,Medicare,2022-05-29,Paracetamol,Normal
+Kiara CLARk,31,Female,A-,Martin Arnold,2021-02-03,Cancer,"Frey and Leon Espinoza,",Cigna,2021-02-28,Aspirin,Inconclusive
+KImBeRLy wElcH,37,Female,AB-,Kerri Wright,2023-11-23,Diabetes,Barnett LLC,Aetna,2023-11-27,Ibuprofen,Abnormal
+JeFfREy baILey,48,Female,A+,Jonathan Fields,2023-01-31,Hypertension,Ramos-Simon,Aetna,2023-02-21,Paracetamol,Abnormal
+JOhN FoX,67,Male,A+,David Hayes,2024-04-20,Hypertension,Cook-Hurst,Cigna,2024-04-29,Paracetamol,Inconclusive
+sHAuN ACoSTa,78,Female,O+,Juan Andrews,2023-11-20,Cancer,Ramirez-Hebert,Cigna,2023-12-10,Lipitor,Normal
+RogER SOtO,42,Female,B-,Clifford Fuller,2019-07-05,Arthritis,"Frank Hernandez, Taylor and",Blue Cross,2019-07-24,Aspirin,Inconclusive
+hAnNaH bArton,61,Female,AB+,Kimberly Anderson,2019-06-02,Arthritis,Parker-Petersen,UnitedHealthcare,2019-06-19,Lipitor,Inconclusive
+ChrISTopheR CaSTIlLo,64,Male,B+,Nicholas Fuller,2020-04-06,Cancer,"Medina, Wright and Shaffer",Aetna,2020-04-11,Lipitor,Normal
+lARry SinGleTOn,31,Female,A-,Ryan Hall,2022-04-05,Diabetes,"and Grant Hamilton Edwards,",Medicare,2022-04-12,Ibuprofen,Normal
+THomaS DonAldson,79,Male,AB-,Keith Bates,2019-06-26,Obesity,PLC Hunt,Cigna,2019-07-21,Ibuprofen,Inconclusive
+tIMoTHY MEadOWs,80,Male,O-,Brenda Ramsey,2023-03-15,Cancer,"and Webb Robinson, Hicks",Blue Cross,2023-04-14,Aspirin,Abnormal
+DANiel brooKs,83,Male,AB-,Emma Kramer,2022-08-26,Hypertension,"Collins Woodward Martinez, and",Blue Cross,2022-09-05,Paracetamol,Abnormal
+TIm daVIs,27,Male,B+,Adrienne Rodriguez,2020-02-06,Hypertension,"Hale Garner, Schultz and",UnitedHealthcare,2020-02-18,Penicillin,Abnormal
+ThEREsa WrIGHt,30,Female,B-,Maurice Cox,2024-03-19,Asthma,Inc Anderson,Aetna,2024-03-26,Aspirin,Abnormal
+BrIAn dOWNS,39,Male,AB-,Daniel Smith,2022-07-07,Obesity,"Garcia Duncan Peters, and",Cigna,2022-07-14,Penicillin,Abnormal
+ThomAs LeE,41,Male,AB+,Aaron Manning,2024-01-19,Diabetes,"and English Sanders, Wilcox",Medicare,2024-02-08,Ibuprofen,Inconclusive
+CUrTis GArCia,78,Female,A-,Donna Jones,2022-01-13,Diabetes,Moore-Myers,Blue Cross,2022-02-03,Aspirin,Normal
+TaMMY rIveRs,25,Male,B-,Charles Daniel,2020-04-26,Cancer,and Reeves Sons,Medicare,2020-04-28,Paracetamol,Normal
+BRAnDON jOHnson,53,Male,AB+,Christian Arnold,2023-12-21,Asthma,"Walker, and Webb Morton",Cigna,2024-01-20,Aspirin,Abnormal
+PEter RichARDSON,22,Female,AB+,Christopher Zuniga,2020-01-04,Hypertension,"Thompson Ritter Austin, and",UnitedHealthcare,2020-01-19,Paracetamol,Inconclusive
+MRS. rAcHEL sPeNcER,65,Male,A+,Jeffrey Carr,2020-02-08,Arthritis,"and Moyer Powell, Padilla",Cigna,2020-02-14,Penicillin,Abnormal
+chrISTOpheR GReEn,37,Female,AB-,Sean White,2022-04-29,Diabetes,Nelson-Edwards,Medicare,2022-05-13,Paracetamol,Normal
+wILLiAm SIms,25,Female,B+,Kurt Scott,2020-04-05,Arthritis,LLC English,Cigna,2020-04-20,Ibuprofen,Inconclusive
+LISA BooKeR,62,Female,O+,Robert Johnson,2019-12-02,Arthritis,Jones-Lee,UnitedHealthcare,2019-12-09,Aspirin,Inconclusive
+BoNnie bUckLey,38,Male,A-,Zachary Crawford,2021-03-19,Asthma,Reed-Medina,UnitedHealthcare,2021-04-08,Penicillin,Abnormal
+EliZAbeTh MicHAeL,58,Female,B-,Jasmine Zimmerman,2023-10-07,Asthma,Inc Stevens,Medicare,2023-10-08,Ibuprofen,Inconclusive
+JASOn Lynch,44,Male,A+,Christopher Stokes,2021-09-10,Obesity,"Rodriguez and Becker Holmes,",Cigna,2021-10-08,Aspirin,Normal
+aMBER ORtiz,62,Male,O+,Charles Moore,2021-10-14,Asthma,"Jacobs Owens Smith, and",Blue Cross,2021-10-29,Ibuprofen,Normal
+sUsaN LynCh,46,Female,AB+,Brenda White,2023-10-24,Diabetes,Davis-Nguyen,Medicare,2023-10-29,Lipitor,Inconclusive
+ANdRew WaLsH,29,Male,B-,Steven Mills,2022-12-28,Arthritis,"Moore Cooper, Wilson and",Aetna,2023-01-15,Paracetamol,Abnormal
+maRy beLl,35,Female,O+,Dorothy Simmons,2023-12-31,Diabetes,"and Salazar, Gonzales Jones",Blue Cross,2024-01-04,Paracetamol,Abnormal
+mOniCA JameS,46,Female,B+,Theresa Martin,2022-02-07,Asthma,Hunt Inc,Cigna,2022-02-23,Paracetamol,Normal
+aMY OsBorNE,85,Male,A+,Steve Hood,2020-06-12,Hypertension,PLC Cox,Medicare,2020-06-14,Ibuprofen,Inconclusive
+zaCHaRy riCE,37,Female,AB-,Darlene Mills,2022-10-16,Diabetes,"Welch Carr and Kennedy,",UnitedHealthcare,2022-10-28,Paracetamol,Abnormal
+AnTHony JoNeS,62,Female,AB-,Maria Morales,2022-01-11,Cancer,Group Stein,Medicare,2022-01-15,Lipitor,Normal
+ChrISTiNA burNS,45,Female,B+,John King,2022-11-13,Asthma,Taylor Inc,Blue Cross,2022-11-16,Ibuprofen,Normal
+kAtheriNe bass,33,Male,O-,Nicole Parker,2022-07-24,Arthritis,Kidd Inc,Aetna,2022-08-14,Penicillin,Abnormal
+clAUDIa tyLER,44,Female,AB+,Adrienne Matthews,2019-06-25,Obesity,"Hurst, Thompson and Walls",Medicare,2019-07-10,Lipitor,Normal
+RObERT edWArds,29,Female,AB-,Thomas Miranda,2020-06-19,Asthma,Black-Stevens,Aetna,2020-07-08,Ibuprofen,Normal
+JILL sErRaNO,35,Female,AB+,Jill Nelson,2020-02-06,Diabetes,"Collins and Murray Taylor,",UnitedHealthcare,2020-02-24,Ibuprofen,Inconclusive
+tRoY goULd,45,Female,A+,Kimberly Malone,2023-12-17,Hypertension,"Wilson Whitney Henderson, and",UnitedHealthcare,2024-01-12,Paracetamol,Normal
+John HOBbS,49,Female,B-,Destiny Nichols,2022-08-05,Cancer,"Vaughan, Adams and Garcia",Blue Cross,2022-08-11,Penicillin,Abnormal
+MArK hUnteR,39,Male,O+,Michael Johnson,2020-09-28,Asthma,Vazquez and Sons,UnitedHealthcare,2020-10-05,Paracetamol,Inconclusive
+ChRistiNa MiLLeR,80,Male,O+,Mark Ewing,2020-09-16,Obesity,"Aguilar Mullins and Schmidt,",Cigna,2020-10-13,Ibuprofen,Abnormal
+aNDReA torReS,80,Female,A-,Michael Collins,2020-01-27,Hypertension,Rivera-Norton,Aetna,2020-02-21,Penicillin,Inconclusive
+christiaN WAShINGTON md,51,Male,A-,Angelica Chavez,2020-06-11,Asthma,"Williams, and Howard Meyer",Medicare,2020-06-16,Paracetamol,Normal
+CHRIstOphER ChARleS,70,Female,B-,Cassandra Knight,2019-12-04,Arthritis,Robbins-Wiggins,Blue Cross,2020-01-02,Lipitor,Normal
+saRA hall,68,Male,A+,Lisa Davenport,2020-12-05,Diabetes,"and Hess, Nguyen Everett",Medicare,2020-12-18,Ibuprofen,Inconclusive
+JOsHua PATeL,49,Male,A-,Donna Brown,2021-05-22,Cancer,Holland-Brown,Aetna,2021-06-08,Aspirin,Normal
+BrianNa MoreNo,54,Female,O+,Christopher Jones,2022-06-02,Asthma,Santiago PLC,UnitedHealthcare,2022-06-07,Aspirin,Inconclusive
+Jenna TURneR,81,Male,B-,Elizabeth Mccoy,2022-07-31,Arthritis,Hensley-Shepard,Blue Cross,2022-08-22,Ibuprofen,Inconclusive
+JEFFrEY Long,55,Female,B+,Desiree Thornton,2019-08-16,Obesity,Maldonado-White,Blue Cross,2019-09-05,Aspirin,Normal
+aLexANdeR bISHoP,34,Male,AB-,Scott York,2022-02-08,Diabetes,"Mcmahon, and Steele Rose",Medicare,2022-03-03,Ibuprofen,Inconclusive
+jOhN YOUng,22,Male,A+,Lauren Mendoza,2021-03-23,Diabetes,"Holmes, Vasquez Sanchez and",Medicare,2021-04-22,Penicillin,Abnormal
+HEathEr sancheZ,74,Male,A+,Stephanie Brown,2021-02-17,Cancer,Hall-Johnson,Blue Cross,2021-02-18,Aspirin,Abnormal
+AmanDa WHitE,72,Female,O+,Janet Pratt,2019-06-01,Diabetes,PLC Jacobs,Cigna,2019-06-18,Paracetamol,Inconclusive
+bruCE cox,75,Female,A+,Sara Page,2020-09-24,Obesity,Williams-Hill,Cigna,2020-09-26,Penicillin,Inconclusive
+gEoRGE WolFe,63,Male,B-,Thomas Gonzalez,2019-08-01,Cancer,Petty Ltd,UnitedHealthcare,2019-08-26,Ibuprofen,Normal
